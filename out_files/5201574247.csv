@@ -1,0 +1,306 @@
+PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,327001 Abdirassak Yousuf,Scaffolder JM,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Nov 7, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Nov 8, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Nov 9, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,334816 Derek Wilson,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,347424 Murali Balivada,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,347432 Dan Bazylo,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 4, 2022",Overtime,4.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 5, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 8, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 12, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 13, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 14, 2022",Regular,10.00
+4501097370,5,347518 Elvis Cullimore,Industrial Labourer Skilled,"Dec 15, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 4, 2022",Overtime,6.50
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 8, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,347536 William Deng,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 5, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 8, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 9, 2022",Overtime,3.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 12, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 13, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 14, 2022",Regular,10.00
+4501097370,5,347537 Chris Denney,Industrial Labourer Skilled,"Dec 15, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,347547 Casey Dongworth,Pipefitter Journeyman,"Dec 15, 2022",Regular,9.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 4, 2022",Overtime,6.50
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 5, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 6, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 7, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 8, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 8, 2022",Overtime,2.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 12, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 13, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 14, 2022",Regular,10.00
+4501097370,5,347553 Marc Dudman,Crew Foreman - Non-Compulsory,"Dec 15, 2022",Regular,10.00
+4501097370,5,347608 Nicholas Gillingham,Crew Foreman - Compulsory,"Dec 12, 2022",Regular,10.00
+4501097370,5,347608 Nicholas Gillingham,Pipefitter Journeyman,"Dec 13, 2022 Regular",Regular,10.00
+4501097370,5,347608 Nicholas Gillingham,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,347608 Nicholas Gillingham,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 5, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 7, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 8, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 12, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 13, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 14, 2022",Regular,10.00
+4501097370,5,347620 Colton Gosselin,Crew Foreman - Compulsory,"Dec 15, 2022",Regular,10.00
+4501097370,5,347716 Bobbi Kamps,Crew Foreman - Non-Compulsory,"Dec 8, 2022",Overtime,2.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 7, 2022 Regular",Regular,10.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 8, 2022",Regular,10.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+4501097370,5,347722 Patrick Keith,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 4, 2022",Overtime,6.50
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 5, 2022 Regular",Overtime,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 6, 2022",Overtime,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 7, 2022",Overtime,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 8, 2022",Overtime,7.50
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,347836 Lance McLeod,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,347912 Jeremy Page,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,347966 Donald Reaney,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 4, 2022",Overtime,6.50
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 6, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Overtime,2.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 12, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 13, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 14, 2022",Regular,10.00
+4501097370,5,347978 Guy Richard,Scaffolder AP 2 YR (80%),"Dec 15, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,General FM - Compulsory,"Dec 5, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,General FM - Compulsory,"Dec 7, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,General FM - Compulsory,"Dec 8, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,General FM - Compulsory,"Dec 9, 2022",Overtime,3.00
+4501097370,5,348113 Dallan Wieliczko,Crew Foreman - Compulsory,"Dec 12, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,Crew Foreman - Compulsory,"Dec 13, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,Crew Foreman - Compulsory,"Dec 14, 2022",Regular,10.00
+4501097370,5,348113 Dallan Wieliczko,Crew Foreman - Compulsory,"Dec 15, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,348149 John Tucker,Pipefitter Journeyman,"Dec 15, 2022",Regular,7.50
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,349073 Peter Cheralley,Insulator Journeyman,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,349444 Celeste Njusi,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,349444 Celeste Njusi,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,349444 Celeste Njusi,Pipefitter Journeyman,"Dec 7, 2022",Regular,2.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 6, 2022",Subsistence,125.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+4501097370,5,349553 Ellison Hipikuruka,Scaffolder JM,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 8, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 5, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 7, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 12, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 13, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 13, 2022",Regular,10.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 15, 2022",Regular,8.00
+4501097370,5,349885 Phil Wolfram,Crew Foreman - Compulsory,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,351634 Michael Mitchell,General FM - Compulsory,"Dec 5, 2022",Regular,10.00
+4501097370,5,351634 Michael Mitchell,General FM - Compulsory,"Dec 7, 2022",Regular,10.00
+4501097370,5,351634 Michael Mitchell,General FM - Compulsory,"Dec 8, 2022",Regular,6.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 5, 2022",Regular,10.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 7, 2022",Regular,10.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 8, 2022",Regular,10.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 9, 2022",Overtime,3.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 12, 2022",Regular,10.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 13, 2022",Regular,10.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 14, 2022",Regular,8.00
+4501097370,5,353956 Coen Baumgardt,Industrial Labourer Semi Skill,"Dec 15, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 5, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 7, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 8, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 13, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 14, 2022",Regular,10.00
+4501097370,5,354697 Mike Reyda,Pipefitter AP 3.0 YR,"Dec 15, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,355159 Manolo Masculino,Pipefitter Journeyman,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,355446 Isaac Ojeme,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,355446 Isaac Ojeme,Scaffolder JM,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 5, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 7, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 8, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 12, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 13, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 14, 2022",Regular,10.00
+4501097370,5,356202 Wahid Ishaqzada,Industrial Labourer Semi Skill,"Dec 15, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 6, 2022",Subsistence,125.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,358328 Christopher Campbell,Scaffolder JM,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,358498 Jen Walker,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,358498 Jen Walker,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 6, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 8, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+4501097370,5,358500 Randy Bergh,Scaffolder JM,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 8, 2022",Overtime,3.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 9, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,359062 Brandyn Darr,Pipefitter Journeyman,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes Pipefitter Journeyman,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes Pipefitter Journeyman,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+4501097370,5,359505 Ernesto Reyes,Pipefitter Journeyman,"Dec 15, 2022",Subsistence,125.00
+4501097370,5,360210 Courtney Lussier,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+4501097370,5,360210 Courtney Lussier,Scaffolder JM,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,360211 Kavi Tjiho,Scaffolder AP 2 YR (80%),"Dec 13, 2022",Regular,10.00
+4501097370,5,360211 Kavi Tjiho,Scaffolder AP 2 YR (80%),"Dec 12, 2022",Subsistence,125.00
+4501097370,5,360211 Kavi Tjiho,Scaffolder AP 2 YR (80%),"Dec 12, 2022",Regular,10.00
+4501097370,5,360211 Kavi Tjiho,Scaffolder AP 2 YR (80%),"Dec 13, 2022",Subsistence,125.00
+4501097370,5,360211 Kavi Tjiho Scaffolder AP 2 YR (80%),Scaffolder AP 2 YR (80%),"Dec 14, 2022",Regular,10.00
+4501097370,5,360211 Kavi Tjiho,Scaffolder AP 2 YR (80%),"Dec 14, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 14, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 5, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 6, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 6, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 8, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell Scaffolder AP 3 YR (90%),Scaffolder AP 2 YR (80%),"Dec 12, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 13, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 13, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 14, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 14, 2022",Subsistence,125.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 15, 2022",Regular,10.00
+4501097370,5,360456 Carter Campbell,Scaffolder AP 3 YR (90%),"Dec 15, 2022",Subsistence,125.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Regular,10.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Subsistence,125.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 6, 2022",Regular,10.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 6, 2022",Subsistence,125.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Regular,10.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Subsistence,125.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Regular,10.00
+4501097370,5,360550 Raunguka Muniondjo,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Nov 22, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 5, 2022",Regular,5.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 7, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 8, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 12, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 12, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 13, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 13, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 14, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 14, 2022",Subsistence,125.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 15, 2022",Regular,10.00
+4501097370,5,360723 Benjamin Weston,Industrial Labourer Skilled,"Dec 15, 2022",Subsistence,125.00
