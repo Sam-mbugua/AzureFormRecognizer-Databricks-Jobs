@@ -76,7 +76,7 @@ def form_recognizer_input(file):
 def json_form_recognizer_load(returned_url):
     apim_key = "13a22a02075145e5ac378bdfe7725892"
     
-    n_tries = 20
+    n_tries = 40
     n_try = 0
     wait_sec = 10
     resp_json = ""
@@ -138,9 +138,12 @@ def json_form_recognizer_extract(resp_json,page):
 
 #clean each dataframe
 def prep_form_recognizer_table4(df4):
-    
     #Replace empty string with None for all columns
     df4 = df4.replace(r'^\s*$', np.nan, regex=True)
+    
+    #some pages have an empty row at the top. Remove it
+    if df4.isnull().sum(axis=1)[0] == len(pandas_df4.columns):
+        df4 = df4.drop([0]).reset_index(drop=True)
 
     # if second last column has > 55% Nulls 
     # coalesce with third last column and drop it
@@ -347,6 +350,174 @@ print(pd.to_numeric(df_res['Quantity']).sum())
 #feed all files into Form Recognizer
 tif_files = ["5201571527"]
 pages = [4]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    returned_url = form_recognizer_input(file)
+    resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201546855
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201546855"]
+pages = [4,5]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    returned_url = form_recognizer_input(file)
+    resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201553399
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201553399"]
+pages = [4]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    returned_url = form_recognizer_input(file)
+    resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201553458
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201553458"]
+pages = [4]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    returned_url = form_recognizer_input(file)
+    resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201553471
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201553471"]
+pages = [4]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    #returned_url = form_recognizer_input(file)
+    #resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+pd.to_numeric(df_res['Quantity'][1:]).sum()
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201554521
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201554521"]
+pages = [4,5,6,7,8,9,10,11,12,13,14]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    returned_url = form_recognizer_input(file)
+    resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201554043
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201554043"]
+pages = [4,5,6,7,8,9]
+df_res = pd.DataFrame() 
+    
+for file in tif_files:
+    #returned_url = form_recognizer_input(file)
+    #resp_json = json_form_recognizer_load(returned_url)
+    for page in pages:
+        pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        df = prep_form_recognizer_table4(pandas_df4)
+        df_res = df_res.append(df, ignore_index=True)
+display(df_res)
+
+# COMMAND ----------
+
+print(pd.to_numeric(df_res['Quantity']).sum())
+
+# COMMAND ----------
+
+# MAGIC %md ###File 5201461569
+
+# COMMAND ----------
+
+#feed all files into Form Recognizer
+tif_files = ["5201461569"]
+pages = [4,5,6,7,8,9,10]
 df_res = pd.DataFrame() 
     
 for file in tif_files:
