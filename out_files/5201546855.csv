@@ -1,0 +1,45 @@
+,PURCHASE ORDER,LINE #,WORK ORDER #,Work Date,Resource,Description,Bill Type,Quantity
+0,4501097311,65,6896910,"Aug 15, 2022",0500174 -'12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,2.00
+1,,,6896910,"Aug 16, 2022",0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,5.00
+2,,,6896910,,45349 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly,10.00
+3,,,6896910,"Aug 18, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly,10.00
+4,,,6896910,,0500163 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+5,,,6896910,,0500169 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+6,,,6896910,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+7,,,6896910,,0500218 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+8,,,6896910,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly,10.00
+9,,,6896910,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly,10.00
+10,,,6896910,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly,5.00
+11,,,6896910,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly,10.00
+12,,,6896910,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly,5.00
+13,,,6896910,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly,10.00
+14,,,6896910,"Aug 22, 2022",0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+15,,,6896910,,0500163 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+16,,,6896910,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,5.00
+17,,,6896910,,0500218 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+18,,,6896910,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly,10.00
+19,,,6896910,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly,10.00
+20,,,6896910,,45347 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly,5.00
+21,,,6896910,"Aug 23, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly,10.00
+22,,,6896910,,0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+23,,,6896910,,0500163 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+24,,,6896910,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,5.00
+25,,,6896910,,0500225 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+26,,,6896910,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly,10.00
+27,,,6896910,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly,10.00
+28,,,6896910,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly,5.00
+29,,,6896910,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly,10.00
+30,,,6896910,,45347 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly,5.00
+31,,,6896910,"Aug 24, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly,10.00
+32,,,6896910,,0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+33,,,6896910,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,5.00
+34,,,6896910,,0500180 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+35,,,6896910,,0500225 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+36,,,6896910,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly,10.00
+37,,,6896910,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly,10.00
+38,,,6896910,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly,5.00
+39,,,6896910,,45347 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly,10.00
+40,,,6896910,"Aug 25, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly,10.00
+41,4501097311,,6896910,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,5.00
+42,,,6896910,,0500180 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly,10.00
+43,,,6896910,,45347 - TRACKSTEER TAKEUCHI TL1,Usage of Track Skidsteer 2101-,Hourly,10.00

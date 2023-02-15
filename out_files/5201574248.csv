@@ -1,0 +1,230 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,6,347418 Chad Avery,Pipefitter AP 1.0 YR,"Dec 12, 2022",Regular,10.00
+1,,,347418 Chad Avery,Pipefitter AP 1.0 YR,"Dec 13, 2022",Regular,10.00
+2,,,347418 Chad Avery,Pipefitter AP 1.0 YR,"Dec 14, 2022",Regular,10.00
+3,,,347418 Chad Avery,Pipefitter AP 1.0 YR,"Dec 15, 2022",Regular,10.00
+4,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 5, 2022",Regular,10.00
+5,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 6, 2022",Regular,8.00
+6,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 7, 2022",Regular,10.00
+7,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 8, 2022",Regular,7.00
+8,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 12, 2022",Regular,10.00
+9,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 13, 2022",Regular,7.00
+10,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 14, 2022",Regular,10.00
+11,,,347515 Sasha Crowder,Crew Foreman - Labourer,"Dec 15, 2022",Regular,8.00
+12,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 5, 2022",Regular,10.00
+13,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 6, 2022",Regular,10.00
+14,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 8, 2022",Regular,10.00
+15,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 12, 2022",Regular,10.00
+16,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 13, 2022",Regular,10.00
+17,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 14, 2022",Regular,10.00
+18,,,347546 Tim Donald,Crew Foreman - Non-Compulsory,"Dec 15, 2022",Regular,10.00
+19,,,347585 William Flinn,Pipefitter Journeyman,"Dec 6, 2022",Regular,10.00
+20,,,347585 William Flinn,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+21,,,347585 William Flinn,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+22,,,347585 William Flinn,Pipefitter Journeyman,"Dec 12, 2022",Regular,7.50
+23,,,347585 William Flinn,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+24,,,347585 William Flinn,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+25,,,347585 William Flinn,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+26,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 4, 2022",Overtime,4.00
+27,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 5, 2022",Regular,10.00
+28,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 6, 2022",Regular,10.00
+29,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 7, 2022",Regular,10.00
+30,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 8, 2022",Regular,10.00
+31,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 12, 2022",Regular,10.00
+32,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 13, 2022",Regular,10.00
+33,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 14, 2022",Regular,10.00
+34,,,347721 Ryan Keeley,Crew Foreman - Compulsory,"Dec 15, 2022",Regular,10.00
+35,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 5, 2022",Regular,10.00
+36,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 6, 2022",Regular,10.00
+37,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+38,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 8, 2022",Regular,10.00
+39,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 12, 2022",Regular,10.00
+40,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 13, 2022",Regular,10.00
+41,,,347737 Zdena Kolaja,Industrial Labourer Skilled,"Dec 14, 2022",Regular,10.00
+42,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 5, 2022",Regular,10.00
+43,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 6, 2022",Regular,10.00
+44,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 7, 2022",Regular,10.00
+45,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 8, 2022",Regular,10.00
+46,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 12, 2022",Regular,10.00
+47,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 13, 2022",Regular,7.00
+48,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 14, 2022",Regular,10.00
+49,,,347802 Dennis Maclean,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+50,,,347886 Murray Naismith,Insulator Journeyman,"Dec 5, 2022",Regular,10.00
+51,,,347886 Murray Naismith,Insulator Journeyman,"Dec 6, 2022",Regular,10.00
+52,,,347886 Murray Naismith,Insulator Journeyman,"Dec 7, 2022",Regular,10.00
+53,,,347886 Murray Naismith,Insulator Journeyman,"Dec 8, 2022",Regular,10.00
+54,,,347886 Murray Naismith,Insulator Journeyman,"Dec 12, 2022",Regular,10.00
+55,,,347886 Murray Naismith,Insulator Journeyman,"Dec 13, 2022",Regular,10.00
+56,,,347886 Murray Naismith,Insulator Journeyman,"Dec 14, 2022",Regular,10.00
+57,,,347886 Murray Naismith,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+58,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+59,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 6, 2022",Regular,10.00
+60,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+61,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+62,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+63,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+64,,,347905 Darcy Orom,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+65,,,347998 Roy Saunders,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+66,,,347998 Roy Saunders,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+67,,,347998 Roy Saunders,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+68,,,347998 Roy Saunders,Scaffolder JM,"Dec 8, 2022",Regular,10.00
+69,,,347998 Roy Saunders,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+70,,,347998 Roy Saunders,Scaffolder JM,"Dec 13, 2022",Regular,10.00
+71,,,347998 Roy Saunders,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+72,,,347998 Roy Saunders,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+73,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 5, 2022",Regular,10.00
+74,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 6, 2022",Regular,10.00
+75,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 7, 2022",Regular,10.00
+76,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 8, 2022",Regular,10.00
+77,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 12, 2022",Regular,10.00
+78,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 13, 2022",Regular,10.00
+79,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 14, 2022",Regular,10.00
+80,,,348136 James Young,Crew Foreman - Non-Compulsory,"Dec 15, 2022",Regular,10.00
+81,,,348151 Len Alaric,Scaffolder JM,"Dec 5, 2022",Regular,10.00
+82,,,348151 Len Alaric,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+83,,,348151 Len Alaric,Scaffolder JM,"Dec 7, 2022",Regular,10.00
+84,,,348151 Len Alaric,Scaffolder JM,"Dec 8, 2022",Regular,10.00
+85,,,348151 Len Alaric,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+86,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+87,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 5, 2022",Subsistence,125.00
+88,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 6, 2022",Regular,10.00
+89,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 6, 2022",Subsistence,125.00
+90,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+91,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+92,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 8, 2022",Regular,10.00
+93,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+94,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+95,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+96,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+97,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+98,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+99,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+100,,,349015 Kenneth Lay,Pipefitter Journeyman,"Dec 15, 2022",Regular,10.00
+101,,,349015 Kenneth Lay,Pipefitter Journeyman,,Subsistence,125.00
+102,,,349444 Celeste Njusi,Pipefitter Journeyman,,Regular,8.00
+103,,,349444 Celeste Njusi,Pipefitter Journeyman,"Dec 7, 2022",Subsistence,125.00
+104,,,349444 Celeste Njusi,Pipefitter Journeyman,"Dec 8, 2022",Regular,6.00
+105,,,349444 Celeste Njusi,Pipefitter Journeyman,,Subsistence,125.00
+106,,,349625 Tyler Tennant,Scaffolder JM,,Regular,10.00
+107,,,349625 Tyler Tennant,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+108,,,349625 Tyler Tennant,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+109,,,349625 Tyler Tennant,Scaffolder JM,,Subsistence,125.00
+110,,,349625 Tyler Tennant,Scaffolder JM,,Regular,10.00
+111,,,349625 Tyler Tennant,Scaffolder JM,"Dec 7, 2022",Subsistence,125.00
+112,,,349625 Tyler Tennant,Scaffolder JM,,Regular,10.00
+113,,,349625 Tyler Tennant,Scaffolder JM,"Dec 8, 2022",Subsistence,125.00
+114,,,349625 Tyler Tennant,Scaffolder JM,,Regular,10.00
+115,,,349625 Tyler Tennant,Scaffolder JM,"Dec 12, 2022",Subsistence,125.00
+116,,,349625 Tyler Tennant,Scaffolder JM,,Regular,10.00
+117,,,349625 Tyler Tennant,Scaffolder JM,"Dec 13, 2022",Subsistence,125.00
+118,,,349625 Tyler Tennant,Scaffolder JM,"Dec 14, 2022",Regular,10.00
+119,,,349625 Tyler Tennant,Scaffolder JM,"Dec 14, 2022",Subsistence,125.00
+120,,,349625 Tyler Tennant,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+121,,,349625 Tyler Tennant,Scaffolder JM,,Subsistence,125.00
+122,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 5, 2022",Regular,5.00
+123,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 6, 2022",Regular,10.00
+124,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 7, 2022",Regular,10.00
+125,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 8, 2022",Regular,10.00
+126,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 12, 2022",Regular,10.00
+127,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 13, 2022",Regular,10.00
+128,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 14, 2022",Regular,10.00
+129,,,353723 Jess Pugh,Industrial Labourer Skilled,"Dec 15, 2022",Regular,10.00
+130,,,357032 Steven McGie,Scaffolder JM,,Regular,10.00
+131,,,357032 Steven McGie,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+132,,,357032 Steven McGie,Scaffolder JM,"Dec 6, 2022",Regular,10.00
+133,,,357032 Steven McGie,Scaffolder JM,,Subsistence,125.00
+134,,,357032 Steven McGie,Scaffolder JM,,Regular,10.00
+135,,,357032 Steven McGie,Scaffolder JM,"Dec 7, 2022",Subsistence,125.00
+136,,,357032 Steven McGie,Scaffolder JM,,Regular,10.00
+137,,,357032 Steven McGie,Scaffolder JM,"Dec 8, 2022",Subsistence,125.00
+138,,,357032 Steven McGie,Scaffolder JM,"Dec 12, 2022",Regular,10.00
+139,,,357032 Steven McGie,Scaffolder JM,,Subsistence,125.00
+140,,,357032 Steven McGie,Scaffolder JM,,Regular,10.00
+141,,,357032 Steven McGie,Scaffolder JM,"Dec 13, 2022",Subsistence,125.00
+142,,,357032 Steven McGie,Scaffolder JM,,Regular,10.00
+143,,,357032 Steven McGie,Scaffolder JM,"Dec 14, 2022",Subsistence,125.00
+144,,,357032 Steven McGie,Scaffolder JM,"Dec 15, 2022",Regular,10.00
+145,,,357032 Steven McGie,Scaffolder JM,,Subsistence,125.00
+146,,,357985 Scott Wall,Pipefitter Journeyman,"Dec 4, 2022",Overtime,3.00
+147,,,357985 Scott Wall,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+148,,,357985 Scott Wall,Pipefitter Journeyman,"Dec 6, 2022",Regular,10.00
+149,,,357985 Scott Wall,,"Dec 7, 2022",Regular,10.00
+150,,,357985 Scott Wall,,"Dec 8, 2022",Regular,10.00
+151,,,357985 Scott Wall,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+152,,,357985 Scott Wall,,"Dec 13, 2022",Regular,10.00
+153,,,357985 Scott Wall,,"Dec 14, 2022",Regular,10.00
+154,,,357985 Scott Wall,,"Dec 15, 2022",Regular,10.00
+155,,,358532 Kyle Parsons,Scaffolder JM,,Regular,10.00
+156,,,358532 Kyle Parsons,Scaffolder JM,"Dec 5, 2022",Subsistence,125.00
+157,,,358532 Kyle Parsons,Scaffolder JM,,Regular,10.00
+158,,,358532 Kyle Parsons,Scaffolder JM,"Dec 6, 2022",Subsistence,125.00
+159,,,358532 Kyle Parsons,Scaffolder JM,,Regular,10.00
+160,,,358532 Kyle Parsons,Scaffolder JM,"Dec 7, 2022",Subsistence,125.00
+161,,,358532 Kyle Parsons,Scaffolder JM,,Regular,10.00
+162,,,358532 Kyle Parsons,Scaffolder JM,"Dec 8, 2022",Subsistence,125.00
+163,,,358532 Kyle Parsons,Scaffolder JM,,Regular,10.00
+164,,,358532 Kyle Parsons,Scaffolder JM,"Dec 12, 2022",Subsistence,125.00
+165,,,358691 Tom Teckle,,"Dec 5, 2022",Subsistence,125.00
+166,,,358691 Tom Teckle,,"Dec 6, 2022",Subsistence,125.00
+167,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),,Regular,10.00
+168,,,358691 Tom Teckle,,"Dec 7, 2022",Subsistence,125.00
+169,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),,Regular,10.00
+170,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Subsistence,125.00
+171,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),"Dec 13, 2022",Regular,10.00
+172,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+173,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),"Dec 14, 2022",Regular,10.00
+174,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+175,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),"Dec 15, 2022",Regular,10.00
+176,,,358691 Tom Teckle,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+177,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Regular,10.00
+178,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+179,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 6, 2022",Regular,10.00
+180,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+181,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Regular,10.00
+182,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+183,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Regular,10.00
+184,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+185,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 13, 2022",Regular,10.00
+186,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+187,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 14, 2022",Regular,10.00
+188,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+189,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),"Dec 15, 2022",Regular,10.00
+190,,,358752 Filmon Afewerki Weldemichael,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+191,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 5, 2022",Regular,10.00
+192,,,359680 Peter Fewer,Pipefitter Journeyman,,Subsistence,125.00
+193,,,359680 Peter Fewer,Pipefitter Journeyman,,Regular,10.00
+194,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 6, 2022",Subsistence,125.00
+195,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 7, 2022",Regular,10.00
+196,,,359680 Peter Fewer,Pipefitter Journeyman,,Subsistence,125.00
+197,,,359680 Peter Fewer,Pipefitter Journeyman,,Regular,10.00
+198,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 8, 2022",Subsistence,125.00
+199,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 12, 2022",Regular,10.00
+200,,,359680 Peter Fewer,Pipefitter Journeyman,,Subsistence,125.00
+201,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 13, 2022",Regular,10.00
+202,,,359680 Peter Fewer,Pipefitter Journeyman,,Subsistence,125.00
+203,,,359680 Peter Fewer,Pipefitter Journeyman,"Dec 14, 2022",Regular,10.00
+204,,,359680 Peter Fewer,Pipefitter Journeyman,,Subsistence,125.00
+205,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),"Dec 5, 2022",Regular,10.00
+206,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+207,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),"Dec 6, 2022",Regular,10.00
+208,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+209,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),"Dec 7, 2022",Regular,10.00
+210,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+211,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),"Dec 8, 2022",Regular,10.00
+212,,,360497 Imelda Muramba,Scaffolder AP 2 YR (80%),,Subsistence,125.00
+213,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 5, 2022",Regular,10.00
+214,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+215,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 6, 2022",Regular,10.00
+216,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+217,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 7, 2022",Regular,10.00
+218,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+219,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 8, 2022",Regular,10.00
+220,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+221,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 12, 2022",Regular,10.00
+222,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+223,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 13, 2022",Regular,10.00
+224,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+225,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 14, 2022",Regular,10.00
+226,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00
+227,,,360530 Tim Nowlan,Insulator Journeyman,"Dec 15, 2022",Regular,10.00
+228,,,360530 Tim Nowlan,Insulator Journeyman,,Subsistence,125.00

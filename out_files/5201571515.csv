@@ -1,0 +1,54 @@
+,PURCHASE ORDER,LINE #,WORK ORDER #,Work Date,Resource,Description,Bill Type,Quantity
+0,4501097311,150,6910111,"Nov 23, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly - Workin,10.00
+1,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+2,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,5.00
+3,,,6910111,"Nov 24, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly - Workin,10.00
+4,,,6910111,,0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+5,,,6910111,,0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+6,,,6910111,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Workin,10.00
+7,,,6910111,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Workin,8.00
+8,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+9,,,6910111,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+10,,,6910111,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+11,,,6910111,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+12,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,8.00
+13,,,6910111,"Nov 28, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly - Workin,10.00
+14,,,6910111,,0500180 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+15,,,6910111,,0500225 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+16,,,6910111,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Workin,9.00
+17,,,6910111,,0520152 - 1 TON '15 FORD F350 CC,C|Usage of Truck 1 Ton,Hourly - Workin,10.00
+18,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+19,,,6910111,,349995 Chianne Amthor,Labourer (level 3),Regular,9.00
+20,,,6910111,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+21,,,6910111,,353433 Kyle Duffin,Equipment Operator - Grader,Regular,10.00
+22,,,6910111,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+23,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,10.00
+24,,,6910111,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Workin,10.00
+25,,,6910111,"Nov 29, 2022",03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly - Workin,10.00
+26,,,6910111,,0500180 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+27,,,6910111,,0500225 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+28,,,6910111,,0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Workin,5.00
+29,,,6910111,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Workin,10.00
+30,,,6910111,,0520152 - 1 TON '15 FORD F350 CC C|,Usage of Truck 1 Ton,Hourly - Workin,10.00
+31,,,6910111,,347185 Rob Mcgonigal,Operator Foreman,Regular,5.00
+32,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+33,,,6910111,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+34,,,6910111,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+35,,,6910111,,353433 Kyle Duffin,Equipment Operator - Grader,Regular,10.00
+36,,,6910111,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+37,,,6910111,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Workin,5.00
+38,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,5.00
+39,,,6910111,"Nov 30, 2022",0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+40,,,6910111,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Workin,10.00
+41,,,6910111,,0520152 - 1 TON '15 FORD F350 CC C|,Usage of Truck 1 Ton,Hourly - Workin,10.00
+42,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+43,4501097311,,6910111,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+44,,,6910111,,353433 Kyle Duffin,Equipment Operator - Grader,Regular,10.00
+45,,,6910111,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Workin,5.00
+46,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,3.00
+47,,,6910111,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Workin,5.00
+48,,,6910111,"Dec 1, 2022",0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Workin,10.00
+49,,,6910111,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Workin,10.00
+50,,,6910111,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+51,,,6910111,,353433 Kyle Duffin,Equipment Operator - Grader,Regular,10.00
+52,,,6910111,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Workin,10.00

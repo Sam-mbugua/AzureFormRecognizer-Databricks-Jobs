@@ -3,6 +3,7 @@
 
 # COMMAND ----------
 
+import os
 import json
 import time
 from requests import get, post
@@ -35,14 +36,13 @@ sqlContext.sql("set spark.sql.shuffle.partitions=10")
 # COMMAND ----------
 
 # run form recognizer
-def form_recognizer_input(file):
+def form_recognizer_input(source):
     #Python form recognizer analyze layout###
     #Endpoint urlo
     endpoint = r"https://form-recog-demo-ms.cognitiveservices.azure.com/"
     apim_key = "13a22a02075145e5ac378bdfe7725892"
     #post_url = endpoint + "/formrecognizer/v2.1/Layout/analyze"
     post_url = endpoint + "/formrecognizer/v2.1/prebuilt/invoice/analyze?includeTextDetailes=true"
-    source = r"input_files/"+file+".tif"
 
     headers = {
         'Content-Type' : 'image/tif',
@@ -80,31 +80,37 @@ def json_form_recognizer_load(returned_url):
     n_try = 0
     wait_sec = 10
     resp_json = ""
+    return_status = ""
     while n_try < n_tries:
         try:
             resp = get(url = returned_url, headers = {'Ocp-Apim-Subscription-Key': apim_key})
             resp_json = json.loads(resp.text)
             print("Running")
             if resp.status_code !=200:
-                print("GET Layout results failed:\n%s" % resp_json)
+                msg = "GET Layout results failed:\n%s" % resp_json
+                return_status = msg
+                print(msg)
                 break
             status = resp_json["status"]
             if status == "succeeded":
                 print("Succeeded")
+                return_status = status
                 file = open(r"json_convert.json", "w")
                 file.write(json.dumps(resp.json()))
                 file.close()
                 break
             if status == "failed":
+                return_status = "Layout Analysis failed"
                 print("Layout Analysis failed:\n%s" % resp_json)
                 break
             time.sleep(wait_sec)
             n_try += 1
         except Exception as e:
             msg = "GET analyze results failed:\n%s" % str(e)
+            return_status = msg
             print(msg)
             break
-    return resp_json
+    return resp_json,return_status,n_try
 
 # COMMAND ----------
 
@@ -163,13 +169,14 @@ def prep_form_recognizer_table4(df4):
         df4 = df4.drop(col_to_drop[4:], axis=1)
     else:
         df4 = df4.drop(col_to_drop[2:], axis=1)
-
+        
+    # Standard format achieved - clean for the two format types
     if len(df4.columns) == 7:
         # seven columns remain. Delete numeric index and rename them
         df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
         df4 = df4.set_axis(['PURCHASE ORDER','LINE #','Trx Worker Name & No','Description','Work Date','Bill Type','Quantity'], axis=1, inplace=False)
 
-        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date 
+        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date
         #df4 = df4.filter(~F.isnull(F.col("Description")))
         df4 = df4.dropna(subset=['Description','Work Date'], how='all')
 
@@ -181,7 +188,6 @@ def prep_form_recognizer_table4(df4):
         df4 = df4.set_axis(['PURCHASE ORDER','LINE #','WORK ORDER #','Work Date','Resource','Description','Bill Type','Quantity'], axis=1, inplace=False)
 
         #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date 
-        #df4 = df4.filter(~F.isnull(F.col("Description")))
         df4 = df4.dropna(subset=['Resource','Description','Bill Type'], how='all')
 
   
@@ -189,346 +195,78 @@ def prep_form_recognizer_table4(df4):
 
 # COMMAND ----------
 
-# MAGIC %md ##Test
+# MAGIC %md ##Get actual sum of quantity
 
 # COMMAND ----------
 
-# MAGIC %md ###File 5201564372
+# get actual sum of quantity
+def get_actual_quantity_sum(resp_json):
+    for pageresult in resp_json["analyzeResult"]["pageResults"]:
+        if pageresult["page"] == 2  :
+            for table in pageresult['tables']:
+                if table["rows"]>0:
+                    tableList = [[None for x in range(table["columns"])] for y in range(table["rows"])]
+                    for cell in table['cells']:
+                        tableList[cell["rowIndex"]][cell["columnIndex"]]=cell["text"]
+                    df = pd.DataFrame.from_records(tableList)
+                    Quantity = df[df.columns[-2]].iloc[-1]
+                   #df_res = df_res.append(df, ignore_index=True)
+    return Quantity
+
 
 # COMMAND ----------
 
-#"5201564372"
-#feed all files into Form Recognizer
-tif_files = ["5201564372"]
-pages = [4,5,6,7]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-    
-    
+# MAGIC %md ##Read all files
 
 # COMMAND ----------
 
-print(pd.to_numeric(df_res['Quantity']).sum())
+# what happens if trials fail
 
 # COMMAND ----------
 
-# MAGIC %md ###File 5201574247
 
-# COMMAND ----------
+#initialize df for all files performance data
+perf_df_res = pd.DataFrame()
 
-#"5201564372"
-#feed all files into Form Recognizer
-tif_files = ["5201574247"]
-pages = [4,5,6,7,8,9,10,11,12,13,14,15,16]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201574248
-
-# COMMAND ----------
-
-#"5201564372"
-#feed all files into Form Recognizer
-tif_files = ["5201574248"]
-pages = [4,5,6,7,8,9,10,11,12]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201461561
-
-# COMMAND ----------
-
-#"5201564372"
-#feed all files into Form Recognizer
-tif_files = ["5201461561"]
-pages = [4]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201571515
-
-# COMMAND ----------
 
 #feed all files into Form Recognizer
-tif_files = ["5201571515"]
-pages = [4,5]
-df_res = pd.DataFrame() 
+input_folder = "input_files"
+output_folder = "out_files"
+files_dir =  os.listdir(input_folder)
+
+for file in files_dir:
+    #file source
+    source = input_folder+r"/"+file
     
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
+    # load file
+    returned_url = form_recognizer_input(source)
+    
+    #obtain json and collect performance data
+    json_load_res = json_form_recognizer_load(returned_url) 
+    resp_json = json_load_res[0]
+    perf_data = [[file, json_load_res[2], json_load_res[1]]]
+    perf_df = pd.DataFrame(perf_data, columns=['File', 'Trials', 'Final Status'])
+    
+    #initialize df for all pages of same table
+    df_res = pd.DataFrame()
+    page = 4
+    while True:
         pandas_df4 = json_form_recognizer_extract(resp_json,page)
+        if (len(pandas_df4.columns)<7) or ('Quantity' not in pandas_df4.iloc(0)[0].values and 'Quantity' not in pandas_df4.iloc(0)[1].values):
+            break
         df = prep_form_recognizer_table4(pandas_df4)
         df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201571530
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201571530"]
-pages = [4]
-df_res = pd.DataFrame() 
+        page += 1
+        
+    #record sum of Quantity & add to performance DF
+    perf_df['Sum of Quanity'] = pd.to_numeric(df_res['Quantity']).sum()
+    #get actual sum of quantity from page 2
+    perf_df['Actual Quanity'] = get_actual_quantity_sum(resp_json)
+    perf_df['Perc Error'] = (float(perf_df['Actual Quanity'][0].replace(',',''))-perf_df['Sum of Quanity'])*100/float(perf_df['Actual Quanity'][0].replace(',',''))
+    perf_df_res = perf_df_res.append(perf_df, ignore_index=True)
+    display(perf_df)
+    #convert to csv and store
+    df_res.to_csv(output_folder+r"/"+file.split('.')[0]+".csv")
     
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201571527
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201571527"]
-pages = [4]
-df_res = pd.DataFrame() 
+display(perf_df_res)
     
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201546855
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201546855"]
-pages = [4,5]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201553399
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201553399"]
-pages = [4]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201553458
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201553458"]
-pages = [4]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201553471
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201553471"]
-pages = [4]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-pd.to_numeric(df_res['Quantity'][1:]).sum()
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201554521
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201554521"]
-pages = [4,5,6,7,8,9,10,11,12,13,14]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201554043
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201554043"]
-pages = [4,5,6,7,8,9]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    #returned_url = form_recognizer_input(file)
-    #resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())
-
-# COMMAND ----------
-
-# MAGIC %md ###File 5201461569
-
-# COMMAND ----------
-
-#feed all files into Form Recognizer
-tif_files = ["5201461569"]
-pages = [4,5,6,7,8,9,10]
-df_res = pd.DataFrame() 
-    
-for file in tif_files:
-    returned_url = form_recognizer_input(file)
-    resp_json = json_form_recognizer_load(returned_url)
-    for page in pages:
-        pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        df = prep_form_recognizer_table4(pandas_df4)
-        df_res = df_res.append(df, ignore_index=True)
-display(df_res)
-
-# COMMAND ----------
-
-print(pd.to_numeric(df_res['Quantity']).sum())

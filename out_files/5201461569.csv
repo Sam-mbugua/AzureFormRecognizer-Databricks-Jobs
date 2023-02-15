@@ -1,0 +1,149 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,4,347383 Julius Abegar,Insulator Journeyman,"Jan 4, 2022",Regular,10.00
+1,,,347383 Julius Abegar,Insulator Journeyman,"Jan 5, 2022",Regular,10.00
+2,,,347383 Julius Abegar,Insulator Journeyman,"Jan 6, 2022",Regular,10.00
+3,,,347383 Julius Abegar,Insulator Journeyman,"Jan 10, 2022",Regular,10.00
+4,,,347383 Julius Abegar,Insulator Journeyman,"Jan 11, 2022",Regular,10.00
+5,,,347383 Julius Abegar,Insulator Journeyman,"Jan 12, 2022",Regular,10.00
+6,,,347383 Julius Abegar,Insulator Journeyman,"Jan 13, 2022",Regular,10.00
+7,,,347383 Julius Abegar,Insulator Journeyman,"Jan 15, 2022",Overtime,10.00
+8,,,347443 Matthew Birch,Scaffolder JM,"Jan 4, 2022",Regular,10.00
+9,,,347443 Matthew Birch,Scaffolder JM,"Jan 5, 2022",Regular,10.00
+10,,,347443 Matthew Birch,Scaffolder JM,"Jan 10, 2022",Regular,10.00
+11,,,347443 Matthew Birch,Scaffolder JM,"Jan 11, 2022",Regular,10.00
+12,,,347443 Matthew Birch,Scaffolder JM,"Jan 12, 2022",Regular,8.00
+13,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 4, 2022",Regular,10.00
+14,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 5, 2022",Regular,10.00
+15,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 6, 2022",Regular,10.00
+16,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 10, 2022",Regular,10.00
+17,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 11, 2022",Regular,10.00
+18,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 12, 2022",Regular,10.00
+19,,,347453 Brandi Boychuk,Insulator Journeyman,"Jan 13, 2022",Regular,10.00
+20,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 4, 2022",Regular,10.00
+21,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 5, 2022",Regular,10.00
+22,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 10, 2022",Regular,10.00
+23,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 11, 2022",Regular,10.00
+24,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 12, 2022",Regular,10.00
+25,,,347495 John Claveria,Scaffolder AP 3 YR,"Jan 13, 2022",Regular,10.00
+26,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 4, 2022",Regular,10.00
+27,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 5, 2022",Regular,10.00
+28,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 6, 2022",Regular,10.00
+29,,,347496 Perry Cleghorn,Labourer Skilled - 9900,,Overtime,1.00
+30,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 7, 2022",Regular,10.00
+31,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 8, 2022",Overtime,8.00
+32,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 9, 2022",Overtime,8.00
+33,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 10, 2022",Regular,10.00
+34,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 11, 2022",Regular,10.00
+35,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 12, 2022",Regular,10.00
+36,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 13, 2022",Regular,10.00
+37,,,347496 Perry Cleghorn,Labourer Skilled - 9900,"Jan 15, 2022",Overtime,10.00
+38,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 4, 2022",Regular,10.00
+39,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 5, 2022",Regular,10.00
+40,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 6, 2022",Regular,10.00
+41,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 10, 2022",Regular,10.00
+42,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 11, 2022",Regular,10.00
+43,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 12, 2022",Regular,10.00
+44,,,347507 Stewart Cornelius,Pipefitter Lead Hand,"Jan 13, 2022",Regular,10.00
+45,,,347583 Brian Fitterer,Pipefitter Journeyman,"Jan 10, 2022",Regular,10.00
+46,,,347583 Brian Fitterer,Pipefitter Journeyman,"Jan 11, 2022",Regular,10.00
+47,,,347583 Brian Fitterer,Pipefitter Journeyman,"Jan 12, 2022",Regular,10.00
+48,,,347583 Brian Fitterer,Pipefitter Journeyman,"Jan 13, 2022",Regular,10.00
+49,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 5, 2022",Regular,10.00
+50,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 6, 2022",Regular,10.00
+51,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 10, 2022",Regular,10.00
+52,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 11, 2022",Regular,10.00
+53,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 12, 2022",Regular,10.00
+54,,,347584 Ernie Fleming,Pipefitter Journeyman,"Jan 13, 2022",Regular,10.00
+55,,,347604 Derek Gerrard,Pipefitter Foreman,"Jan 4, 2022",Regular,10.00
+56,,,347604 Derek Gerrard,Pipefitter Foreman,"Jan 15, 2022",Regular,10.00
+57,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 4, 2022",Regular,10.00
+58,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 5, 2022",Regular,10.00
+59,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 6, 2022",Regular,10.00
+60,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 10, 2022",Regular,10.00
+61,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 11, 2022",Regular,10.00
+62,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 12, 2022",Regular,10.00
+63,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 13, 2022",Regular,10.00
+64,,,347611 Garrett Goad,Pipefitter Foreman,"Jan 15, 2022",Overtime,10.00
+65,,,347712 Tom Judd,Pipefitter Foreman,"Jan 12, 2022",Regular,10.00
+66,,,347712 Tom Judd,Pipefitter Foreman,"Jan 13, 2022",Regular,10.00
+67,,,347712 Tom Judd,Pipefitter Foreman,,Overtime,1.00
+68,,,347712 Tom Judd,Pipefitter Foreman,"Jan 14, 2022",Regular,10.00
+69,,,347712 Tom Judd,Pipefitter Foreman,"Jan 15, 2022",Regular,8.00
+70,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 4, 2022",Regular,10.00
+71,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 5, 2022",Regular,10.00
+72,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 6, 2022",Regular,10.00
+73,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 10, 2022",Regular,10.00
+74,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 11, 2022",Regular,10.00
+75,,,347782 Jennifer Lloyd,Scaffolder JM,"Jan 14, 2022",Regular,5.00
+76,,,347789 Russel Lyle,Pipefitter General Foreman,"Jan 6, 2022",Regular,10.00
+77,,,347789 Russel Lyle,Pipefitter General Foreman,"Jan 10, 2022",Regular,5.00
+78,,,347789 Russel Lyle,Pipefitter General Foreman,"Jan 11, 2022",Regular,5.00
+79,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 4, 2022",Regular,10.00
+80,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 5, 2022",Regular,10.00
+81,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 6, 2022",Regular,10.00
+82,,,347921 Trevor Patrosh,Pipefitter Foreman,,Overtime,1.00
+83,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 7, 2022",Regular,10.00
+84,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 8, 2022",Overtime,8.00
+85,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 9, 2022",Overtime,8.00
+86,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 10, 2022",Regular,7.00
+87,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 11, 2022",Regular,10.00
+88,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 12, 2022",Regular,10.00
+89,,,347921 Trevor Patrosh,Pipefitter Foreman,"Jan 13, 2022",Regular,10.00
+90,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jan 14, 2022",Regular,10.00
+91,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jan 15, 2022",Regular,10.00
+92,,,348028 Wade Skrodolis,Scaffolder FM,"Jan 15, 2022",Overtime,10.00
+93,,,348047 Zakary Stemkens,Pipefitter Journeyman,"Jan 7, 2022",Regular,10.00
+94,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 4, 2022",Regular,10.00
+95,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 5, 2022",Regular,10.00
+96,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 6, 2022",Regular,10.00
+97,,,348095 Jim Vincent,Labourer AP 5.0 YR,,Overtime,1.00
+98,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 7, 2022",Regular,10.00
+99,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 8, 2022",Overtime,8.00
+100,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 10, 2022",Regular,10.00
+101,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 11, 2022",Regular,10.00
+102,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 12, 2022",Regular,10.00
+103,,,348095 Jim Vincent,Labourer AP 5.0 YR,"Jan 15, 2022",Regular,10.00
+104,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 4, 2022",Regular,10.00
+105,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 5, 2022",Regular,10.00
+106,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 10, 2022",Regular,10.00
+107,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 11, 2022",Regular,10.00
+108,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 12, 2022",Regular,10.00
+109,,,348157 Monique Ingle,Labourer Skilled - 9900,"Jan 13, 2022",Regular,10.00
+110,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 4, 2022",Regular,10.00
+111,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 5, 2022",Regular,10.00
+112,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 6, 2022",Regular,10.00
+113,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 7, 2022",Regular,10.00
+114,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 10, 2022",Regular,10.00
+115,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 11, 2022",Regular,10.00
+116,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 12, 2022",Regular,10.00
+117,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 13, 2022",Regular,10.00
+118,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jan 15, 2022",Overtime,10.00
+119,,,354019 Andrew Benedict,Scaffolder JM,,Overtime,10.00
+120,,,354019 Andrew Benedict,Scaffolder JM,"Jan 14, 2022",Subsistence,115.00
+121,,,354605 Gil Garcia,Scaffolder JM,,Overtime,10.00
+122,,,354605 Gil Garcia,Scaffolder JM,"Jan 14, 2022",Subsistence,115.00
+123,,,354605 Gil Garcia,Scaffolder JM,,Overtime,10.00
+124,,,354605 Gil Garcia,Scaffolder JM,"Jan 15, 2022",Subsistence,115.00
+125,,,354623 cesar Abriza,Scaffolder JM,,Overtime,10.00
+126,,,354623 cesar Abriza,Scaffolder JM,"Jan 14, 2022",Subsistence,115.00
+127,,,354623 cesar Abriza,Scaffolder JM,,Overtime,10.00
+128,,,354623 cesar Abriza,Scaffolder JM,"Jan 15, 2022",Subsistence,115.00
+129,,,354625 Domingo Vinas,Scaffolder JM,,Overtime,10.00
+130,,,354625 Domingo Vinas,Scaffolder JM,"Jan 14, 2022",Subsistence,115.00
+131,,,354658 John ian Amporias,Scaffolder JM,,Overtime,10.00
+132,,,354658 John ian Amporias,Scaffolder JM,"Jan 14, 2022",Subsistence,115.00
+133,,,354658 John ian Amporias,Scaffolder JM,,Overtime,7.50
+134,,,354658 John ian Amporias,Scaffolder JM,"Jan 15, 2022",Subsistence,115.00
+135,,,354690 Nathan Barker,Pipefitter Journeyman,"Jan 15, 2022",Overtime,10.00
+136,,,355171 Sheldon Timms,Rig Welder,"Jan 9, 2022",Regular,5.50
+137,,,355547 Rodney Maze,Scaffolder JM,"Jan 14, 2022",Overtime,10.00
+138,,,355547 Rodney Maze,Scaffolder JM,,Subsistence,115.00
+139,,,355647 Sky Langevin-Love,Labourer Entry,"Jan 9, 2022",Regular,8.00
+140,,,355648 Ryan Elson,Pipefitter Journeyman,"Jan 12, 2022",Regular,10.00
+141,,,355648 Ryan Elson,Pipefitter Journeyman,,Subsistence,115.00
+142,,,355648 Ryan Elson,Pipefitter Journeyman,"Jan 13, 2022",Regular,10.00
+143,,,355648 Ryan Elson,Pipefitter Journeyman,,Subsistence,115.00
+144,,,355648 Ryan Elson,Pipefitter Journeyman,"Jan 15, 2022",Regular,10.00
+145,,,355648 Ryan Elson,Pipefitter Journeyman,,Subsistence,115.00
+146,,,355953 Krishana Edwards,Scaffolder JM,"Jan 13, 2022",Regular,10.00
+147,,,355953 Krishana Edwards,Scaffolder JM,,Subsistence,115.00

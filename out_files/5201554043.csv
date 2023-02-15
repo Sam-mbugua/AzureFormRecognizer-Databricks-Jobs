@@ -1,0 +1,241 @@
+,PURCHASE ORDER,LINE #,WORK ORDER #,Work Date,Resource,Description,Bill Type,Quantity
+0,4501097311,47,,"Sep 19, 2022",02061 - ATV KUBOTA 1100X C/W 6WA|,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+1,,,,,0559019 - TRUCK WATER-3500 GAL,|Usage of Truck Water 3000-4500,Hourly - Standb,10.00
+2,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,5.00
+3,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,5.00
+4,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+5,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+6,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+7,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+8,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+9,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+10,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+11,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+12,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+13,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+14,,,,"Sep 20, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+15,,,,,0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,2.50
+16,,,,,0559019 - TRUCK WATER-3500 GAL,Usage of Truck Water 3000-4500,Hourly - Standb,10.00
+17,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+18,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+19,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+20,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+21,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+22,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+23,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+24,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+25,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+26,,,,"Sep 21, 2022",02061 - ATV KUBOTA 1100X C/W 6WA|,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+27,,,,,058609 - TRUCK DUMP-INTERN. '08 7|,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+28,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,5.00
+29,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+30,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+31,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+32,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+33,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+34,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+35,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+36,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+37,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+38,,,,"Sep 22, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+39,,,,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,2.00
+40,,,,,0559019 - TRUCK WATER-3500 GAL,Usage of Truck Water 3000-4500,Hourly - Standb,5.00
+41,,,,,058609 - TRUCK DUMP-INTERN. '08 7,|Usage of Truck Tandem >20000,Hourly - Standb,10.00
+42,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+43,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+44,4501097311,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+45,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+46,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+47,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+48,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+49,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+50,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+51,,,,"Sep 26, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+52,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+53,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+54,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+55,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+56,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+57,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+58,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,5.00
+59,,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,5.00
+60,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+61,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+62,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+63,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+64,,,,"Sep 27, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+65,,,,,0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Standb,5.00
+66,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+67,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+68,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+69,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+70,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+71,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+72,,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+73,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+74,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+75,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+76,,,,"Sep 28, 2022",02061 - ATV KUBOTA 1100X C/W 6WA|,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+77,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+78,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+79,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+80,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+81,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+82,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+83,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+84,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+85,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+86,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+87,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+88,4501097311,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+89,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+90,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+91,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+92,,,,"Sep 29, 2022",02061 - ATV KUBOTA 1100X C/W 6WA|,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+93,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+94,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+95,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+96,,,,,11708 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+97,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+98,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+99,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+100,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+101,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+102,,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+103,,,,,45347 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+104,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+105,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+106,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+107,,,,"Sep 30, 2022",05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+108,,,,"Oct 1, 2022",05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+109,,,,"Oct 3, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+110,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+111,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+112,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+113,,,,,11708 - SWEEPER-PICK UP BOBCAT |,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+114,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+115,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+116,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+117,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+118,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+119,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+120,,,,,"4914002 - ANGLE BROOM 84"" -",BOBC|Usage of Attachments - Bobcat,Hourly - Workin,10.00
+121,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+122,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+123,,,,"Oct 4, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+124,,,,,058609 - TRUCK DUMP-INTERN. '08 7,|Usage of Truck Tandem >20000,Hourly - Standb,10.00
+125,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+126,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,10.00
+127,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+128,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+129,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+130,4501097311,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+131,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+132,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+133,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+134,,,,,"4914002 - ANGLE BROOM 84"" -",BOBC|Usage of Attachments - Bobcat,Hourly - Workin,10.00
+135,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+136,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+137,,,,"Oct 5, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+138,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+139,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,10.00
+140,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,10.00
+141,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+142,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+143,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+144,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+145,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+146,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+147,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+148,,,,,45347 - TRACKSTEER TAKEUCHI TL1 |,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+149,,,,,"4914002 - ANGLE BROOM 84"" -",BOBC|Usage of Attachments - Bobcat,Hourly - Workin,10.00
+150,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+151,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+152,,,,"Oct 6, 2022",02061 - ATV KUBOTA 1100X C/W 6WA,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+153,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+154,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+155,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+156,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+157,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+158,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+159,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+160,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+161,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+162,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+163,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|Usage",of Attachments - Bobcat,Hourly - Workin,10.00
+164,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+165,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+166,,,,"Oct 10, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+167,,,,,03578 - 1/2 TON '11 CHEV K1500 CC,Usage of Truck Pickup 1/2 Ton,Hourly - Standb,10.00
+168,,,,,0500155 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+169,,,,,0500163 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+170,,,,,0500169 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+171,,,,,0500174 - '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+172,,,,,0500180 - 3/4 TON '12 CHEV K2500,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+173,,,,,0500218 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+174,4501097311,,,,0500225 - '13 CHEV K2500 CC,Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+175,,,,,0500313 - 3/4 TON '12 FORD F250 CC,|Usage of Truck Pickup 3/4 Ton,Hourly - Standb,10.00
+176,,,,,052012 - 1 TON '19 FORD F350 FLATD,Usage of Truck 1 Ton,Hourly - Standb,10.00
+177,,,,,0520152 - 1 TON '15 FORD F350 CC,C|Usage of Truck 1 Ton,Hourly - Standb,10.00
+178,,,,,0559019 - TRUCK WATER-3500 GAL,|Usage of Truck Water 3000-4500,Hourly - Standb,10.00
+179,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+180,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+181,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+182,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+183,,,,,11708 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+184,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+185,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+186,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+187,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+188,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+189,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+190,,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+191,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+192,,,,,"4914002 - ANGLE BROOM 84"" - BOBC|",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+193,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+194,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+195,,,,"Oct 11, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+196,,,,,0559019 - TRUCK WATER-3500 GAL,Usage of Truck Water 3000-4500,Hourly - Standb,10.00
+197,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+198,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,10.00
+199,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+200,,,,,11708 - SWEEPER-PICK UP BOBCAT,|Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+201,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+202,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+203,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+204,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+205,,,,,41115 - EXCAVATOR-'11 JD 225DLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+206,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+207,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+208,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+209,,,,"Oct 12, 2022",02061 - ATV KUBOTA 1100X C/W 6WA|,Usage of All Terrain Vehicle,Hourly - Standb,10.00
+210,,,,,0559019 - TRUCK WATER-3500 GAL,|Usage of Truck Water 3000-4500,Hourly - Standb,10.00
+211,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+212,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+213,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,|Hourly - Standb,10.00
+214,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+215,,,,,11708 - SWEEPER-PICK UP BOBCAT |,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+216,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+217,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+218,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+219,4501097311,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+220,,,,,452638 - SKID STEER LOADER - BOB,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+221,,,,,45347 - TRACKSTEER TAKEUCHI TL1|,Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+222,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+223,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+224,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
+225,,,,"Oct 13, 2022",02061 - ATV KUBOTA 1100X C/W,6WA|Usage of All Terrain Vehicle,Hourly - Standb,10.00
+226,,,,,058609 - TRUCK DUMP-INTERN. '08 7,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+227,,,,,05872 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+228,,,,,05873 - DUMP TRUCK TANDEM 7400 |,Usage of Truck Tandem >20000,Hourly - Standb,10.00
+229,,,,,117005 - SWEEPER-PICK UP BOBCAT,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+230,,,,,11708 - SWEEPER-PICK UP BOBCAT |,Usage of Hydraulic Sweeper,Hourly - Workin,10.00
+231,,,,,359082 - TANK - FUEL 100 GALLON,Usage of Fuel Tank Slip <500 G,|Hourly - Workin,10.00
+232,,,,,37008 - TRAILER-TRAILTECH HI-BOY,|Usage of Hiboy,Hourly - Workin,10.00
+233,,,,,4013015 - GRADER JD 770G '13,Usage of Grader 180-239 HP,Hourly - Standb,10.00
+234,,,,,41066 - EXCAVATOR-JD 120DLC,Usage of Excavator 8-11 Ton,Hourly - Standb,10.00
+235,,,,,411291 - EXCAVATOR-JD 250GLC,Usage of Excavator Track 25 -,Hourly - Standb,10.00
+236,,,,,45347 - TRACKSTEER TAKEUCHI TL1,|Usage of Track Skidsteer 2101-,Hourly - Standb,10.00
+237,,,,,"4914002 - ANGLE BROOM 84"" - BOBC",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+238,,,,,"491401 - ANGLE BROOM 84"" - BOBCA",Usage of Attachments - Bobcat,Hourly - Workin,10.00
+239,,,,,497081 - GRAPPLE SKIDSTEER ATTA,Usage of Material Handling Acc,Hourly - Workin,10.00
