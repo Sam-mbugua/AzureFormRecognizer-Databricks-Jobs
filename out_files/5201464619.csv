@@ -1,0 +1,68 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,10,308857 Blaine Anderson HSE Coordinator 1,,"Jan 17, 2022",Regular,10.00
+1,,,308857 Blaine Anderson HSE Coordinator 1,,"Jan 18, 2022",Regular,10.00
+2,,,308857 Blaine Anderson HSE Coordinator 1,,"Jan 19, 2022",Regular,10.00
+3,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 20, 2022",Regular,10.00
+4,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 21, 2022",Overtime,10.00
+5,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 24, 2022",Regular,10.00
+6,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 25, 2022",Regular,8.00
+7,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 26, 2022",Regular,10.00
+8,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 27, 2022",Regular,10.00
+9,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 28, 2022",Regular,2.00
+10,,,308857 Blaine Anderson,HSE Coordinator 1,,Overtime,8.00
+11,,,331712 Michelle Mole,Operations Accountant 3,"Jan 17, 2022",Regular,8.00
+12,,,331712 Michelle Mole,Operations Accountant 3,"Jan 18, 2022",Regular,8.00
+13,,,331712 Michelle Mole,Operations Accountant 3,"Jan 19, 2022",Regular,8.00
+14,,,331712 Michelle Mole,Operations Accountant 3,"Jan 20, 2022",Regular,8.00
+15,,,331712 Michelle Mole,Operations Accountant 3,"Jan 21, 2022",Regular,8.00
+16,,,331712 Michelle Mole,Operations Accountant 3,"Jan 24, 2022",Regular,8.00
+17,,,331712 Michelle Mole,Operations Accountant 3,"Jan 25, 2022",Regular,8.00
+18,,,331712 Michelle Mole,Operations Accountant 3,"Jan 26, 2022",Regular,8.00
+19,,,331712 Michelle Mole,Operations Accountant 3,"Jan 27, 2022",Regular,8.00
+20,,,331712 Michelle Mole,Operations Accountant 3,"Jan 28, 2022",Regular,8.00
+21,,,348173 David Allan,HSE Coordinator 1,"Jan 17, 2022",Regular,10.00
+22,,,348173 David Allan,HSE Coordinator 1,"Jan 19, 2022",Regular,10.00
+23,,,348173 David Allan,HSE Coordinator 1,"Jan 20, 2022",Regular,10.00
+24,,,348173 David Allan,HSE Coordinator 1,"Jan 22, 2022",Regular,10.00
+25,,,348173 David Allan,HSE Coordinator 1,"Jan 23, 2022",Overtime,4.00
+26,,,348173 David Allan,HSE Coordinator 1,"Jan 24, 2022",Regular,10.00
+27,,,348173 David Allan,HSE Coordinator 1,"Jan 25, 2022",Regular,10.00
+28,,,348173 David Allan,HSE Coordinator 1,"Jan 26, 2022",Regular,10.00
+29,,,348173 David Allan,HSE Coordinator 1,"Jan 27, 2022",Regular,10.00
+30,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 17, 2022",Regular,10.00
+31,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 18, 2022",Regular,10.00
+32,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 19, 2022",Regular,10.00
+33,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 20, 2022",Regular,10.00
+34,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 24, 2022",Regular,10.00
+35,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 25, 2022",Regular,10.00
+36,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 26, 2022",Regular,10.00
+37,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 27, 2022",Regular,10.00
+38,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 16, 2022",Overtime,10.00
+39,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 17, 2022",Regular,10.00
+40,,,348222 Lenard Doroshuk,Project & TA Manager,,Overtime,2.50
+41,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+42,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 18, 2022",Overtime,0.50
+43,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+44,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 19, 2022",Overtime,1.00
+45,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+46,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 20, 2022",Overtime,0.50
+47,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 21, 2022",Overtime,10.00
+48,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 22, 2022",Overtime,10.00
+49,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+50,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 24, 2022",Overtime,0.50
+51,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+52,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 25, 2022",Overtime,0.50
+53,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+54,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 26, 2022",Overtime,0.50
+55,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
+56,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 27, 2022",Overtime,0.50
+57,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 28, 2022",Overtime,10.50
+58,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 29, 2022",Overtime,2.50
+59,,,354778 Kim Davis,Accounting Clerk 3,"Jan 17, 2022",Regular,8.50
+60,,,354778 Kim Davis,Accounting Clerk 3,"Jan 18, 2022",Regular,10.00
+61,,,354778 Kim Davis,Accounting Clerk 3,"Jan 19, 2022",Regular,10.00
+62,,,354778 Kim Davis,Accounting Clerk 3,"Jan 20, 2022",Regular,10.00
+63,,,354778 Kim Davis,Accounting Clerk 3,"Jan 24, 2022",Regular,10.00
+64,,,354778 Kim Davis,Accounting Clerk 3,"Jan 25, 2022",Regular,10.00
+65,,,354778 Kim Davis,Accounting Clerk 3,"Jan 26, 2022",Regular,10.00
+66,,,354778 Kim Davis,Accounting Clerk 3,"Jan 27, 2022",Regular,10.00
