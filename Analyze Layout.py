@@ -343,10 +343,10 @@ for file in files_dir:
     source = input_folder+r"/"+file
     
     # load file
-    #returned_url = form_recognizer_input(source)
+    returned_url = form_recognizer_input(source)
     
     #obtain json and collect performance data
-    #json_load_res = json_form_recognizer_load(returned_url) 
+    json_load_res = json_form_recognizer_load(returned_url) 
     resp_json = json_load_res[0]
     perf_data = [[file, json_load_res[2],json_load_res[3], json_load_res[1]]]
     perf_df = pd.DataFrame(perf_data, columns=['File', 'Trials','Duration', 'Final Status'])
@@ -380,110 +380,3 @@ for file in files_dir:
 display(df_res)  
 display(perf_df_res)
     
-
-# COMMAND ----------
-
-df4.columns[3:-1][0]
-
-# COMMAND ----------
-
-
-
-# COMMAND ----------
-
-list(range(0,len(df4.columns)))
-
-# COMMAND ----------
-
-df4 = pandas_df4
-#Replace empty string with None for all columns
-df4 = df4.replace(r'^\s*$', np.nan, regex=True)
-
-#clean out rows that have null values across multiple columns
-#df4 = df4[df.notnull().sum(axis=1) < 6]
-df4 = df4.dropna(thresh=df4.shape[1]-6, axis=0)
-
-
-#clean out columns that are 100% null
-null_percentage = df4.isnull().sum()/len(df4)
-col_to_drop = null_percentage[null_percentage==1].keys()
-df4 = df4.drop(col_to_drop, axis=1).reset_index(drop=True)
-
-
-# rename index 0 to 7
-df4.columns = list(range(0,len(df4.columns)))
-
-# check for work date
-work_date_index = [idx for idx, s in enumerate(df4.mode().iloc[0]) if '2022' in s][0]
-pattern = "[0-9]*\s[A-Z][a-z]*\s[A-Z][a-z]*"
-work_name_index = [idx for idx, s in enumerate(df4.mode().iloc[0]) if re.search(pattern, s)][0]
-quantity_index = len(df4.columns)-1
-
-# null columns are found in between columns of interest
-#if two consecutive columns beyond column 4 have >50% null coalesce them       
-for col in range(work_name_index+2,work_date_index):
-    df4[col] = df4[col].combine_first(df4[col-1])
-    df4 = df4.drop([col-1],axis=1)
-
-for col in range(work_date_index+2,quantity_index):
-    df4[col] = df4[col].combine_first(df4[col-1])
-    df4 = df4.drop([col-1],axis=1)
-    
-#for idx, val in enumerate(list(range(work_name_index+2,work_date_index))):
-    #if idx ==0:
-        #pass
-    #else:
-        #df4[val] = df4[val].combine_first(df4[val-1])
-        #df4 = df4.drop([val-1],axis=1)
-
-df4
-
-
-# COMMAND ----------
-
-list(range(work_date_index+2,quantity_index))
-
-# COMMAND ----------
-
-list(range(work_name_index+2,work_date_index))
-
-# COMMAND ----------
-
-import pandas as pd
-import numpy as np
-df = pd.DataFrame({"A":[1,2,np.nan],"B":[np.nan,10,np.nan], "C":[5,10,7]})
-display(df)
-
-df1 = df.A.combine_first(df.B).combine_first(df.C)
-
-display(df1)
-
-# COMMAND ----------
-
-df4
-
-# COMMAND ----------
-
-df4.mode().iloc[0]
-
-# COMMAND ----------
-
-df4.mode().iloc[0].str.contains('2022')
-
-# COMMAND ----------
-
-df4 = df4.reset_index()
-
-# COMMAND ----------
-
-df4.mode()
-
-# COMMAND ----------
-
-df4 = df4.reset_index()
-index = [idx for idx, s in enumerate(df4.mode().iloc[0]) if '2022' in s][0]
-index
-
-# COMMAND ----------
-
-pandas_df4
