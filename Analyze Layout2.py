@@ -78,7 +78,7 @@ def form_recognizer_input(source):
 def json_form_recognizer_load(returned_url):
     apim_key = "13a22a02075145e5ac378bdfe7725892"
     
-    n_tries = 40
+    n_tries = 15
     n_try = 0
     wait_sec = 10
     resp_json = ""
@@ -113,6 +113,9 @@ def json_form_recognizer_load(returned_url):
             return_status = msg
             print(msg)
             break
+        if return_status=='':
+            return_status = "GET Layout results timed out"
+            
     return resp_json,return_status,n_try,time.time() - start_time
 
 # COMMAND ----------
@@ -260,244 +263,126 @@ def get_actual_quantity_sum(resp_json):
 
 # COMMAND ----------
 
-# what happens if trials fail
-
-# COMMAND ----------
-
-
-#initialize df for all files performance data
-perf_df_res = pd.DataFrame()
-
-
-#feed all files into Form Recognizer
-input_folder = "input_files2"
+# folder sources
+input_folder = "input_files"
 output_folder = "out_files"
 files_dir =  os.listdir(input_folder)
 
+#initialize DF for performance summary
+perf_df_res = pd.DataFrame()
+
 for file in files_dir:
-    #file source
+    #initialize dict for performance summary
+    perf_dict = {}
+
+    #load file
     source = input_folder+r"/"+file
+    perf_dict['File']=file
     
-    # load file
-    #returned_url = form_recognizer_input(source)
+    try:
+        returned_url = form_recognizer_input(source)
+        perf_dict['RECOGNIZER Status']='succeeded'
+    except:
+        perf_dict['RECOGNIZER Status']='failed'
+        #compile performance summary 
+        perf_df = pd.DataFrame(perf_dict, index=[0])       
+        perf_df_res = perf_df_res.append(perf_df, ignore_index=True)
+        #TODO: record perf for file before exiting loop
+        continue
     
     #obtain json and collect performance data
-    #json_load_res = json_form_recognizer_load(returned_url) 
+    json_load_res = json_form_recognizer_load(returned_url) 
     resp_json = json_load_res[0]
-    perf_data = [[file, json_load_res[2],json_load_res[3], json_load_res[1]]]
-    perf_df = pd.DataFrame(perf_data, columns=['File', 'Trials','Duration', 'Final Status'])
+    perf_dict.update({'Trials':json_load_res[2],'Duration':json_load_res[3], 'GET Status':json_load_res[1]})
     
     #initialize df for all pages of same table
     df_res = pd.DataFrame()
-    #13&7
     page = 4
-    pager = page
-    while True:
+    try:
         pandas_df4 = json_form_recognizer_extract(resp_json,page)
-        #display(pandas_df4)
-        if (len(pandas_df4.columns)<7) or ('Quantity' not in pandas_df4.iloc(0)[0].values and 'Quantity' not in pandas_df4.iloc(0)[1].values):
+        perf_dict['JSON READ Status']='succeeded'
+    except:
+        perf_dict['JSON READ Status']='failed'
+        #compile performance summary 
+        perf_df = pd.DataFrame(perf_dict, index=[0])       
+        perf_df_res = perf_df_res.append(perf_df, ignore_index=True)
+        continue
+    
+    while ((len(pandas_df4.columns)>6) and 
+            ('Quantity' in pandas_df4.iloc(0)[0].values or 'Quantity' in pandas_df4.iloc(0)[1].values)
+           ):
+        try:
+            df = prep_form_recognizer_table4(pandas_df4)
+            perf_dict['CLEAN STEP Status']='succeeded'
+        except:
+            perf_dict['CLEAN STEP Status']='failed'
             break
-        df = prep_form_recognizer_table4(pandas_df4)
-        #display(df)
-        df_res = df_res.append(df, ignore_index=True)
-        page += 1
-        #if page > pager:
-            #break
+            
+        try:
+            df_res = df_res.append(df, ignore_index=True)
+            perf_dict['APPEND Status']='succeeded'
+        except:
+            perf_dict['APPEND Status']='failed'
+            break
         
-    #record sum of Quantity & add to performance DF
-    perf_df['No of Columns'] = len(df_res.columns)
-    perf_df['Sum of Quanity'] = pd.to_numeric(df_res['Quantity']).sum()
-    #get actual sum of quantity from page 2
-    perf_df['Actual Quanity'] = get_actual_quantity_sum(resp_json)
-    perf_df['Perc Error'] = (float(perf_df['Actual Quanity'][0].replace(',',''))-perf_df['Sum of Quanity'])*100/float(perf_df['Actual Quanity'][0].replace(',',''))
+        #next file
+        page += 1
+        try:
+            pandas_df4 = json_form_recognizer_extract(resp_json,page)
+            perf_dict['JSON READ Status']='succeeded'
+        except:
+            perf_dict['JSON READ Status']='failed'
+            break
+     
+    #record some file metrics & add to performance DF
+    try:
+        perf_dict['No of Columns'] = len(df_res.columns)
+        perf_dict['Sum of Quanity'] = pd.to_numeric(df_res['Quantity']).sum()
+        perf_dict['Actual Quanity'] = get_actual_quantity_sum(resp_json)
+        perf_dict['Perc Error'] = (float(perf_dict['Actual Quanity'].replace(',',''))
+                                  -perf_dict['Sum of Quanity'])*100/float(perf_dict['Actual Quanity'].replace(',',''))
+        perf_dict['ACCURACY CHECK Status']='succeeded'
+    except:
+        perf_dict['ACCURACY CHECK Status']='failed' 
+        print(file)
+        print(get_actual_quantity_sum(resp_json))
+        print(perf_dict)
+        display(perf_df)
+        print(float(perf_df['Actual Quanity'][0].replace(',','')))
+        print(perf_df['Sum of Quanity'])
+        print(perf_dict['ACCURACY CHECK Status'])
+        
+    #compile performance summary 
+    perf_df = pd.DataFrame(perf_dict, index=[0])       
     perf_df_res = perf_df_res.append(perf_df, ignore_index=True)
+    
     #convert to csv and store
     df_res.to_csv(output_folder+r"/"+file.split('.')[0]+".csv")
-display(df_res)  
+
+#display(df_res) 
+perf_df_res.to_csv(output_folder+r"/"+"summary.csv")
 display(perf_df_res)
-    
+
+# COMMAND ----------
+
+perf_dict
+
+# COMMAND ----------
+
+print(float(perf_dict['Actual Quanity'].replace(',','')))
 
 # COMMAND ----------
 
 display(perf_df_res)
+
+# COMMAND ----------
+
+perf_df
+
+# COMMAND ----------
+
+(659-659)*100/659
 
 # COMMAND ----------
 
 # MAGIC %md ##Debug
-
-# COMMAND ----------
-
-file
-
-# COMMAND ----------
-
-df4 = pandas_df4
-#Replace empty string with None for all columns
-df4 = df4.replace(r'^\s*$', np.nan, regex=True)
-
-#clean out rows that have null values across multiple columns
-df4 = df4.dropna(thresh=3, axis=0)
-# remove rows with Total
-for i in df4.columns:
-    df4 = df4[~df4[i].astype(str).str.contains('Total',na=False)]
-
-#clean out columns that are 100% null
-null_percentage = df4.isnull().sum()/len(df4)
-col_to_drop = null_percentage[null_percentage==1].keys()
-df4 = df4.drop(col_to_drop, axis=1).reset_index(drop=True)
-
-# rename index 0 to 7
-df4.columns = list(range(0,len(df4.columns)))
-
-
-# check for different indices based on mode
-# remove first row with column names to avoid errors with mode
-df4 = df4.drop(pandas_df4.index[0])
-if df4.empty:
-    df4 =  pd.DataFrame()
-
-
-
-
-
-display(df4)
-
-# COMMAND ----------
-
-if df4.empty:
-    print(9)
-
-# COMMAND ----------
-
-list(range(work_name_index+2,quantity_index))
-
-# COMMAND ----------
-
-col_type_ls = [prep_col_identifier(df4,x) for x in df4.columns]
-if 'work date' in col_type_ls:
-    work_date_index = col_type_ls.index('work date') 
-else:
-    work_date_index = col_type_ls.index('description') 
-work_date_index
-
-# COMMAND ----------
-
-[prep_col_identifier(df4,x) for x in df4.columns].index('description') 
-
-# COMMAND ----------
-
-[prep_col_identifier(df4,x) for x in df4.columns].index('work date') 
-
-# COMMAND ----------
-
-for idx in df4.columns:
-    print(prep_col_identifier(df4,idx))
-
-# COMMAND ----------
-
-[idx for idx, s in enumerate(df4.mode().iloc[0].astype(str)) if '2022' in s]
-
-# COMMAND ----------
-
-df4.mode().iloc[0].astype(str)
-
-# COMMAND ----------
-
-df4
-
-# COMMAND ----------
-
-list(range(work_name_index+2,quantity_index))
-
-# COMMAND ----------
-
-(prep_col_identifier(df4,3),prep_col_identifier(df4,4),prep_col_identifier(df4,5),prep_col_identifier(df4,6))
-
-# COMMAND ----------
-
-if df4[3].mode().empty:
-    print(4)
-
-# COMMAND ----------
-
-df4
-
-# COMMAND ----------
-
-[idx for idx, s in enumerate(df4.mode().iloc[0]) if '2022' in s][0]
-
-# COMMAND ----------
-
-[idx for idx, s in enumerate(df4.mode().iloc[0].astype(str)) if '2022' in s][0]
-
-# COMMAND ----------
-
-df4.mode().iloc[0].astype(str)
-
-# COMMAND ----------
-
-for i in enumerate(df4.mode().iloc[0]):
-    print('2022' in i)
-
-# COMMAND ----------
-
-# remove rows with Total
-df3 = df4[~df4[3].str.contains('Total',na=False)]
-display(df3)
-
-# COMMAND ----------
-
-# remove rows with Total
-df4 = df4[~df4[3].str.contains('Total',na=False)]
-
-# COMMAND ----------
-
-df4.mode().iloc[0]
-
-# COMMAND ----------
-
-list(range(work_name_index+2,quantity_index))
-
-# COMMAND ----------
-
-(df4[4].mode()[0],df4[5].mode()[0],df4[6].mode()[0])
-
-# COMMAND ----------
-
-(prep_col_identifier(df4,4),prep_col_identifier(df4,5),prep_col_identifier(df4,6))
-
-# COMMAND ----------
-
-pattern = "^[0-9]+\s+[ A-Za-z0-9_@./#&+-]+"
-re.search(pattern, df4[4].mode()[0])
-
-# COMMAND ----------
-
-print(df4[5].mode()[0])
-
-# COMMAND ----------
-
-# null columns are found in between columns of interest
-#if two consecutive columns beyond column 4 have >50% null coalesce them       
-for col in range(work_name_index+2,quantity_index):
-    if prep_col_identifier(df4,col) == prep_col_identifier(df4,col-1):
-        df4[col] = df4[col].combine_first(df4[col-1])
-        df4 = df4.drop([col-1],axis=1)
-        
-display(df4)
-
-# COMMAND ----------
-
-pandas_df4
-
-# COMMAND ----------
-
-df4
-
-# COMMAND ----------
-
-pd.to_numeric(df4['Quantity']).sum()
-
-# COMMAND ----------
-
-file

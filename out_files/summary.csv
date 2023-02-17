@@ -1,0 +1,19 @@
+,File,RECOGNIZER Status,Trials,Duration,GET Status,JSON READ Status,CLEAN STEP Status,APPEND Status,No of Columns,Sum of Quanity,Actual Quanity,ACCURACY CHECK Status,Perc Error
+0,5201459813.tif,succeeded,10,101.70430517196655,succeeded,succeeded,succeeded,succeeded,7.0,4170.5,"4,170.50",failed,
+1,5201554043.tif,succeeded,15,151.15763998031616,GET Layout results timed out,failed,,,,,,,
+2,5201553471.tif,succeeded,15,150.94833540916443,GET Layout results timed out,failed,,,,,,,
+3,5201553399.tif,succeeded,15,150.98489618301392,GET Layout results timed out,failed,,,,,,,
+4,5201554521.tif,succeeded,14,141.9640293121338,succeeded,succeeded,succeeded,succeeded,7.0,11695.0,"11,695.00",failed,
+5,5201546855.tif,succeeded,10,101.57848620414734,succeeded,succeeded,succeeded,succeeded,8.0,377.0,377.00,succeeded,0.0
+6,5201553458.tif,succeeded,15,151.14075469970703,GET Layout results timed out,failed,,,,,,,
+7,5201571527.tif,succeeded,2,20.71868133544922,succeeded,succeeded,succeeded,succeeded,8.0,2.0,2.00,failed,
+8,5201571530.tif,succeeded,3,30.689651250839233,succeeded,succeeded,succeeded,succeeded,8.0,85.0,85.00,succeeded,0.0
+9,5201461561.tif,succeeded,4,40.772059202194214,succeeded,succeeded,succeeded,succeeded,7.0,140.0,140.00,succeeded,0.0
+10,5201571515.tif,succeeded,6,61.19998908042908,succeeded,succeeded,succeeded,succeeded,8.0,482.0,482.00,succeeded,0.0
+11,5201574247.tif,succeeded,14,142.1948482990265,succeeded,succeeded,succeeded,succeeded,7.0,12956.0,"12,956.00",succeeded,0.0
+12,5201564372.tif,succeeded,7,71.20783352851868,succeeded,succeeded,succeeded,succeeded,7.0,659.0,659.00,succeeded,0.0
+13,5201574248.tif,succeeded,13,131.8950548171997,succeeded,succeeded,succeeded,succeeded,7.0,9630.5,"9,630.50",succeeded,0.0
+14,5201461569.tif,succeeded,8,81.14074945449829,succeeded,succeeded,succeeded,succeeded,7.0,2768.0,"2,768.00",succeeded,0.0
+15,5201464619.tif,succeeded,3,30.854552507400513,succeeded,succeeded,succeeded,succeeded,7.0,550.0,550.00,succeeded,0.0
+16,5201467531.tif,succeeded,10,101.68760514259338,succeeded,succeeded,succeeded,succeeded,7.0,6485.5,"6,485.50",succeeded,0.0
+17,5201563177.tif,succeeded,3,30.643720388412476,succeeded,succeeded,succeeded,succeeded,8.0,45.0,45.00,succeeded,0.0
