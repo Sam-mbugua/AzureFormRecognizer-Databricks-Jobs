@@ -365,24 +365,4 @@ display(perf_df_res)
 
 # COMMAND ----------
 
-perf_dict
-
-# COMMAND ----------
-
-print(float(perf_dict['Actual Quanity'].replace(',','')))
-
-# COMMAND ----------
-
-display(perf_df_res)
-
-# COMMAND ----------
-
-perf_df
-
-# COMMAND ----------
-
-(659-659)*100/659
-
-# COMMAND ----------
-
 # MAGIC %md ##Debug
