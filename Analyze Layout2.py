@@ -78,7 +78,7 @@ def form_recognizer_input(source):
 def json_form_recognizer_load(returned_url):
     apim_key = "13a22a02075145e5ac378bdfe7725892"
     
-    n_tries = 15
+    n_tries = 40
     n_try = 0
     wait_sec = 10
     resp_json = ""
