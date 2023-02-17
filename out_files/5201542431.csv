@@ -1,0 +1,34 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,10,347429 Mike Barr,Insulator Journeyman,"Sep 9, 2022",Overtime,10.00
+1,,,347429 Mike Barr,Insulator Journeyman,"Sep 10, 2022",Overtime,10.00
+2,,,347682 Scott Houser,Crew Foreman-Compulsory,"Sep 9, 2022",Overtime,10.00
+3,,,347682 Scott Houser,Crew Foreman-Compulsory,"Sep 10, 2022",Overtime,10.00
+4,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Aug 29, 2022",Regular,10.00
+5,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Aug 30, 2022",Regular,10.00
+6,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Aug 31, 2022",Regular,10.00
+7,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 1, 2022",Regular,10.00
+8,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 6, 2022",Regular,10.00
+9,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 7, 2022",Regular,10.00
+10,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 8, 2022",Regular,10.00
+11,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 9, 2022",Overtime,10.00
+12,,,347703 Gerald Jennex,Crew Foreman-Compulsory,"Sep 10, 2022",Overtime,10.00
+13,,,347802 Dennis Maclean,Insulator Journeyman,"Sep 9, 2022",Overtime,10.00
+14,,,347802 Dennis Maclean,Insulator Journeyman,"Sep 10, 2022",Overtime,10.00
+15,,,348971 Chris Radke,Crew Foreman-Compulsory,,Overtime,10.00
+16,,,348971 Chris Radke,Crew Foreman-Compulsory,"Sep 9, 2022",Subsistence,125.00
+17,,,348971 Chris Radke,Crew Foreman-Compulsory,"Sep 10, 2022",Overtime,10.00
+18,,,348971 Chris Radke,Crew Foreman-Compulsory,,Subsistence,125.00
+19,,,351999 Taylor Love,Crew Foreman-Compulsory,"Aug 29, 2022",Regular,10.00
+20,,,351999 Taylor Love,Crew Foreman-Compulsory,"Aug 30, 2022",Regular,10.00
+21,,,351999 Taylor Love,Crew Foreman-Compulsory,"Aug 31, 2022",Regular,10.00
+22,,,351999 Taylor Love,Crew Foreman-Compulsory,"Sep 1, 2022",Regular,10.00
+23,,,351999 Taylor Love,Crew Foreman-Compulsory,"Sep 6, 2022",Regular,10.00
+24,,,351999 Taylor Love,Crew Foreman-Compulsory,"Sep 7, 2022",Regular,10.00
+25,,,351999 Taylor Love,Crew Foreman-Compulsory,"Sep 8, 2022",Regular,10.00
+26,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Aug 29, 2022",Regular,10.00
+27,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Aug 30, 2022",Regular,10.00
+28,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Aug 31, 2022",Regular,10.00
+29,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Sep 1, 2022",Regular,10.00
+30,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Sep 6, 2022",Regular,10.00
+31,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Sep 7, 2022",Regular,10.00
+32,,,355938 Darrell Coughlin,Crew Foreman-Compulsory,"Sep 8, 2022",Regular,10.00

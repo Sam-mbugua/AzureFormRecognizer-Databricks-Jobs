@@ -1,0 +1,159 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,9,347478 Dave Carleton,Heavy Equipment Journeyman,"Feb 28, 2022",Regular,10.00
+1,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 1, 2022",Regular,10.00
+2,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 2, 2022",Regular,10.00
+3,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 3, 2022",Regular,10.00
+4,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 7, 2022",Regular,7.00
+5,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 8, 2022",Regular,10.00
+6,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 9, 2022",Regular,10.00
+7,,,347478 Dave Carleton,Heavy Equipment Journeyman,"Mar 10, 2022",Regular,10.00
+8,,,347512 John Cramer,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+9,,,347512 John Cramer,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+10,,,347512 John Cramer,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+11,,,347512 John Cramer,Pipefitter Journeyman,"Mar 3, 2022",Regular,10.00
+12,,,347512 John Cramer,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+13,,,347512 John Cramer,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+14,,,347512 John Cramer,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+15,,,347512 John Cramer,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+16,,,347528 Craig Decker,Foreman/Planner,"Feb 28, 2022",Regular,10.00
+17,,,347528 Craig Decker,Foreman/Planner,"Mar 1, 2022",Regular,10.00
+18,,,347528 Craig Decker,Foreman/Planner,"Mar 2, 2022",Regular,10.00
+19,,,347528 Craig Decker,Foreman/Planner,"Mar 3, 2022",Regular,10.00
+20,,,347528 Craig Decker,Foreman/Planner,"Mar 7, 2022",Regular,10.00
+21,,,347528 Craig Decker,Foreman/Planner,"Mar 8, 2022",Regular,10.00
+22,,,347528 Craig Decker,Foreman/Planner,"Mar 9, 2022",Regular,10.00
+23,,,347528 Craig Decker,Foreman/Planner,"Mar 10, 2022",Regular,10.00
+24,,,347583 Brian Fitterer,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+25,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+26,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+27,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+28,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+29,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+30,,,347583 Brian Fitterer,Pipefitter Journeyman,,Overtime,2.00
+31,,,347583 Brian Fitterer,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+32,,,347583 Brian Fitterer,Pipefitter Journeyman,,Overtime,0.50
+33,,,347585 William Flinn,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+34,,,347585 William Flinn,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+35,,,347585 William Flinn,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+36,,,347585 William Flinn,Pipefitter Journeyman,"Mar 3, 2022",Regular,10.00
+37,,,347585 William Flinn,Pipefitter Journeyman,"Mar 4, 2022",Overtime,10.00
+38,,,347585 William Flinn,Pipefitter Journeyman,"Mar 5, 2022",Overtime,10.00
+39,,,347585 William Flinn,Pipefitter Journeyman,"Mar 6, 2022",Overtime,10.00
+40,,,347585 William Flinn,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+41,,,347585 William Flinn,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+42,,,347585 William Flinn,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+43,,,347585 William Flinn,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+44,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Feb 28, 2022",Regular,10.00
+45,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 1, 2022",Regular,10.00
+46,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 2, 2022",Regular,10.00
+47,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 3, 2022",Regular,10.00
+48,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 7, 2022",Regular,10.00
+49,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 8, 2022",Regular,10.00
+50,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 9, 2022",Regular,10.00
+51,,,347660 Kaycee Hecht,Industrial Labourer Skilled,"Mar 10, 2022",Regular,10.00
+52,,,347690 Jesse Inkster,Insulator Journeyman,"Mar 7, 2022",Regular,10.00
+53,,,347716 Bobbi Kamps,Scaffolder JM,"Feb 28, 2022",Regular,10.00
+54,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 1, 2022",Regular,10.00
+55,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 2, 2022",Regular,10.00
+56,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 3, 2022",Regular,10.00
+57,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 7, 2022",Regular,10.00
+58,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 8, 2022",Regular,10.00
+59,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 9, 2022",Regular,10.00
+60,,,347716 Bobbi Kamps,Scaffolder JM,"Mar 10, 2022",Regular,10.00
+61,,,347812 Mike Marshall,Scaffolder JM,"Feb 28, 2022",Regular,10.00
+62,,,347812 Mike Marshall,Scaffolder JM,"Mar 1, 2022",Regular,10.00
+63,,,347812 Mike Marshall,Scaffolder JM,"Mar 2, 2022",Regular,10.00
+64,,,347812 Mike Marshall,Scaffolder JM,"Mar 3, 2022",Regular,10.00
+65,,,347812 Mike Marshall,Scaffolder JM,"Mar 7, 2022",Regular,10.00
+66,,,347812 Mike Marshall,Scaffolder JM,"Mar 8, 2022",Regular,10.00
+67,,,347812 Mike Marshall,Scaffolder JM,"Mar 9, 2022",Regular,10.00
+68,,,347812 Mike Marshall,Scaffolder JM,"Mar 10, 2022",Regular,10.00
+69,,,347865 Bradley Moe,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+70,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+71,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+72,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 3, 2022",Regular,10.00
+73,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+74,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+75,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+76,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+77,,,347865 Bradley Moe,Pipefitter Journeyman,"Mar 11, 2022",Overtime,5.50
+78,,,348030 Mike Slimmon,Automotive Journeyman,"Feb 28, 2022",Regular,10.00
+79,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 1, 2022",Regular,10.00
+80,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 2, 2022",Regular,10.00
+81,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 3, 2022",Regular,10.00
+82,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 7, 2022",Regular,10.00
+83,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 8, 2022",Regular,10.00
+84,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 9, 2022",Regular,10.00
+85,,,348030 Mike Slimmon,Automotive Journeyman,"Mar 10, 2022",Regular,10.00
+86,,,348060 Tracy Swanson,Foreman/Planner,"Feb 28, 2022",Regular,10.00
+87,,,348060 Tracy Swanson,Foreman/Planner,"Mar 1, 2022",Regular,10.00
+88,,,348060 Tracy Swanson,Foreman/Planner,"Mar 2, 2022",Regular,8.50
+89,,,348060 Tracy Swanson,Foreman/Planner,"Mar 3, 2022",Regular,10.00
+90,,,348060 Tracy Swanson,Foreman/Planner,"Mar 4, 2022",Regular,1.50
+91,,,348060 Tracy Swanson,Foreman/Planner,,Overtime,8.50
+92,,,348060 Tracy Swanson,Foreman/Planner,"Mar 7, 2022",Regular,10.00
+93,,,348060 Tracy Swanson,Foreman/Planner,"Mar 8, 2022",Regular,10.00
+94,,,348060 Tracy Swanson,Foreman/Planner,"Mar 9, 2022",Regular,10.00
+95,,,348060 Tracy Swanson,Foreman/Planner,,Overtime,2.00
+96,,,348060 Tracy Swanson,Foreman/Planner,"Mar 10, 2022",Regular,10.00
+97,,,348060 Tracy Swanson,Foreman/Planner,,Overtime,0.50
+98,,,348060 Tracy Swanson,Foreman/Planner,"Mar 11, 2022",Overtime,5.50
+99,,,348111 Evan White,Scaffolder JM,"Feb 28, 2022",Regular,10.00
+100,,,348111 Evan White,Scaffolder JM,"Mar 1, 2022",Regular,10.00
+101,,,348111 Evan White,Scaffolder JM,"Mar 2, 2022",Regular,10.00
+102,,,348111 Evan White,Scaffolder JM,"Mar 3, 2022",Regular,5.00
+103,,,348111 Evan White,Scaffolder JM,"Mar 7, 2022",Regular,10.00
+104,,,348111 Evan White,Scaffolder JM,"Mar 8, 2022",Regular,7.00
+105,,,348111 Evan White,Scaffolder JM,"Mar 9, 2022",Regular,10.00
+106,,,348111 Evan White,Scaffolder JM,"Mar 10, 2022",Regular,10.00
+107,,,348149 John Tucker,Pipefitter Journeyman,"Mar 11, 2022",Overtime,10.00
+108,,,348224 Richard Hardie,General Foreman,"Feb 28, 2022",Regular,10.00
+109,,,348224 Richard Hardie,General Foreman,"Mar 1, 2022",Regular,10.00
+110,,,348224 Richard Hardie,General Foreman,"Mar 2, 2022",Regular,10.00
+111,,,348224 Richard Hardie,General Foreman,"Mar 3, 2022",Regular,10.00
+112,,,348224 Richard Hardie,General Foreman,"Mar 7, 2022",Regular,10.00
+113,,,348224 Richard Hardie,General Foreman,"Mar 8, 2022",Regular,10.00
+114,,,348224 Richard Hardie,General Foreman,"Mar 9, 2022",Regular,10.00
+115,,,348224 Richard Hardie,General Foreman,"Mar 10, 2022",Regular,10.00
+116,,,348224 Richard Hardie,General Foreman,,Overtime,1.00
+117,,,349019 Travis Young,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+118,,,349019 Travis Young,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+119,,,349019 Travis Young,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+120,,,349019 Travis Young,Pipefitter Journeyman,"Mar 4, 2022",Overtime,10.00
+121,,,349019 Travis Young,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+122,,,349019 Travis Young,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+123,,,349019 Travis Young,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+124,,,349019 Travis Young,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+125,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+126,,,352402 Ryan Devlin,Insulator Journeyman,"Feb 28, 2022",Regular,10.00
+127,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 1, 2022",Regular,10.00
+128,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 2, 2022",Regular,10.00
+129,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 3, 2022",Regular,10.00
+130,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 4, 2022",Overtime,10.00
+131,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 7, 2022",Regular,10.00
+132,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 8, 2022",Regular,10.00
+133,,,352402 Ryan Devlin,Insulator Journeyman,,Regular,10.00
+134,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 9, 2022",Overtime,2.00
+135,,,352402 Ryan Devlin,Insulator Journeyman,"Mar 10, 2022",Regular,10.00
+136,,,352402 Ryan Devlin,Insulator Journeyman,,Overtime,0.50
+137,,,355080 Andrew Galloway,Pipefitter Journeyman,"Feb 28, 2022",Regular,10.00
+138,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 1, 2022",Regular,10.00
+139,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 2, 2022",Regular,10.00
+140,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 4, 2022",Overtime,10.00
+141,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 7, 2022",Regular,10.00
+142,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 8, 2022",Regular,10.00
+143,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 9, 2022",Regular,10.00
+144,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 10, 2022",Regular,10.00
+145,,,355080 Andrew Galloway,Pipefitter Journeyman,"Mar 11, 2022",Overtime,5.50
+146,,,355500 Dan Hegemann,Pipefitter AP 4.0 YR,"Feb 28, 2022",Regular,10.00
+147,,,355500 Dan Hegemann,Pipefitter AP 4.0 YR,"Mar 1, 2022",Regular,10.00
+148,,,355500 Dan Hegemann,Pipefitter AP 4.0 YR,"Mar 2, 2022",Regular,10.00
+149,,,355500 Dan Hegemann,Pipefitter AP 4.0 YR,"Mar 10, 2022",Regular,10.00
+150,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Feb 28, 2022",Regular,10.00
+151,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 1, 2022",Regular,10.00
+152,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 2, 2022",Regular,10.00
+153,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 3, 2022",Regular,10.00
+154,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 7, 2022",Regular,10.00
+155,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 8, 2022",Regular,10.00
+156,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 9, 2022",Regular,10.00
+157,,,355928 Daryl Oborne,Heavy Equipment Journeyman,"Mar 10, 2022",Regular,10.00

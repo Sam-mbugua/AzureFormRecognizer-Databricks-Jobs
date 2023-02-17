@@ -1,0 +1,134 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,3,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 11, 2022",Regular,10.00
+1,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 12, 2022",Regular,10.00
+2,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 13, 2022",Regular,10.00
+3,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 14, 2022",Regular,10.00
+4,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 19, 2022",Regular,10.00
+5,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 20, 2022",Regular,10.00
+6,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Apr 21, 2022",Regular,10.00
+7,,,347416 Derek Auvigne,Foreman/Planner,"Apr 11, 2022",Regular,2.00
+8,,,347416 Derek Auvigne,Foreman/Planner,"Apr 12, 2022",Regular,2.00
+9,,,347416 Derek Auvigne,Foreman/Planner,"Apr 13, 2022",Regular,2.00
+10,,,347416 Derek Auvigne,Foreman/Planner,"Apr 14, 2022",Regular,2.00
+11,,,347429 Mike Barr,Insulator Journeyman,"Apr 11, 2022",Regular,10.00
+12,,,347429 Mike Barr,Insulator Journeyman,"Apr 12, 2022",Regular,10.00
+13,,,347429 Mike Barr,Insulator Journeyman,"Apr 13, 2022",Regular,10.00
+14,,,347429 Mike Barr,Insulator Journeyman,"Apr 14, 2022",Regular,10.00
+15,,,347429 Mike Barr,Insulator Journeyman,"Apr 19, 2022",Regular,10.00
+16,,,347429 Mike Barr,Insulator Journeyman,"Apr 20, 2022",Regular,10.00
+17,,,347429 Mike Barr,Insulator Journeyman,"Apr 21, 2022",Regular,10.00
+18,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 11, 2022",Regular,10.00
+19,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 12, 2022",Regular,8.00
+20,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 13, 2022",Regular,10.00
+21,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 14, 2022",Regular,10.00
+22,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 19, 2022",Regular,10.00
+23,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 20, 2022",Regular,10.00
+24,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Apr 21, 2022",Regular,10.00
+25,,,347527 Jeffrey Dean,Foreman/Planner,"Apr 11, 2022",Regular,2.00
+26,,,347527 Jeffrey Dean,Foreman/Planner,"Apr 12, 2022",Regular,2.00
+27,,,347527 Jeffrey Dean,Foreman/Planner,"Apr 13, 2022",Regular,2.00
+28,,,347527 Jeffrey Dean,Foreman/Planner,"Apr 14, 2022",Regular,2.00
+29,,,347695 John Jackson,Foreman/Planner,"Apr 11, 2022",Regular,10.00
+30,,,347695 John Jackson,Foreman/Planner,"Apr 12, 2022",Regular,10.00
+31,,,347695 John Jackson,Foreman/Planner,"Apr 13, 2022",Regular,10.00
+32,,,347695 John Jackson,Foreman/Planner,"Apr 14, 2022",Regular,10.00
+33,,,347695 John Jackson,Foreman/Planner,"Apr 19, 2022",Regular,10.00
+34,,,347695 John Jackson,Foreman/Planner,"Apr 20, 2022",Regular,10.00
+35,,,347695 John Jackson,Foreman/Planner,"Apr 21, 2022",Regular,10.00
+36,,,347695 John Jackson,Foreman/Planner,"Apr 23, 2022",Regular,4.00
+37,,,347697 Adam Jackson,Scaffolder JM,"Apr 11, 2022",Regular,10.00
+38,,,347697 Adam Jackson,Scaffolder JM,"Apr 12, 2022",Regular,10.00
+39,,,347697 Adam Jackson,Scaffolder JM,"Apr 13, 2022",Regular,10.00
+40,,,347697 Adam Jackson,Scaffolder JM,"Apr 14, 2022",Regular,10.00
+41,,,347697 Adam Jackson,Scaffolder JM,"Apr 19, 2022",Regular,10.00
+42,,,347697 Adam Jackson,Scaffolder JM,"Apr 20, 2022",Regular,10.00
+43,,,347697 Adam Jackson,Scaffolder JM,"Apr 21, 2022",Regular,10.00
+44,,,347703 Gerald Jennex,Foreman/Planner,"Apr 11, 2022",Regular,10.00
+45,,,347703 Gerald Jennex,Foreman/Planner,"Apr 12, 2022",Regular,10.00
+46,,,347703 Gerald Jennex,Foreman/Planner,"Apr 13, 2022",Regular,10.00
+47,,,347703 Gerald Jennex,Foreman/Planner,"Apr 14, 2022",Regular,10.00
+48,,,347703 Gerald Jennex,Foreman/Planner,"Apr 19, 2022",Regular,10.00
+49,,,347703 Gerald Jennex,Foreman/Planner,"Apr 20, 2022",Regular,10.00
+50,,,347703 Gerald Jennex,Foreman/Planner,"Apr 21, 2022",Regular,10.00
+51,,,347742 Dalton Kress,Foreman/Planner,"Apr 11, 2022",Regular,10.00
+52,,,347742 Dalton Kress,Foreman/Planner,"Apr 12, 2022",Regular,10.00
+53,,,347742 Dalton Kress,Foreman/Planner,"Apr 13, 2022",Regular,10.00
+54,,,347742 Dalton Kress,Foreman/Planner,"Apr 14, 2022",Regular,10.00
+55,,,347742 Dalton Kress,Foreman/Planner,"Apr 19, 2022",Regular,10.00
+56,,,347742 Dalton Kress,Foreman/Planner,"Apr 20, 2022",Regular,10.00
+57,,,347742 Dalton Kress,Foreman/Planner,"Apr 21, 2022",Regular,10.00
+58,,,347759 Sheldon Lane,General Foreman,"Apr 11, 2022",Regular,10.00
+59,,,347759 Sheldon Lane,General Foreman,"Apr 12, 2022",Regular,10.00
+60,,,347759 Sheldon Lane,General Foreman,"Apr 13, 2022",Regular,10.00
+61,,,347759 Sheldon Lane,General Foreman,"Apr 14, 2022",Regular,10.00
+62,,,347759 Sheldon Lane,General Foreman,"Apr 19, 2022",Regular,10.00
+63,,,347759 Sheldon Lane,General Foreman,"Apr 20, 2022",Regular,10.00
+64,,,347759 Sheldon Lane,General Foreman,"Apr 21, 2022",Regular,10.00
+65,,,347966 Donald Reaney,Scaffolder JM,"Apr 11, 2022",Regular,10.00
+66,,,347966 Donald Reaney,Scaffolder JM,"Apr 12, 2022",Regular,10.00
+67,,,347966 Donald Reaney,Scaffolder JM,"Apr 13, 2022",Regular,10.00
+68,,,347966 Donald Reaney,Scaffolder JM,"Apr 14, 2022",Regular,10.00
+69,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 11, 2022",Regular,10.00
+70,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 12, 2022",Regular,10.00
+71,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 13, 2022",Regular,10.00
+72,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 14, 2022",Regular,10.00
+73,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 19, 2022",Regular,10.00
+74,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 20, 2022",Regular,10.00
+75,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Apr 21, 2022",Regular,10.00
+76,,,348051 Brad Storr,Scaffolder JM,"Apr 19, 2022",Regular,10.00
+77,,,348051 Brad Storr,Scaffolder JM,"Apr 20, 2022",Regular,10.00
+78,,,348051 Brad Storr,Scaffolder JM,"Apr 21, 2022",Regular,10.00
+79,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 11, 2022",Regular,10.00
+80,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 12, 2022",Regular,10.00
+81,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 13, 2022",Regular,10.00
+82,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 14, 2022",Regular,10.00
+83,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 19, 2022",Regular,10.00
+84,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 20, 2022",Regular,10.00
+85,,,348087 Nathan Van someren,Pipefitter Journeyman,"Apr 21, 2022",Regular,10.00
+86,,,348104 Dustin Watson,General Foreman,"Apr 11, 2022",Regular,2.00
+87,,,348104 Dustin Watson,General Foreman,"Apr 12, 2022",Regular,2.00
+88,,,348104 Dustin Watson,General Foreman,"Apr 13, 2022",Regular,2.00
+89,,,348104 Dustin Watson,General Foreman,"Apr 14, 2022",Regular,2.00
+90,,,348104 Dustin Watson,General Foreman,"Apr 19, 2022",Regular,2.00
+91,,,348104 Dustin Watson,General Foreman,"Apr 21, 2022",Regular,2.00
+92,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 11, 2022",Regular,10.00
+93,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 12, 2022",Regular,10.00
+94,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 13, 2022",Regular,10.00
+95,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 14, 2022",Regular,10.00
+96,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 19, 2022",Regular,2.00
+97,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 20, 2022",Regular,10.00
+98,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Apr 21, 2022",Regular,10.00
+99,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+100,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 12, 2022",Subsistence,115.00
+101,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+102,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 13, 2022",Subsistence,115.00
+103,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+104,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 14, 2022",Subsistence,115.00
+105,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+106,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 19, 2022",Subsistence,115.00
+107,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+108,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 20, 2022",Subsistence,115.00
+109,,,349015 Kenneth Lay,Pipefitter Journeyman,,Regular,10.00
+110,,,349015 Kenneth Lay,Pipefitter Journeyman,"Apr 21, 2022",Subsistence,115.00
+111,,,352630 Cody Lychuk,Insulator Journeyman,"Apr 11, 2022",Regular,5.00
+112,,,352630 Cody Lychuk,Insulator Journeyman,"Apr 21, 2022",Regular,10.00
+113,,,354690 Nathan Barker,Pipefitter Journeyman,"Apr 11, 2022",Regular,10.00
+114,,,354690 Nathan Barker,Pipefitter Journeyman,"Apr 12, 2022",Regular,10.00
+115,,,354690 Nathan Barker,Pipefitter Journeyman,"Apr 13, 2022",Regular,10.00
+116,,,354697 Michael Reyda,Pipefitter AP 3.0 YR,"Apr 19, 2022",Regular,10.00
+117,,,354697 Michael Reyda,Pipefitter AP 3.0 YR,"Apr 20, 2022",Regular,10.00
+118,,,354697 Michael Reyda,Pipefitter AP 3.0 YR,"Apr 21, 2022",Regular,10.00
+119,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 11, 2022",Regular,10.00
+120,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 12, 2022",Regular,10.00
+121,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 13, 2022",Regular,10.00
+122,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 14, 2022",Regular,10.00
+123,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 19, 2022",Regular,10.00
+124,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 20, 2022",Regular,10.00
+125,,,355647 Sky Langevin-Love,Labourer Entry,"Apr 21, 2022",Regular,10.00
+126,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 11, 2022",Regular,10.00
+127,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 12, 2022",Regular,10.00
+128,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 13, 2022",Regular,10.00
+129,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 14, 2022",Regular,10.00
+130,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 19, 2022",Regular,10.00
+131,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 20, 2022",Regular,10.00
+132,,,355938 Darrell Coughlin,Foreman/Planner,"Apr 21, 2022",Regular,10.00

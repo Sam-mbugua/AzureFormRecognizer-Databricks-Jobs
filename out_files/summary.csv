@@ -1,19 +1,24 @@
-,File,RECOGNIZER Status,Trials,Duration,GET Status,JSON READ Status,CLEAN STEP Status,APPEND Status,No of Columns,Sum of Quanity,Actual Quanity,ACCURACY CHECK Status,Perc Error
-0,5201459813.tif,succeeded,10,101.70430517196655,succeeded,succeeded,succeeded,succeeded,7.0,4170.5,"4,170.50",failed,
-1,5201554043.tif,succeeded,15,151.15763998031616,GET Layout results timed out,failed,,,,,,,
-2,5201553471.tif,succeeded,15,150.94833540916443,GET Layout results timed out,failed,,,,,,,
-3,5201553399.tif,succeeded,15,150.98489618301392,GET Layout results timed out,failed,,,,,,,
-4,5201554521.tif,succeeded,14,141.9640293121338,succeeded,succeeded,succeeded,succeeded,7.0,11695.0,"11,695.00",failed,
-5,5201546855.tif,succeeded,10,101.57848620414734,succeeded,succeeded,succeeded,succeeded,8.0,377.0,377.00,succeeded,0.0
-6,5201553458.tif,succeeded,15,151.14075469970703,GET Layout results timed out,failed,,,,,,,
-7,5201571527.tif,succeeded,2,20.71868133544922,succeeded,succeeded,succeeded,succeeded,8.0,2.0,2.00,failed,
-8,5201571530.tif,succeeded,3,30.689651250839233,succeeded,succeeded,succeeded,succeeded,8.0,85.0,85.00,succeeded,0.0
-9,5201461561.tif,succeeded,4,40.772059202194214,succeeded,succeeded,succeeded,succeeded,7.0,140.0,140.00,succeeded,0.0
-10,5201571515.tif,succeeded,6,61.19998908042908,succeeded,succeeded,succeeded,succeeded,8.0,482.0,482.00,succeeded,0.0
-11,5201574247.tif,succeeded,14,142.1948482990265,succeeded,succeeded,succeeded,succeeded,7.0,12956.0,"12,956.00",succeeded,0.0
-12,5201564372.tif,succeeded,7,71.20783352851868,succeeded,succeeded,succeeded,succeeded,7.0,659.0,659.00,succeeded,0.0
-13,5201574248.tif,succeeded,13,131.8950548171997,succeeded,succeeded,succeeded,succeeded,7.0,9630.5,"9,630.50",succeeded,0.0
-14,5201461569.tif,succeeded,8,81.14074945449829,succeeded,succeeded,succeeded,succeeded,7.0,2768.0,"2,768.00",succeeded,0.0
-15,5201464619.tif,succeeded,3,30.854552507400513,succeeded,succeeded,succeeded,succeeded,7.0,550.0,550.00,succeeded,0.0
-16,5201467531.tif,succeeded,10,101.68760514259338,succeeded,succeeded,succeeded,succeeded,7.0,6485.5,"6,485.50",succeeded,0.0
-17,5201563177.tif,succeeded,3,30.643720388412476,succeeded,succeeded,succeeded,succeeded,8.0,45.0,45.00,succeeded,0.0
+,File,RECOGNIZER Status,Trials,Duration,GET Status,JSON READ Status,No of Columns,ACCURACY CHECK Status,CLEAN STEP Status,APPEND Status,Sum of Quanity,Actual Quanity,Perc Error
+0,5201490869.tif,succeeded,2,20.66934299468994,succeeded,succeeded,0.0,failed,,,,,
+1,5201473820.tif,succeeded,3,30.963241815567017,succeeded,succeeded,8.0,succeeded,succeeded,succeeded,2.0,2.00,0.0
+2,5201497696.tif,succeeded,2,20.583494901657104,succeeded,succeeded,0.0,failed,,,,,
+3,5201491293.tif,succeeded,2,20.617173194885254,succeeded,succeeded,0.0,failed,,,,,
+4,5201526942.tif,succeeded,3,30.813878297805786,succeeded,succeeded,0.0,failed,,,,,
+5,5201489569.tif,succeeded,9,91.69716715812683,succeeded,failed,8.0,succeeded,succeeded,succeeded,939.5,939.50,0.0
+6,5201526943.tif,succeeded,5,51.26578712463379,succeeded,succeeded,0.0,failed,,,,,
+7,5201526940.tif,succeeded,9,91.34605979919434,succeeded,succeeded,0.0,failed,,,,,
+8,5201542432.tif,succeeded,4,40.914740562438965,succeeded,succeeded,0.0,failed,,,,,
+9,5201492852.tif,succeeded,9,91.54334235191345,succeeded,failed,7.0,succeeded,succeeded,succeeded,1827.0,"1,827.00",0.0
+10,5201478655.tif,succeeded,9,91.26562786102295,succeeded,failed,7.0,succeeded,succeeded,succeeded,1482.5,"1,482.50",0.0
+11,5201542430.tif,succeeded,9,91.2979347705841,succeeded,succeeded,0.0,failed,,,,,
+12,5201550186.tif,succeeded,2,20.808719158172607,succeeded,succeeded,0.0,failed,,,,,
+13,5201542431.tif,succeeded,5,50.87552738189697,succeeded,succeeded,7.0,succeeded,succeeded,succeeded,560.0,560.00,0.0
+14,5201560779.tif,succeeded,2,20.521161317825317,succeeded,failed,,,,,,,
+15,5201566586.tif,succeeded,4,40.7306752204895,succeeded,succeeded,0.0,failed,,,,,
+16,5201568635.tif,succeeded,3,30.56755018234253,succeeded,succeeded,0.0,failed,,,,,
+17,5201542961.tif,succeeded,9,91.38022923469543,succeeded,succeeded,7.0,failed,succeeded,succeeded,,,
+18,5201532272.tif,succeeded,10,100.73264646530151,"GET Layout results failed:
+{'error': {'innerError': {'requestId': 'cdc8eb8c-ce6d-429f-b4af-ea658d7125f5'}, 'code': 'InvalidImageDimension', 'message': 'The input image dimension is out of range. The minimum image dimension is 50 x 50 pixels and the maximum is 10000 x 10000 pixels.'}}",failed,,,,,,,
+19,5201526705.tif,succeeded,19,193.09782552719116,succeeded,succeeded,7.0,failed,succeeded,succeeded,,,
+20,5201554521.tif,succeeded,12,121.534423828125,succeeded,succeeded,7.0,succeeded,succeeded,succeeded,11695.0,"11,695.00",0.0
+21,5201566585.tif,succeeded,15,152.15159726142883,succeeded,failed,9.0,failed,succeeded,succeeded,,,

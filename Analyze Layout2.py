@@ -264,7 +264,7 @@ def get_actual_quantity_sum(resp_json):
 # COMMAND ----------
 
 # folder sources
-input_folder = "input_files"
+input_folder = "edge_case_files"
 output_folder = "out_files"
 files_dir =  os.listdir(input_folder)
 
@@ -344,13 +344,6 @@ for file in files_dir:
         perf_dict['ACCURACY CHECK Status']='succeeded'
     except:
         perf_dict['ACCURACY CHECK Status']='failed' 
-        print(file)
-        print(get_actual_quantity_sum(resp_json))
-        print(perf_dict)
-        display(perf_df)
-        print(float(perf_df['Actual Quanity'][0].replace(',','')))
-        print(perf_df['Sum of Quanity'])
-        print(perf_dict['ACCURACY CHECK Status'])
         
     #compile performance summary 
     perf_df = pd.DataFrame(perf_dict, index=[0])       
@@ -362,6 +355,10 @@ for file in files_dir:
 #display(df_res) 
 perf_df_res.to_csv(output_folder+r"/"+"summary.csv")
 display(perf_df_res)
+
+# COMMAND ----------
+
+display(df_res)
 
 # COMMAND ----------
 

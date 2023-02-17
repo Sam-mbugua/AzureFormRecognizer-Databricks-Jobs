@@ -1,0 +1,104 @@
+,PURCHASE ORDER,LINE #,WORK ORDER #,Work Date,Resource,Description,Bill Type,Quantity
+0,4501097311,008,6873728,"Feb 14, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+1,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+2,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,10.00
+3,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+4,,,6873728,,354437 Anand Channan,Equipment Operator - Grader,Regular,10.00
+5,,,6873728,"Feb 15, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+6,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,5.00
+7,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+8,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+9,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,10.00
+10,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,10.00
+11,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+12,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+13,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,10.00
+14,,,6873728,,354437 Anand Channan,Equipment Operator - Grader,Regular,2.00
+15,,,6873728,"Feb 16, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+16,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+17,,,6873728,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+18,,,6873728,,349993 Neil Glover,Equip Operator - Utility (L3),Regular,10.00
+19,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+20,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+21,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,10.00
+22,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,10.00
+23,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+24,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+25,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,10.00
+26,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Regular,10.00
+27,,,6873728,"Feb 17, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+28,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+29,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+30,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,10.00
+31,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,5.00
+32,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+33,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+34,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,10.00
+35,,,6873728,"Feb 18, 2022",348943 Maynard Wideman,General Foreman,Overtime,3.00
+36,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+37,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Overtime,8.00
+38,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Overtime,10.00
+39,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Overtime,10.00
+40,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Overtime,10.00
+41,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Regular,8.00
+42,4501097311,,6873728,"Feb 19, 2022",348950 Ashley Shears,Equip Operator - Utility (L3),Overtime,7.50
+43,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Overtime,5.00
+44,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Overtime,7.50
+45,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Overtime,8.00
+46,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Overtime,7.50
+47,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Overtime,3.00
+48,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Regular,2.00
+49,,,6873728,"Feb 20, 2022",348950 Ashley Shears,Equip Operator - Utility (L3),Overtime,11.00
+50,,,6873728,,349984 Terry Torraville,Operator Foreman,Overtime,11.00
+51,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Overtime,11.00
+52,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Overtime,11.00
+53,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Overtime,11.00
+54,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Overtime,11.00
+55,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Overtime,11.00
+56,,,6873728,"Feb 22, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+57,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+58,,,6873728,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+59,,,6873728,,349993 Neil Glover,Equip Operator - Utility (L3),Regular,10.00
+60,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+61,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+62,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,10.00
+63,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,8.00
+64,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+65,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+66,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,10.00
+67,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Regular,10.00
+68,,,6873728,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+69,,,6873728,"Feb 23, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+70,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+71,,,6873728,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+72,,,6873728,,349993 Neil Glover,Equip Operator - Utility (L3),Regular,10.00
+73,,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+74,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+75,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,10.00
+76,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,8.00
+77,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,10.00
+78,,,6873728,,353290 Hailey Gurney,Labourer (level 3),Regular,10.00
+79,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,10.00
+80,,,6873728,,355773 Ryan Lidstone,Labourer (level 3),Regular,10.00
+81,,,6873728,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+82,,,6873728,"Feb 24, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+83,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+84,,,6873728,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+85,4501097311,,6873728,,349995 Chianne Amthor,Labourer (level 3),Regular,10.00
+86,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+87,,,6873728,,353174 John Folkerts,Equip Operator - Utility (L3),Regular,5.00
+88,,,6873728,,353175 David Nelson,Equip Operator - Utility (L1),Regular,8.00
+89,,,6873728,,353201 Dale Redman,Pipefitter - Journeyman,Regular,5.00
+90,,,6873728,,353433 Kyle Duffin,Equip Operator - Utility (L3),Regular,5.00
+91,,,6873728,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+92,,,6873728,"Feb 25, 2022",348943 Maynard Wideman,General Foreman,Regular,10.00
+93,,,6873728,,348950 Ashley Shears,Equip Operator - Utility (L3),Regular,10.00
+94,,,6873728,,349984 Terry Torraville,Operator Foreman,Overtime,1.00
+95,,,6873728,,349984 Terry Torraville,Operator Foreman,Regular,10.00
+96,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Regular,10.00
+97,,,6873728,,355809 Riley Christensen,Labourer (level 3),Regular,10.00
+98,,,6873728,"Feb 26, 2022",348943 Maynard Wideman,General Foreman,Overtime,12.00
+99,,,6873728,,349984 Terry Torraville,Operator Foreman,Overtime,8.00
+100,,,6873728,,349993 Neil Glover,Equip Operator - Utility (L3),Regular,5.00
+101,,,6873728,,353173 Kelly Blair,Equip Operator - Utility (L3),Overtime,8.00
+102,,,6873728,,355809 Riley Christensen,Labourer (level 3),Overtime,8.00

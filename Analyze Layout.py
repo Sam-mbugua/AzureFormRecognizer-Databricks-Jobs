@@ -383,7 +383,7 @@ display(perf_df_res)
 
 # COMMAND ----------
 
-display(perf_df_res)
+display(df_res)
 
 # COMMAND ----------
 

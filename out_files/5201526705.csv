@@ -1,0 +1,559 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,4,,Subsistence,"1,630.00",0.00,"1,630.00"
+1,,,Scaffolder JM,,"2,008.00",,"22,266.75"
+2,4501097370,4,347364 Aron Jensen,Insulator Journeyman,"Jun 5, 2022",Overtime,11.50
+3,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+4,,,347364 Aron Jensen,Insulator Journeyman,,Regular,10.00
+5,,,347364 Aron Jensen,Insulator Journeyman,"Jun 6, 2022",Overtime,1.50
+6,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+7,,,347364 Aron Jensen,Insulator Journeyman,,Regular,10.00
+8,,,347364 Aron Jensen,Insulator Journeyman,"Jun 7, 2022",Overtime,1.50
+9,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+10,,,347364 Aron Jensen,Insulator Journeyman,,Regular,10.00
+11,,,347364 Aron Jensen,Insulator Journeyman,"Jun 8, 2022",Overtime,1.50
+12,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+13,,,347364 Aron Jensen,Insulator Journeyman,,Regular,10.00
+14,,,347364 Aron Jensen,Insulator Journeyman,"Jun 9, 2022",Overtime,1.50
+15,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+16,,,347364 Aron Jensen,Insulator Journeyman,"Jun 10, 2022",Overtime,11.50
+17,,,347364 Aron Jensen,Insulator Journeyman,,Shift Allowance,11.50
+18,,,347383 Julius Abegar,Insulator Journeyman,"Jun 5, 2022",Overtime,10.00
+19,,,347383 Julius Abegar,Insulator Journeyman,"Jun 6, 2022",Regular,10.00
+20,,,347383 Julius Abegar,Insulator Journeyman,,Overtime,1.50
+21,,,347383 Julius Abegar,Insulator Journeyman,"Jun 7, 2022",Regular,10.00
+22,,,347383 Julius Abegar,Insulator Journeyman,,Overtime,0.50
+23,,,347383 Julius Abegar,Insulator Journeyman,"Jun 8, 2022",Regular,10.00
+24,,,347383 Julius Abegar,Insulator Journeyman,"Jun 9, 2022",Regular,10.00
+25,,,347383 Julius Abegar,Insulator Journeyman,"Jun 10, 2022",Overtime,10.00
+26,,,347383 Julius Abegar,Insulator Journeyman,"Jun 13, 2022",Regular,10.00
+27,,,347383 Julius Abegar,Insulator Journeyman,"Jun 14, 2022",Regular,10.00
+28,,,347383 Julius Abegar,Insulator Journeyman,"Jun 15, 2022",Regular,10.00
+29,,,347383 Julius Abegar,Insulator Journeyman,"Jun 16, 2022",Regular,10.00
+30,,,347453 Brandi Butula,Insulator Journeyman,"Jun 5, 2022",Overtime,10.00
+31,,,347453 Brandi Butula,Insulator Journeyman,"Jun 6, 2022",Regular,10.00
+32,,,347453 Brandi Butula,Insulator Journeyman,,Overtime,1.50
+33,,,347453 Brandi Butula,Insulator Journeyman,"Jun 7, 2022",Regular,10.00
+34,,,347453 Brandi Butula,Insulator Journeyman,,Overtime,0.50
+35,,,347453 Brandi Butula,Insulator Journeyman,"Jun 8, 2022",Regular,10.00
+36,,,347453 Brandi Butula,Insulator Journeyman,"Jun 9, 2022",Regular,10.00
+37,,,347453 Brandi Butula,Insulator Journeyman,"Jun 10, 2022",Overtime,10.00
+38,,,347453 Brandi Butula,Insulator Journeyman,"Jun 13, 2022",Regular,10.00
+39,,,347453 Brandi Butula,Insulator Journeyman,"Jun 14, 2022",Regular,10.00
+40,,,347453 Brandi Butula,Insulator Journeyman,"Jun 15, 2022",Regular,10.00
+41,,,347453 Brandi Butula,Insulator Journeyman,"Jun 16, 2022",Regular,10.00
+42,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Overtime,11.50
+43,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 5, 2022",Shift Allowance,11.50
+44,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Regular,10.00
+45,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 6, 2022",Overtime,1.50
+46,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Shift Allowance,11.50
+47,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Regular,10.00
+48,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 7, 2022",Overtime,1.50
+49,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Shift Allowance,11.50
+50,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Regular,10.00
+51,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 8, 2022",Overtime,1.50
+52,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Shift Allowance,11.50
+53,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Regular,10.00
+54,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 9, 2022",Overtime,1.50
+55,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Shift Allowance,11.50
+56,,,347496 Perry Cleghorn,Industrial Labourer Skilled,,Overtime,11.00
+57,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 10, 2022",Shift Allowance,11.00
+58,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 13, 2022",Regular,10.00
+59,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 14, 2022",Regular,10.00
+60,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 15, 2022",Regular,10.00
+61,,,347496 Perry Cleghorn,Industrial Labourer Skilled,"Jun 16, 2022",Regular,10.00
+62,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 6, 2022",Regular,10.00
+63,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 7, 2022",Regular,10.00
+64,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 8, 2022",Regular,10.00
+65,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 13, 2022",Regular,10.00
+66,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 14, 2022",Regular,10.00
+67,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 15, 2022",Regular,8.00
+68,,,347507 Stewart Cornelius,Leadhand - Compulsory,"Jun 16, 2022",Regular,10.00
+69,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Overtime,12.00
+70,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 5, 2022",Shift Allowance,12.00
+71,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Regular,10.00
+72,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 6, 2022",Overtime,2.00
+73,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Shift Allowance,12.00
+74,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Regular,10.00
+75,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 7, 2022",Overtime,2.00
+76,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Shift Allowance,12.00
+77,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Regular,10.00
+78,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 8, 2022",Overtime,2.50
+79,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Shift Allowance,12.50
+80,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Regular,10.00
+81,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 9, 2022",Overtime,2.00
+82,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Shift Allowance,12.00
+83,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Overtime,12.50
+84,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 10, 2022",Shift Allowance,12.50
+85,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 13, 2022",Regular,10.00
+86,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 14, 2022",Regular,10.00
+87,,,347604 Derek Gerrard,Crew Foreman - Compulsory,"Jun 15, 2022",Regular,10.00
+88,,,347604 Derek Gerrard,Crew Foreman - Compulsory,,Overtime,1.00
+89,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 5, 2022",Overtime,11.50
+90,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 6, 2022",Regular,10.00
+91,,,347611 Garrett Goad,Crew Foreman - Compulsory,,Overtime,1.50
+92,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 8, 2022",Regular,10.00
+93,,,347611 Garrett Goad,Crew Foreman - Compulsory,,Overtime,1.50
+94,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 9, 2022",Regular,8.00
+95,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 10, 2022",Regular,10.00
+96,,,347611 Garrett Goad,Crew Foreman - Compulsory,,Overtime,1.50
+97,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 11, 2022",Regular,2.00
+98,,,347611 Garrett Goad,Crew Foreman - Compulsory,,Overtime,6.50
+99,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 13, 2022",Regular,10.00
+100,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 14, 2022",Regular,10.00
+101,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 15, 2022",Regular,10.00
+102,,,347611 Garrett Goad,Crew Foreman - Compulsory,"Jun 16, 2022",Regular,10.00
+103,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,11.50
+104,,,347688 Mohamed Iman,Scaffolder JM,"Jun 5, 2022",Shift Allowance,11.50
+105,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+106,,,347688 Mohamed Iman,Scaffolder JM,"Jun 6, 2022",Regular,10.00
+107,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,1.50
+108,,,347688 Mohamed Iman,Scaffolder JM,,Shift Allowance,11.50
+109,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+110,,,347688 Mohamed Iman,Scaffolder JM,"Jun 7, 2022",Regular,10.00
+111,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,1.50
+112,,,347688 Mohamed Iman,Scaffolder JM,,Shift Allowance,11.50
+113,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+114,,,347688 Mohamed Iman,Scaffolder JM,"Jun 8, 2022",Regular,10.00
+115,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,1.50
+116,,,347688 Mohamed Iman,Scaffolder JM,,Shift Allowance,11.50
+117,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+118,,,347688 Mohamed Iman,Scaffolder JM,"Jun 9, 2022",Regular,10.00
+119,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,1.50
+120,,,347688 Mohamed Iman,Scaffolder JM,,Shift Allowance,11.50
+121,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+122,,,347688 Mohamed Iman,Scaffolder JM,,Overtime,11.50
+123,,,347688 Mohamed Iman,Scaffolder JM,"Jun 10, 2022",Shift Allowance,11.50
+124,,,347688 Mohamed Iman,Scaffolder JM,,Subsistence,115.00
+125,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 5, 2022",Regular,4.50
+126,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 6, 2022",Regular,10.00
+127,,,347712 Tom Judd,Crew Foreman - Compulsory,,Overtime,2.00
+128,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 7, 2022",Regular,10.00
+129,,,347712 Tom Judd,Crew Foreman - Compulsory,,Overtime,0.50
+130,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 8, 2022",Regular,10.00
+131,,,347712 Tom Judd,Crew Foreman - Compulsory,,Overtime,2.50
+132,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 9, 2022",Regular,10.00
+133,,,347712 Tom Judd,Crew Foreman - Compulsory,,Overtime,2.00
+134,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 10, 2022",Overtime,12.00
+135,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 11, 2022",Overtime,9.50
+136,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 13, 2022",Regular,10.00
+137,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 14, 2022",Regular,10.00
+138,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 15, 2022",Regular,10.00
+139,,,347712 Tom Judd,Crew Foreman - Compulsory,,Overtime,1.00
+140,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 16, 2022",Regular,10.00
+141,,,347712 Tom Judd,Crew Foreman - Compulsory,"Jun 17, 2022",Overtime,8.00
+142,,,347732 Michael Kinney,Industrial Labourer Skilled,,Regular,10.00
+143,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 5, 2022",Overtime,1.50
+144,,,347732 Michael Kinney,Industrial Labourer Skilled,,Shift Allowance,11.50
+145,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 6, 2022",Regular,10.00
+146,,,347732 Michael Kinney,Industrial Labourer Skilled,,Overtime,1.50
+147,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 6, 2022",Shift Allowance,11.50
+148,,,347732 Michael Kinney,Industrial Labourer Skilled,,Regular,10.00
+149,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 7, 2022",Overtime,1.50
+150,,,347732 Michael Kinney,Industrial Labourer Skilled,,Shift Allowance,11.50
+151,,,347732 Michael Kinney,Industrial Labourer Skilled,,Regular,10.00
+152,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 8, 2022",Overtime,1.50
+153,,,347732 Michael Kinney,Industrial Labourer Skilled,,Shift Allowance,11.50
+154,,,347732 Michael Kinney,Industrial Labourer Skilled,,Regular,10.00
+155,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 9, 2022",Overtime,1.50
+156,,,347732 Michael Kinney,Industrial Labourer Skilled,,Shift Allowance,11.50
+157,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 10, 2022",Overtime,11.50
+158,,,347732 Michael Kinney,Industrial Labourer Skilled,,Shift Allowance,11.50
+159,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 13, 2022",Regular,10.00
+160,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 14, 2022",Regular,10.00
+161,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 15, 2022",Regular,10.00
+162,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 16, 2022",Regular,10.00
+163,,,347732 Michael Kinney,Industrial Labourer Skilled,"Jun 17, 2022",Overtime,7.00
+164,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 5, 2022",Overtime,11.50
+165,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 6, 2022",Regular,10.00
+166,,,347782 Jennifer Lloyd,Scaffolder JM,,Overtime,1.50
+167,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 7, 2022",Regular,10.00
+168,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 8, 2022",Regular,10.00
+169,,,347782 Jennifer Lloyd,Scaffolder JM,,Overtime,1.50
+170,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 9, 2022",Regular,10.00
+171,,,347782 Jennifer Lloyd,Scaffolder JM,,Overtime,1.50
+172,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 10, 2022",Overtime,11.50
+173,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 11, 2022",Overtime,5.00
+174,,,347782 Jennifer Lloyd,Scaffolder JM,"Jun 13, 2022",Regular,10.00
+175,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 5, 2022",Overtime,12.00
+176,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 6, 2022",Regular,10.00
+177,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,,Overtime,1.50
+178,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 7, 2022",Regular,10.00
+179,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,,Overtime,2.00
+180,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 8, 2022",Regular,6.00
+181,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 9, 2022",Regular,10.00
+182,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,,Overtime,1.50
+183,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 11, 2022",Regular,4.00
+184,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,,Overtime,5.00
+185,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 13, 2022",Regular,10.00
+186,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 14, 2022",Regular,10.00
+187,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 15, 2022",Regular,10.00
+188,,,347921 Trevor Patrosh,Crew Foreman - Compulsory,"Jun 16, 2022",Regular,10.00
+189,,,347922 Darcy Paul,Insulator Journeyman,"Jun 5, 2022",Overtime,10.00
+190,,,347922 Darcy Paul,Insulator Journeyman,"Jun 6, 2022",Regular,10.00
+191,,,347922 Darcy Paul,Insulator Journeyman,,Overtime,1.50
+192,,,347922 Darcy Paul,Insulator Journeyman,"Jun 7, 2022",Regular,5.00
+193,,,347922 Darcy Paul,Insulator Journeyman,"Jun 8, 2022",Regular,10.00
+194,,,347922 Darcy Paul,Insulator Journeyman,,Overtime,1.50
+195,,,347922 Darcy Paul,Insulator Journeyman,"Jun 9, 2022",Regular,10.00
+196,,,347922 Darcy Paul,Insulator Journeyman,,Overtime,2.00
+197,,,347922 Darcy Paul,Insulator Journeyman,"Jun 13, 2022",Regular,10.00
+198,,,347922 Darcy Paul,Insulator Journeyman,"Jun 14, 2022",Regular,10.00
+199,,,347922 Darcy Paul,Insulator Journeyman,"Jun 15, 2022",Regular,10.00
+200,,,347922 Darcy Paul,Insulator Journeyman,"Jun 16, 2022",Regular,10.00
+201,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 5, 2022",Overtime,12.00
+202,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 6, 2022",Regular,10.00
+203,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,,Overtime,1.50
+204,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 7, 2022",Regular,10.00
+205,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,,Overtime,2.50
+206,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 8, 2022",Regular,10.00
+207,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,,Overtime,2.00
+208,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 9, 2022",Regular,10.00
+209,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,,Overtime,2.00
+210,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 10, 2022",Overtime,12.00
+211,,,347959 Jordan Ramsay,Crew Foreman - Compulsory,"Jun 11, 2022",Overtime,9.00
+212,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+213,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+214,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jun 15, 2022",Regular,10.00
+215,,,347959 Jordan Ramsay,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+216,,,347978 Guy Richard,Scaffolder AP 3 YR,,Overtime,11.50
+217,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 5, 2022",Shift Allowance,11.50
+218,,,347978 Guy Richard,Scaffolder AP 3 YR,,Regular,10.00
+219,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 6, 2022",Overtime,1.50
+220,,,347978 Guy Richard,Scaffolder AP 3 YR,,Shift Allowance,11.50
+221,,,347978 Guy Richard,Scaffolder AP 3 YR,,Regular,10.00
+222,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 7, 2022",Overtime,1.50
+223,,,347978 Guy Richard,Scaffolder AP 3 YR,,Shift Allowance,11.50
+224,,,347978 Guy Richard,Scaffolder AP 3 YR,,Regular,10.00
+225,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 8, 2022",Overtime,1.50
+226,,,347978 Guy Richard,Scaffolder AP 3 YR,,Shift Allowance,11.50
+227,,,347978 Guy Richard,Scaffolder AP 3 YR,,Regular,10.00
+228,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 9, 2022",Overtime,1.50
+229,,,347978 Guy Richard,Scaffolder AP 3 YR,,Shift Allowance,11.50
+230,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 10, 2022",Overtime,11.50
+231,,,347978 Guy Richard,Scaffolder AP 3 YR,,Shift Allowance,11.50
+232,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 13, 2022",Regular,7.50
+233,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 14, 2022",Regular,10.00
+234,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 15, 2022",Regular,10.00
+235,,,347978 Guy Richard,Scaffolder AP 3 YR,"Jun 16, 2022",Regular,10.00
+236,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Overtime,11.50
+237,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 5, 2022",Shift Allowance,11.50
+238,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Regular,10.00
+239,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 6, 2022",Overtime,1.50
+240,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Shift Allowance,11.50
+241,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Regular,10.00
+242,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 7, 2022",Overtime,1.50
+243,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Shift Allowance,11.50
+244,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Regular,10.00
+245,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 8, 2022",Overtime,1.50
+246,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Shift Allowance,11.50
+247,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Regular,10.00
+248,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 9, 2022",Overtime,1.50
+249,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,,Shift Allowance,11.50
+250,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 13, 2022",Regular,10.00
+251,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 14, 2022",Regular,10.00
+252,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 15, 2022",Regular,10.00
+253,,,348028 Wade Skrodolis,Crew Foreman - Compulsory,"Jun 16, 2022",Regular,10.00
+254,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 5, 2022",Overtime,11.50
+255,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 6, 2022",Regular,10.00
+256,,,348031 Robert Smith,Pipefitter Journeyman,,Overtime,1.50
+257,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 7, 2022",Regular,10.00
+258,,,348031 Robert Smith,Pipefitter Journeyman,,Overtime,1.50
+259,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 8, 2022",Regular,8.00
+260,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 9, 2022",Regular,10.00
+261,,,348031 Robert Smith,Pipefitter Journeyman,,Overtime,1.50
+262,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 10, 2022",Regular,2.00
+263,,,348031 Robert Smith,Pipefitter Journeyman,,Overtime,9.50
+264,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 11, 2022",Overtime,8.50
+265,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+266,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+267,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 15, 2022",Regular,10.00
+268,,,348031 Robert Smith,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+269,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 5, 2022",Overtime,10.00
+270,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 6, 2022",Regular,10.00
+271,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,,Overtime,2.00
+272,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,,Regular,10.00
+273,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 7, 2022",Overtime,2.50
+274,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,,Regular,10.00
+275,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 8, 2022",Overtime,1.50
+276,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 9, 2022",Regular,5.00
+277,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 10, 2022",Regular,5.00
+278,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,,Overtime,6.50
+279,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 11, 2022",Overtime,8.50
+280,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 14, 2022",Regular,10.00
+281,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 15, 2022",Regular,10.00
+282,,,348095 Jim Vincent,[2020RATE] Maint Tech 6,"Jun 16, 2022",Regular,10.00
+283,,,348104 Dustin Watson,GF - Compulsory,"Jun 6, 2022",Regular,1.00
+284,,,348104 Dustin Watson,GF - Compulsory,"Jun 7, 2022",Regular,1.00
+285,,,348104 Dustin Watson,GF - Compulsory,"Jun 8, 2022",Regular,1.00
+286,,,348104 Dustin Watson,GF - Compulsory,"Jun 9, 2022",Regular,1.00
+287,,,348104 Dustin Watson,GF - Compulsory,"Jun 14, 2022",Regular,1.00
+288,,,348104 Dustin Watson,GF - Compulsory,"Jun 15, 2022",Regular,1.00
+289,,,348104 Dustin Watson,GF - Compulsory,"Jun 16, 2022",Regular,1.00
+290,,,348136 James Young,Scaffolder JM,"Jun 5, 2022",Overtime,11.50
+291,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 5, 2022",Overtime,7.50
+292,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 6, 2022",Regular,10.00
+293,,,348157 Monique Ingle,Industrial Labourer Skilled,,Overtime,1.50
+294,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 7, 2022",Regular,10.00
+295,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 8, 2022",Regular,10.00
+296,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 9, 2022",Regular,10.00
+297,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 10, 2022",Overtime,10.00
+298,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 14, 2022",Regular,10.00
+299,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 15, 2022",Regular,10.00
+300,,,348157 Monique Ingle,Industrial Labourer Skilled,"Jun 16, 2022",Regular,10.00
+301,,,348318 Daryl Hiron,Rig Welder - DSP CWB,"Jun 5, 2022",Regular,10.00
+302,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 5, 2022",Overtime,11.50
+303,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 7, 2022",Regular,10.00
+304,,,349352 Sheldon Kamps,Pipefitter Journeyman,,Overtime,1.50
+305,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 8, 2022",Regular,10.00
+306,,,349352 Sheldon Kamps,Pipefitter Journeyman,,Overtime,1.50
+307,,,349352 Sheldon Kamps Pipefitter Journeyman,,,Regular,10.00
+308,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 9, 2022",Overtime,1.50
+309,,,349352 Sheldon Kamps,Pipefitter Journeyman,,Regular,10.00
+310,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 10, 2022",Overtime,1.50
+311,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+312,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+313,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 15, 2022",Regular,10.00
+314,,,349352 Sheldon Kamps,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+315,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Overtime,11.50
+316,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 5, 2022",Subsistence,115.00
+317,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+318,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 6, 2022",Overtime,1.50
+319,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Subsistence,115.00
+320,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+321,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 7, 2022",Overtime,1.50
+322,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Subsistence,115.00
+323,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+324,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 8, 2022",Overtime,1.50
+325,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Subsistence,115.00
+326,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+327,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 9, 2022",Subsistence,115.00
+328,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Overtime,11.50
+329,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 10, 2022",Subsistence,115.00
+330,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Overtime,8.50
+331,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 11, 2022",Subsistence,115.00
+332,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+333,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 13, 2022",Subsistence,115.00
+334,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+335,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 14, 2022",Subsistence,115.00
+336,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Regular,10.00
+337,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 15, 2022",Subsistence,125.00
+338,,,349508 Jeremy Olfert,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+339,,,349508 Jeremy Olfert,Pipefitter Journeyman,,Subsistence,125.00
+340,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 5, 2022",Overtime,11.50
+341,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 6, 2022",Regular,10.00
+342,,,350263 Dan Von Hollen,Pipefitter Journeyman,,Overtime,1.50
+343,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 7, 2022",Regular,10.00
+344,,,350263 Dan Von Hollen,Pipefitter Journeyman,,Overtime,1.50
+345,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 8, 2022",Regular,10.00
+346,,,350263 Dan Von Hollen,Pipefitter Journeyman,,Overtime,1.50
+347,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 9, 2022",Regular,10.00
+348,,,350263 Dan Von Hollen,Pipefitter Journeyman,,Overtime,1.50
+349,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 10, 2022",Overtime,11.50
+350,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 11, 2022",Overtime,8.50
+351,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+352,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+353,,,350263 Dan Von Hollen,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+354,,,352404 Nick Kunzelman,Insulator Journeyman,"Jun 5, 2022",Overtime,11.50
+355,,,352404 Nick Kunzelman,Insulator Journeyman,,Shift Allowance,11.50
+356,,,352404 Nick Kunzelman,Insulator Journeyman,,Regular,10.00
+357,,,352404 Nick Kunzelman,Insulator Journeyman,"Jun 6, 2022",Overtime,1.50
+358,,,352404 Nick Kunzelman,Insulator Journeyman,,Shift Allowance,11.50
+359,,,352404 Nick Kunzelman,Insulator Journeyman,,Regular,10.00
+360,,,352404 Nick Kunzelman,Insulator Journeyman,"Jun 7, 2022",Overtime,1.50
+361,,,352404 Nick Kunzelman,Insulator Journeyman,,Shift Allowance,11.50
+362,,,352404 Nick Kunzelman,Insulator Journeyman,,Regular,10.00
+363,,,352404 Nick Kunzelman,Insulator Journeyman,"Jun 8, 2022",Overtime,1.50
+364,,,352404 Nick Kunzelman,Insulator Journeyman,,Shift Allowance,11.50
+365,,,352404 Nick Kunzelman,Insulator Journeyman,"Jun 9, 2022",Regular,10.00
+366,,,352404 Nick Kunzelman,Insulator Journeyman,,Shift Allowance,10.00
+367,,,352796 Robin Myshak,Scaffolder JM,"Jun 5, 2022",Overtime,11.50
+368,,,352796 Robin Myshak,Scaffolder JM,"Jun 6, 2022",Regular,10.00
+369,,,352796 Robin Myshak,Scaffolder JM,,Overtime,1.50
+370,,,352796 Robin Myshak,Scaffolder JM,"Jun 7, 2022",Regular,10.00
+371,,,352796 Robin Myshak,Scaffolder JM,,Overtime,1.50
+372,,,352796 Robin Myshak,Scaffolder JM,"Jun 8, 2022",Regular,10.00
+373,,,352796 Robin Myshak,Scaffolder JM,,Overtime,1.50
+374,,,352796 Robin Myshak,Scaffolder JM,"Jun 9, 2022",Regular,10.00
+375,,,352796 Robin Myshak,Scaffolder JM,"Jun 13, 2022",Regular,5.00
+376,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Regular,10.00
+377,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 6, 2022",Overtime,1.50
+378,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+379,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Regular,10.00
+380,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 7, 2022",Overtime,1.50
+381,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+382,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Regular,10.00
+383,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 8, 2022",Overtime,1.50
+384,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+385,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Regular,10.00
+386,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 9, 2022",Overtime,1.50
+387,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+388,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 10, 2022",Overtime,11.50
+389,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+390,,,353578 Judy Ward,Pipefitter AP 4.0 YR,"Jun 11, 2022",Overtime,8.50
+391,,,353578 Judy Ward,Pipefitter AP 4.0 YR,,Subsistence,115.00
+392,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 5, 2022",Overtime,11.50
+393,,,353822 Jesse Tobias,Pipefitter Journeyman,,Regular,10.00
+394,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 6, 2022",Overtime,2.00
+395,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 7, 2022",Regular,10.00
+396,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 7, 2022",Overtime,2.00
+397,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 8, 2022",Regular,10.00
+398,,,353822 Jesse Tobias,Pipefitter Journeyman,,Overtime,1.50
+399,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 9, 2022",Regular,10.00
+400,,,353822 Jesse Tobias,Pipefitter Journeyman,,Overtime,1.50
+401,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 10, 2022",Overtime,11.50
+402,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+403,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+404,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 15, 2022",Regular,10.00
+405,,,353822 Jesse Tobias,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+406,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+407,,,354019 Andrew Benedict,Scaffolder JM,"Jun 6, 2022",Overtime,1.50
+408,,,354019 Andrew Benedict,Scaffolder JM,,Subsistence,115.00
+409,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+410,,,354019 Andrew Benedict,Scaffolder JM,"Jun 7, 2022",Overtime,1.50
+411,,,354019 Andrew Benedict,Scaffolder JM,,Subsistence,115.00
+412,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+413,,,354019 Andrew Benedict,Scaffolder JM,"Jun 8, 2022",Overtime,1.50
+414,,,354019 Andrew Benedict,Scaffolder JM,,Subsistence,115.00
+415,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+416,,,354019 Andrew Benedict,Scaffolder JM,"Jun 9, 2022",Overtime,1.50
+417,,,354019 Andrew Benedict,Scaffolder JM,,Subsistence,115.00
+418,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+419,,,354019 Andrew Benedict,Scaffolder JM,"Jun 13, 2022",Subsistence,115.00
+420,,,354019 Andrew Benedict,Scaffolder JM,,Regular,9.00
+421,,,354019 Andrew Benedict,Scaffolder JM,"Jun 14, 2022",Subsistence,115.00
+422,,,354019 Andrew Benedict,Scaffolder JM,,Regular,10.00
+423,,,354019 Andrew Benedict,Scaffolder JM,"Jun 15, 2022",Subsistence,125.00
+424,,,354019 Andrew Benedict,Scaffolder JM,"Jun 16, 2022",Regular,10.00
+425,,,354019 Andrew Benedict,Scaffolder JM,,Subsistence,125.00
+426,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Overtime,11.50
+427,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 5, 2022",Shift Allowance,11.50
+428,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+429,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 6, 2022",Regular,10.00
+430,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Overtime,1.50
+431,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Shift Allowance,11.50
+432,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+433,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 7, 2022",Regular,10.00
+434,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Overtime,1.50
+435,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Shift Allowance,11.50
+436,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+437,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 8, 2022",Regular,10.00
+438,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Overtime,1.50
+439,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Shift Allowance,11.50
+440,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+441,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 13, 2022",Regular,10.00
+442,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+443,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 14, 2022",Regular,10.00
+444,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,115.00
+445,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 15, 2022",Regular,10.00
+446,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,125.00
+447,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 16, 2022",Regular,10.00
+448,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,125.00
+449,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,"Jun 17, 2022",Overtime,3.00
+450,,,355426 Ashley Piwowar,Industrial Labourer Unskilled,,Subsistence,125.00
+451,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 5, 2022",Overtime,11.50
+452,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 6, 2022",Regular,10.00
+453,,,355779 Michael Brillant,Industrial Labourer Semi Skill,,Overtime,1.50
+454,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 8, 2022",Regular,10.00
+455,,,355779 Michael Brillant,Industrial Labourer Semi Skill,,Overtime,2.00
+456,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 9, 2022",Regular,10.00
+457,,,355779 Michael Brillant,Industrial Labourer Semi Skill,,Overtime,1.50
+458,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 10, 2022",Regular,10.00
+459,,,355779 Michael Brillant,Industrial Labourer Semi Skill,,Overtime,2.00
+460,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 11, 2022",Overtime,5.00
+461,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 13, 2022",Regular,10.00
+462,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 14, 2022",Regular,10.00
+463,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 15, 2022",Regular,10.00
+464,,,355779 Michael Brillant,Industrial Labourer Semi Skill,"Jun 16, 2022",Regular,10.00
+465,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Overtime,11.50
+466,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 5, 2022",Shift Allowance,11.50
+467,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Regular,10.00
+468,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 6, 2022",Overtime,1.50
+469,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Shift Allowance,11.50
+470,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Regular,10.00
+471,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 7, 2022",Overtime,1.50
+472,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Shift Allowance,11.50
+473,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Regular,10.00
+474,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 8, 2022",Overtime,1.50
+475,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Shift Allowance,11.50
+476,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Regular,10.00
+477,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 9, 2022",Overtime,1.50
+478,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Shift Allowance,11.50
+479,,,356235 Nathan Harvey,Industrial Labourer Unskilled,,Overtime,11.50
+480,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 10, 2022",Shift Allowance,11.50
+481,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 13, 2022",Regular,10.00
+482,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 14, 2022",Regular,10.00
+483,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 15, 2022",Regular,10.00
+484,,,356235 Nathan Harvey,Industrial Labourer Unskilled,"Jun 16, 2022",Regular,10.00
+485,,,358381 Doug Nissen,Pipefitter Journeyman,,Overtime,11.50
+486,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 5, 2022",Subsistence,115.00
+487,,,358381 Doug Nissen,Pipefitter Journeyman,,Regular,10.00
+488,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 6, 2022",Overtime,1.50
+489,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+490,,,358381 Doug Nissen,Pipefitter Journeyman,,Regular,10.00
+491,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 7, 2022",Overtime,1.50
+492,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+493,,,358381 Doug Nissen,Pipefitter Journeyman,,Regular,10.00
+494,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 8, 2022",Overtime,1.50
+495,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+496,,,358381 Doug Nissen,Pipefitter Journeyman,,Regular,10.00
+497,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 9, 2022",Overtime,1.50
+498,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+499,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 10, 2022",Overtime,11.50
+500,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+501,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 11, 2022",Overtime,8.50
+502,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+503,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 13, 2022",Regular,10.00
+504,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+505,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 14, 2022",Regular,10.00
+506,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,115.00
+507,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 15, 2022",Regular,10.00
+508,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,125.00
+509,,,358381 Doug Nissen,Pipefitter Journeyman,"Jun 16, 2022",Regular,10.00
+510,,,358381 Doug Nissen,Pipefitter Journeyman,,Subsistence,125.00
+511,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Overtime,11.50
+512,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 5, 2022",Shift Allowance,11.50
+513,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Regular,10.00
+514,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 6, 2022",Overtime,2.00
+515,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Shift Allowance,12.00
+516,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Regular,10.00
+517,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 7, 2022",Overtime,2.00
+518,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Shift Allowance,12.00
+519,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Regular,10.00
+520,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 8, 2022",Overtime,1.50
+521,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Shift Allowance,11.50
+522,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Regular,10.00
+523,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 9, 2022",Overtime,2.00
+524,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Shift Allowance,12.00
+525,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 10, 2022",Overtime,12.00
+526,,,358466 Debbie Karall,Industrial Labourer Unskilled,,Shift Allowance,12.00
+527,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 13, 2022",Regular,10.00
+528,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 15, 2022",Regular,10.00
+529,,,358466 Debbie Karall,Industrial Labourer Unskilled,"Jun 16, 2022",Regular,10.00
+530,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 5, 2022",Regular,10.00
+531,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,,Overtime,1.50
+532,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 6, 2022",Regular,10.00
+533,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,,Overtime,1.50
+534,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 7, 2022",Regular,10.00
+535,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,,Overtime,1.50
+536,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 9, 2022",Regular,10.00
+537,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,,Overtime,1.50
+538,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 10, 2022",Regular,10.00
+539,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,,Overtime,1.50
+540,,,358469 Mohamed Warsame,Industrial Labourer Unskilled,"Jun 11, 2022",Overtime,7.50
+541,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Regular,10.00
+542,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 5, 2022",Overtime,1.50
+543,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00
+544,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Regular,10.00
+545,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 6, 2022",Overtime,1.50
+546,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00
+547,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Regular,10.00
+548,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 7, 2022",Overtime,1.50
+549,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00
+550,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Regular,10.00
+551,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 9, 2022",Overtime,1.50
+552,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00
+553,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Regular,10.00
+554,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 10, 2022",Overtime,1.50
+555,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00
+556,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,"Jun 11, 2022",Overtime,7.50
+557,,,358470 Khadijo Hassan-Yare,Industrial Labourer Unskilled,,Subsistence,115.00

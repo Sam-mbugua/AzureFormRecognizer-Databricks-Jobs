@@ -1,0 +1,565 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity,WORK ORDER #,Resource
+0,4501097370,10,355231 Jordan Vermeesch,Quality Inspector 2,"May 30, 2022",Regular,10.00,,
+1,,,355231 Jordan Vermeesch,Quality Inspector 2,"May 31, 2022",Regular,10.00,,
+2,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 1, 2022",Regular,10.00,,
+3,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 2, 2022",Regular,10.00,,
+4,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 3, 2022",Overtime,8.00,,
+5,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 6, 2022",Regular,10.00,,
+6,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 7, 2022",Regular,10.00,,
+7,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 8, 2022",Regular,10.00,,
+8,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 9, 2022",Regular,10.00,,
+9,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 13, 2022",Regular,10.00,,
+10,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 14, 2022",Regular,10.00,,
+11,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 15, 2022",Regular,10.00,,
+12,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 16, 2022",Regular,10.00,,
+13,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 20, 2022",Regular,10.00,,
+14,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 21, 2022",Regular,10.00,,
+15,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 22, 2022",Regular,10.00,,
+16,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 23, 2022",Regular,9.00,,
+17,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 28, 2022",Regular,10.00,,
+18,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 29, 2022",Regular,10.00,,
+19,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jun 30, 2022",Regular,10.00,,
+20,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 5, 2022",Regular,10.00,,
+21,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 6, 2022",Regular,10.00,,
+22,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 7, 2022",Regular,10.00,,
+23,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 11, 2022",Regular,10.00,,
+24,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 12, 2022",Regular,10.00,,
+25,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 13, 2022",Regular,10.00,,
+26,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 14, 2022",Regular,10.00,,
+27,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 18, 2022",Regular,10.00,,
+28,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 19, 2022",Regular,10.00,,
+29,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 20, 2022",Regular,10.00,,
+30,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 21, 2022",Regular,10.00,,
+31,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 25, 2022",Regular,10.00,,
+32,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 26, 2022",Regular,10.00,,
+33,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 27, 2022",Regular,10.00,,
+34,,,355231 Jordan Vermeesch,Quality Inspector 2,"Jul 28, 2022",Regular,10.00,,
+35,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 2, 2022",Regular,10.00,,
+36,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 3, 2022",Regular,10.00,,
+37,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 4, 2022",Regular,10.00,,
+38,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 8, 2022",Regular,10.00,,
+39,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 9, 2022",Regular,10.00,,
+40,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 10, 2022",Regular,10.00,,
+41,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 11, 2022",Regular,10.00,,
+42,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 15, 2022",Regular,10.00,,
+43,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 16, 2022",Regular,6.00,,
+44,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 17, 2022",Regular,10.00,,
+45,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 18, 2022",Regular,10.00,,
+46,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 22, 2022",Regular,10.00,,
+47,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 23, 2022",Regular,10.00,,
+48,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 24, 2022",Regular,10.00,,
+49,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 25, 2022",Regular,10.00,,
+50,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 29, 2022",Regular,10.00,,
+51,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 30, 2022",Regular,10.00,,
+52,,,355231 Jordan Vermeesch,Quality Inspector 2,"Aug 31, 2022",Regular,10.00,,
+53,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 1, 2022",Regular,10.00,,
+54,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 6, 2022",Regular,10.00,,
+55,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 7, 2022",Regular,2.00,,
+56,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 19, 2022",Regular,4.00,,
+57,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 26, 2022",Regular,9.00,,
+58,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 27, 2022",Regular,8.00,,
+59,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 28, 2022",Regular,10.00,,
+60,,,355231 Jordan Vermeesch,Quality Inspector 2,"Sep 29, 2022",Regular,10.00,,
+61,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 3, 2022",Regular,10.00,,
+62,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 4, 2022",Regular,10.00,,
+63,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 5, 2022",Regular,10.00,,
+64,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 6, 2022",Regular,10.00,,
+65,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 11, 2022",Regular,10.00,,
+66,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 12, 2022",Regular,10.00,,
+67,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 13, 2022",Regular,10.00,,
+68,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 17, 2022",Regular,10.00,,
+69,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 18, 2022",Regular,10.00,,
+70,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 19, 2022",Regular,10.00,,
+71,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 20, 2022",Regular,10.00,,
+72,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 24, 2022",Regular,10.00,,
+73,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 25, 2022",Regular,10.00,,
+74,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 26, 2022",Regular,10.00,,
+75,,,355231 Jordan Vermeesch,Quality Inspector 2,"Oct 27, 2022",Regular,10.00,,
+76,,,355380 Kyla Hunt,Quality Inspector 2,"May 30, 2022",Regular,10.00,,
+77,,,355380 Kyla Hunt,Quality Inspector 2,"May 31, 2022",Regular,10.00,,
+78,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 1, 2022",Regular,10.00,,
+79,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 2, 2022",Regular,10.00,,
+80,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 7, 2022",Regular,10.00,,
+81,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 8, 2022",Regular,10.00,,
+82,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 9, 2022",Regular,10.00,,
+83,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 13, 2022",Regular,10.00,,
+84,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 14, 2022",Regular,10.00,,
+85,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 15, 2022",Regular,10.00,,
+86,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 16, 2022",Regular,10.00,,
+87,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 20, 2022",Regular,10.00,,
+88,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 21, 2022",Regular,10.00,,
+89,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 22, 2022",Regular,10.00,,
+90,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 23, 2022",Regular,9.00,,
+91,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 27, 2022",Regular,5.00,,
+92,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 28, 2022",Regular,10.00,,
+93,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 29, 2022",Regular,10.00,,
+94,,,355380 Kyla Hunt,Quality Inspector 2,"Jun 30, 2022",Regular,10.00,,
+95,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 5, 2022",Regular,10.00,,
+96,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 6, 2022",Regular,10.00,,
+97,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 11, 2022",Regular,10.00,,
+98,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 12, 2022",Regular,10.00,,
+99,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 13, 2022",Regular,10.00,,
+100,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 14, 2022",Regular,10.00,,
+101,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 18, 2022",Regular,10.00,,
+102,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 19, 2022",Regular,9.50,,
+103,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 20, 2022",Regular,10.00,,
+104,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 21, 2022",Regular,10.00,,
+105,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 25, 2022",Regular,10.00,,
+106,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 26, 2022",Regular,10.00,,
+107,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 27, 2022",Regular,10.00,,
+108,,,355380 Kyla Hunt,Quality Inspector 2,"Jul 28, 2022",Regular,10.00,,
+109,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 8, 2022",Regular,5.00,,
+110,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 9, 2022",Regular,10.00,,
+111,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 10, 2022",Regular,10.00,,
+112,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 11, 2022",Regular,10.00,,
+113,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 15, 2022",Regular,10.00,,
+114,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 16, 2022",Regular,10.00,,
+115,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 17, 2022",Regular,10.00,,
+116,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 18, 2022",Regular,10.00,,
+117,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 22, 2022",Regular,10.00,,
+118,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 23, 2022",Regular,10.00,,
+119,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 24, 2022",Regular,10.00,,
+120,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 25, 2022",Regular,10.00,,
+121,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 30, 2022",Regular,10.00,,
+122,,,355380 Kyla Hunt,Quality Inspector 2,"Aug 31, 2022",Regular,10.00,,
+123,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 1, 2022",Regular,10.00,,
+124,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 6, 2022",Regular,10.00,,
+125,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 7, 2022",Regular,10.00,,
+126,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 8, 2022",Regular,10.00,,
+127,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 12, 2022",Regular,10.00,,
+128,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 13, 2022",Regular,10.00,,
+129,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 14, 2022",Regular,7.00,,
+130,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 15, 2022",Regular,9.50,,
+131,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 19, 2022",Regular,5.00,,
+132,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 20, 2022",Regular,4.00,,
+133,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 21, 2022",Regular,3.00,,
+134,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 22, 2022",Regular,10.00,,
+135,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 28, 2022",Regular,10.00,,
+136,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 29, 2022",Regular,10.00,,
+137,,,355380 Kyla Hunt,Quality Inspector 2,"Sep 30, 2022",Regular,5.00,,
+138,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 3, 2022",Regular,10.00,,
+139,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 4, 2022",Regular,5.00,,
+140,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 5, 2022",Regular,10.00,,
+141,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 6, 2022",Regular,10.00,,
+142,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 11, 2022",Regular,10.00,,
+143,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 12, 2022",Regular,5.00,,
+144,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 13, 2022",Regular,10.00,,
+145,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 17, 2022",Regular,10.00,,
+146,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 18, 2022",Regular,10.00,,
+147,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 19, 2022",Regular,10.00,,
+148,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 20, 2022",Regular,10.00,,
+149,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 24, 2022",Regular,10.00,,
+150,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 25, 2022",Regular,10.00,,
+151,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 26, 2022",Regular,10.00,,
+152,,,355380 Kyla Hunt,Quality Inspector 2,"Oct 27, 2022",Regular,8.00,,
+153,,,358351 Tarik Uzunyerliler,Quality Manager,"May 30, 2022",Regular,10.00,,
+154,,,358351 Tarik Uzunyerliler,Quality Manager,"May 31, 2022",Regular,10.00,,
+155,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 1, 2022",Regular,10.00,,
+156,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 2, 2022",Regular,10.00,,
+157,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 6, 2022",Regular,10.00,,
+158,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 7, 2022",Regular,10.00,,
+159,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 8, 2022",Regular,10.00,,
+160,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 9, 2022",Regular,10.00,,
+161,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 13, 2022",Regular,10.00,,
+162,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 14, 2022",Regular,10.00,,
+163,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 15, 2022",Regular,10.00,,
+164,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 16, 2022",Regular,10.00,,
+165,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 20, 2022",Regular,10.00,,
+166,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 21, 2022",Regular,10.00,,
+167,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 22, 2022",Regular,10.00,,
+168,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 23, 2022",Regular,9.00,,
+169,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 27, 2022",Regular,10.00,,
+170,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 28, 2022",Regular,10.00,,
+171,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 29, 2022",Regular,10.00,,
+172,,,358351 Tarik Uzunyerliler,Quality Manager,"Jun 30, 2022",Regular,10.00,,
+173,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 5, 2022",Regular,10.00,,
+174,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 6, 2022",Regular,10.00,,
+175,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 7, 2022",Regular,8.00,,
+176,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 11, 2022",Regular,10.00,,
+177,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 12, 2022",Regular,10.00,,
+178,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 13, 2022",Regular,10.00,,
+179,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 14, 2022",Regular,10.00,,
+180,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 18, 2022",Regular,10.00,,
+181,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 19, 2022",Regular,10.00,,
+182,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 20, 2022",Regular,10.00,,
+183,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 21, 2022",Regular,10.00,,
+184,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 25, 2022",Regular,10.00,,
+185,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 26, 2022",Regular,10.00,,
+186,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 27, 2022",Regular,10.00,,
+187,,,358351 Tarik Uzunyerliler,Quality Manager,"Jul 28, 2022",Regular,10.00,,
+188,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 2, 2022",Regular,10.00,,
+189,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 3, 2022",Regular,10.00,,
+190,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 4, 2022",Regular,10.00,,
+191,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 8, 2022",Regular,10.00,,
+192,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 9, 2022",Regular,10.00,,
+193,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 10, 2022",Regular,10.00,,
+194,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 11, 2022",Regular,10.00,,
+195,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 15, 2022",Regular,10.00,,
+196,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 16, 2022",Regular,10.00,,
+197,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 17, 2022",Regular,10.00,,
+198,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 18, 2022",Regular,10.00,,
+199,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 22, 2022",Regular,10.00,,
+200,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 23, 2022",Regular,10.00,,
+201,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 25, 2022",Regular,10.00,,
+202,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 29, 2022",Regular,10.00,,
+203,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 30, 2022",Regular,10.00,,
+204,,,358351 Tarik Uzunyerliler,Quality Manager,"Aug 31, 2022",Regular,10.00,,
+205,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 1, 2022",Regular,10.00,,
+206,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 6, 2022",Regular,10.00,,
+207,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 7, 2022",Regular,10.00,,
+208,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 8, 2022",Regular,10.00,,
+209,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 12, 2022",Regular,10.00,,
+210,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 13, 2022",Regular,10.00,,
+211,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 15, 2022",Regular,10.00,,
+212,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 19, 2022",Regular,10.00,,
+213,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 20, 2022",Regular,10.00,,
+214,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 21, 2022",Regular,10.00,,
+215,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 22, 2022",Regular,10.00,,
+216,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 26, 2022",Regular,10.00,,
+217,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 27, 2022",Regular,10.00,,
+218,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 28, 2022",Regular,10.00,,
+219,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 29, 2022",Regular,10.00,,
+220,,,358351 Tarik Uzunyerliler,Quality Manager,"Sep 30, 2022",Regular,6.00,,
+221,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 3, 2022",Regular,10.00,,
+222,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 4, 2022",Regular,10.00,,
+223,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 5, 2022",Regular,10.00,,
+224,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 6, 2022",Regular,8.00,,
+225,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 11, 2022",Regular,10.00,,
+226,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 12, 2022",Regular,8.00,,
+227,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 13, 2022",Regular,10.00,,
+228,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 17, 2022",Regular,10.00,,
+229,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 18, 2022",Regular,10.00,,
+230,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 19, 2022",Regular,10.00,,
+231,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 20, 2022",Regular,10.00,,
+232,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 21, 2022",Regular,10.00,,
+233,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 22, 2022",Regular,5.00,,
+234,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 24, 2022",Regular,10.00,,
+235,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 25, 2022",Regular,10.00,,
+236,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 26, 2022",Regular,10.00,,
+237,,,358351 Tarik Uzunyerliler,Quality Manager,"Oct 27, 2022",Regular,10.00,,
+238,5/30/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 755.20,92443,Days
+239,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 755.20,92443,Days
+240,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,146.10",92420,Days
+241,5/30/2022,,,0.00,,$ 0.00,"$ 2,656.50",,
+242,5/31/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 755.20,92443,Days
+243,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 755.20,92443,Days
+244,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,146.10",92420,Days
+245,5/31/2022,,,0.00,,$ 0.00,"$ 2,656.50",,
+246,6/1/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 755.20,92443,Days
+247,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 755.20,92443,Days
+248,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,146.10",92420,Days
+249,6/1/2022,,,0.00,,$ 0.00,"$ 2,656.50",,
+250,6/2/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 755.20,92443,Days
+251,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 755.20,92443,Days
+252,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,146.10",92420,Days
+253,6/2/2022,,,0.00,,$ 0.00,"$ 2,656.50",,
+254,6/3/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 873.76,92443,Days
+255,6/3/2022,,,0.00,,$ 0.00,$ 873.76,,
+256,6/6/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+257,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+258,6/6/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+259,6/7/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+260,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+261,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+262,6/7/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+263,6/8/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+264,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+265,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+266,6/8/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+267,6/9/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+268,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+269,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+270,6/9/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+271,6/13/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+272,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+273,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+274,6/13/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+275,6/14/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+276,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+277,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+278,6/14/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+279,6/15/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+280,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+281,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+282,6/15/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+283,6/16/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+284,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+285,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+286,6/16/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+287,6/20/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+288,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+289,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+290,6/20/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+291,6/21/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+292,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+293,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+294,6/21/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+295,6/22/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+296,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+297,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+298,6/22/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+299,6/23/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 810.27,92443,Days
+300,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 810.27,92443,Days
+301,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,035.90",92420,Days
+302,6/23/2022,,,0.00,,$ 0.00,"$ 2,656.44",,
+303,6/27/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+304,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+305,6/27/2022,,,0.00,,$ 0.00,"$ 1,601.15",,
+306,6/28/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+307,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+308,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+309,6/28/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+310,6/29/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+311,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+312,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+313,6/29/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+314,6/30/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+315,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+316,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+317,6/30/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+318,7/5/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+319,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+320,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+321,7/5/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+322,7/6/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+323,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+324,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+325,7/6/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+326,7/7/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+327,7/7/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,$ 920.80,92420,Days
+328,7/7/2022,,,0.00,,$ 0.00,"$ 1,821.10",,
+329,7/11/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+330,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+331,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+332,7/11/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+333,7/12/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+334,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+335,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+336,7/12/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+337,7/13/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+338,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+339,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+340,7/13/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+341,7/14/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+342,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+343,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+344,7/14/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+345,7/18/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+346,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+347,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+348,7/18/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+349,7/19/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+350,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 855.29,92443,Days
+351,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+352,7/19/2022,,,0.00,,$ 0.00,"$ 2,906.59",,
+353,7/20/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+354,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+355,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+356,7/20/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+357,7/21/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+358,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+359,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+360,7/21/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+361,7/25/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+362,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+363,7/25/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+364,7/25/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+365,7/26/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+366,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+367,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+368,7/26/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+369,7/27/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+370,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+371,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+372,7/27/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+373,7/28/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+374,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+375,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+376,7/28/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+377,8/2/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+378,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+379,8/2/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+380,8/3/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+381,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+382,8/3/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+383,8/4/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+384,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+385,8/4/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+386,8/8/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+387,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+388,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+389,8/8/2022,,,0.00,,$ 0.00,"$ 2,501.45",,
+390,8/9/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+391,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+392,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+393,8/9/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+394,8/10/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+395,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+396,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+397,8/10/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+398,8/11/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+399,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+400,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+401,8/11/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+402,8/15/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+403,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+404,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+405,8/15/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+406,8/16/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 540.18,92443,Days
+407,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+408,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+409,8/16/2022,,,0.00,,$ 0.00,"$ 2,591.48",,
+410,8/17/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+411,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+412,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+413,8/17/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+414,8/18/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+415,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+416,8/18/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+417,8/18/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+418,8/22/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+419,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+420,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+421,8/22/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+422,8/23/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+423,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+424,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+425,8/23/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+426,8/24/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+427,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+428,8/24/2022,,,0.00,,$ 0.00,"$ 1,800.60",,
+429,8/25/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+430,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+431,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+432,8/25/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+433,8/29/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+434,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+435,8/29/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+436,8/30/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+437,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+438,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+439,8/30/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+440,8/31/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+441,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+442,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+443,8/31/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+444,9/1/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+445,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+446,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+447,9/1/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+448,9/6/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+449,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+450,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+451,9/6/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+452,9/7/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 180.06,92443,Days
+453,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+454,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+455,9/7/2022,,,0.00,,$ 0.00,"$ 2,231.36",,
+456,9/8/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+457,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+458,9/8/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+459,9/12/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+460,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+461,9/12/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+462,9/13/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+463,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+464,9/13/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+465,9/14/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 630.21,92443,Days
+466,9/14/2022,,,0.00,,$ 0.00,$ 630.21,,
+467,9/15/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 855.29,92443,Days
+468,9/15/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+469,9/15/2022,,,0.00,,$ 0.00,"$ 2,006.29",,
+470,9/19/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 360.12,92443,Days
+471,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+472,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+473,9/19/2022,,,0.00,,$ 0.00,"$ 1,961.27",,
+474,9/20/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 360.12,92443,Days
+475,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+476,9/20/2022,,,0.00,,$ 0.00,"$ 1,511.12",,
+477,9/21/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 270.09,92443,Days
+478,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+479,9/21/2022,,,0.00,,$ 0.00,"$ 1,421.09",,
+480,9/22/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+481,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+482,9/22/2022,,,0.00,,$ 0.00,"$ 2,051.30",,
+483,9/26/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 810.27,92443,Days
+484,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+485,9/26/2022,,,0.00,,$ 0.00,"$ 1,961.27",,
+486,9/27/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 720.24,92443,Days
+487,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+488,9/27/2022,,,0.00,,$ 0.00,"$ 1,871.24",,
+489,9/28/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+490,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+491,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+492,9/28/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+493,9/29/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+494,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+495,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+496,9/29/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+497,9/30/2022,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+498,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,$ 690.60,92420,Days
+499,9/30/2022,,,0.00,,$ 0.00,"$ 1,140.75",,
+500,10/3/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+501,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+502,10/3/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+503,10/3/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+504,10/4/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+505,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+506,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+507,10/4/2022,,,0.00,,$ 0.00,"$ 2,501.45",,
+508,10/5/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+509,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+510,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+511,10/5/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+512,10/6/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+513,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+514,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,$ 920.80,92420,Days
+515,10/6/2022,,,0.00,,$ 0.00,"$ 2,721.40",,
+516,10/11/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+517,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+518,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+519,10/11/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+520,10/12/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+521,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 450.15,92443,Days
+522,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,$ 920.80,92420,Days
+523,10/12/2022,,,0.00,,$ 0.00,"$ 2,271.25",,
+524,10/13/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+525,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+526,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+527,10/13/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+528,10/17/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+529,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+530,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+531,10/17/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+532,10/18/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+533,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+534,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+535,10/18/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+536,10/19/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+537,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+538,10/19/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+539,10/19/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+540,10/20/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+541,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+542,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+543,10/20/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+544,10/21/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+545,10/21/2022,,,0.00,,$ 0.00,"$ 1,151.00",,
+546,10/22/2022,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,$ 575.50,92420,Days
+547,10/22/2022,,,0.00,,$ 0.00,$ 575.50,,
+548,10/24/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+549,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+550,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+551,10/24/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+552,10/25/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+553,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+554,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+555,10/25/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+556,10/26/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+557,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 900.30,92443,Days
+558,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+559,10/26/2022,,,0.00,,$ 0.00,"$ 2,951.60",,
+560,10/27/2022,Quality Inspector 2,,0.00,355231 Jordan Vermeesch,$ 0.00,$ 900.30,92443,Days
+561,,Quality Inspector 2,,0.00,355380 Kyla Hunt,$ 0.00,$ 720.24,92443,Days
+562,,Quality Manager,,0.00,358351 Tarik Uzunyerliler,$ 0.00,"$ 1,151.00",92420,Days
+563,10/27/2022,,,0.00,,$ 0.00,"$ 2,771.54",,

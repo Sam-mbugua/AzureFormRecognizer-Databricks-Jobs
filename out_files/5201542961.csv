@@ -1,0 +1,134 @@
+,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
+0,4501097370,3,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Sep 19, 2022",Regular,10.00
+1,,,343377 Lorne Smuland,Industrial Labourer Semi Skill,"Sep 22, 2022",Regular,10.00
+2,,,347429 Mike Barr,Insulator Journeyman,"Sep 12, 2022",Regular,10.00
+3,,,347429 Mike Barr,Insulator Journeyman,"Sep 13, 2022",Regular,10.00
+4,,,347429 Mike Barr,Insulator Journeyman,"Sep 14, 2022",Regular,10.00
+5,,,347429 Mike Barr,Insulator Journeyman,"Sep 15, 2022",Regular,10.00
+6,,,347429 Mike Barr,Insulator Journeyman,"Sep 19, 2022",Regular,10.00
+7,,,347429 Mike Barr,Insulator Journeyman,"Sep 20, 2022",Regular,10.00
+8,,,347429 Mike Barr,Insulator Journeyman,"Sep 21, 2022",Regular,10.00
+9,,,347429 Mike Barr,Insulator Journeyman,"Sep 22, 2022",Regular,10.00
+10,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 12, 2022",Regular,10.00
+11,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 13, 2022",Regular,10.00
+12,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 14, 2022",Regular,10.00
+13,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 15, 2022",Regular,10.00
+14,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 19, 2022",Regular,10.00
+15,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 20, 2022",Regular,10.00
+16,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 21, 2022",Regular,10.00
+17,,,347471 Keith Burt,Crew Foreman - Non-Compulsory,"Sep 22, 2022",Regular,10.00
+18,,,347501 Claude Comeau,Pipefitter Journeyman,,Regular,10.00
+19,,,347501 Claude Comeau,Pipefitter Journeyman,"Sep 19, 2022",Subsistence,125.00
+20,,,347501 Claude Comeau,Pipefitter Journeyman,,Regular,10.00
+21,,,347501 Claude Comeau,Pipefitter Journeyman,"Sep 20, 2022",Subsistence,125.00
+22,,,347501 Claude Comeau,Pipefitter Journeyman,"Sep 21, 2022",Regular,10.00
+23,,,347501 Claude Comeau,Pipefitter Journeyman,,Subsistence,125.00
+24,,,347501 Claude Comeau,Pipefitter Journeyman,"Sep 22, 2022",Regular,10.00
+25,,,347501 Claude Comeau,Pipefitter Journeyman,,Subsistence,125.00
+26,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 12, 2022",Regular,10.00
+27,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 13, 2022",Regular,10.00
+28,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 14, 2022",Regular,10.00
+29,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 15, 2022",Regular,10.00
+30,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 19, 2022",Regular,10.00
+31,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 20, 2022",Regular,10.00
+32,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 21, 2022",Regular,10.00
+33,,,347520 Jeff Dahms,Industrial Labourer Skilled,"Sep 22, 2022",Regular,10.00
+34,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 12, 2022",Regular,10.00
+35,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 13, 2022",Regular,10.00
+36,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 14, 2022",Regular,10.00
+37,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 15, 2022",Regular,10.00
+38,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 19, 2022",Regular,10.00
+39,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 20, 2022",Regular,10.00
+40,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 21, 2022",Regular,10.00
+41,,,347695 John Jackson,Crew Foreman - Compulsory,"Sep 22, 2022",Regular,10.00
+42,,,347697 Adam Jackson,Scaffolder JM,"Sep 12, 2022",Regular,10.00
+43,,,347697 Adam Jackson,Scaffolder JM,"Sep 13, 2022",Regular,10.00
+44,,,347697 Adam Jackson,Scaffolder JM,"Sep 14, 2022",Regular,10.00
+45,,,347697 Adam Jackson,Scaffolder JM,"Sep 15, 2022",Regular,10.00
+46,,,347697 Adam Jackson,Scaffolder JM,"Sep 19, 2022",Regular,10.00
+47,,,347697 Adam Jackson,Scaffolder JM,"Sep 20, 2022",Regular,10.00
+48,,,347697 Adam Jackson,Scaffolder JM,"Sep 21, 2022",Regular,10.00
+49,,,347697 Adam Jackson,Scaffolder JM,"Sep 22, 2022",Regular,10.00
+50,,,347742 Dalton Kress,Scaffolder JM,"Sep 15, 2022",Regular,10.00
+51,,,347742 Dalton Kress,Scaffolder JM,"Sep 19, 2022",Regular,10.00
+52,,,347742 Dalton Kress,Scaffolder JM,"Sep 20, 2022",Regular,10.00
+53,,,347742 Dalton Kress,Scaffolder JM,"Sep 21, 2022",Regular,10.00
+54,,,347742 Dalton Kress,Scaffolder JM,"Sep 22, 2022",Regular,10.00
+55,,,347759 Sheldon Lane,GF - Compulsory,"Sep 12, 2022",Regular,10.00
+56,,,347759 Sheldon Lane,GF - Compulsory,"Sep 13, 2022",Regular,10.00
+57,,,347759 Sheldon Lane,GF - Compulsory,"Sep 14, 2022",Regular,10.00
+58,,,347759 Sheldon Lane,GF - Compulsory,"Sep 15, 2022",Regular,10.00
+59,,,347759 Sheldon Lane,GF - Compulsory,"Sep 19, 2022",Regular,10.00
+60,,,347759 Sheldon Lane,GF - Compulsory,"Sep 20, 2022",Regular,10.00
+61,,,347759 Sheldon Lane,GF - Compulsory,"Sep 21, 2022",Regular,10.00
+62,,,347759 Sheldon Lane,GF - Compulsory,"Sep 22, 2022",Regular,10.00
+63,,,347966 Donald Reaney,Scaffolder JM,"Sep 13, 2022",Regular,10.00
+64,,,347966 Donald Reaney,Scaffolder JM,"Sep 14, 2022",Regular,10.00
+65,,,347966 Donald Reaney,Scaffolder JM,"Sep 15, 2022",Regular,10.00
+66,,,347966 Donald Reaney,Scaffolder JM,"Sep 19, 2022",Regular,10.00
+67,,,347966 Donald Reaney,Scaffolder JM,"Sep 20, 2022",Regular,10.00
+68,,,347966 Donald Reaney,Scaffolder JM,"Sep 21, 2022",Regular,10.00
+69,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 12, 2022",Regular,10.00
+70,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 13, 2022",Regular,10.00
+71,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 19, 2022",Regular,10.00
+72,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 20, 2022",Regular,10.00
+73,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 21, 2022",Regular,10.00
+74,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Sep 22, 2022",Regular,10.00
+75,,,348087 Nathan Van someren,Pipefitter Journeyman,"Sep 19, 2022",Regular,10.00
+76,,,348087 Nathan Van someren,Pipefitter Journeyman,"Sep 20, 2022",Regular,10.00
+77,,,348087 Nathan Van someren,Pipefitter Journeyman,"Sep 21, 2022",Regular,10.00
+78,,,348087 Nathan Van someren,Pipefitter Journeyman,"Sep 22, 2022",Regular,10.00
+79,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Sep 19, 2022",Regular,10.00
+80,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Sep 20, 2022",Regular,10.00
+81,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Sep 21, 2022",Regular,10.00
+82,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Sep 22, 2022",Regular,10.00
+83,,,352836 Ken Orton,Scaffolder JM,,Regular,10.00
+84,,,352836 Ken Orton,Scaffolder JM,"Sep 12, 2022",Subsistence,125.00
+85,,,352836 Ken Orton,Scaffolder JM,,Regular,10.00
+86,,,352836 Ken Orton,Scaffolder JM,"Sep 13, 2022",Subsistence,125.00
+87,,,352836 Ken Orton,Scaffolder JM,"Sep 14, 2022",Regular,10.00
+88,,,352836 Ken Orton,Scaffolder JM,,Subsistence,125.00
+89,,,352836 Ken Orton,Scaffolder JM,,Regular,10.00
+90,,,352836 Ken Orton,Scaffolder JM,"Sep 15, 2022",Subsistence,125.00
+91,,,352836 Ken Orton,Scaffolder JM,"Sep 19, 2022",Regular,10.00
+92,,,352836 Ken Orton,Scaffolder JM,"Sep 19, 2022",Subsistence,125.00
+93,,,352836 Ken Orton,Scaffolder JM,"Sep 20, 2022",Regular,10.00
+94,,,352836 Ken Orton,Scaffolder JM,,Subsistence,125.00
+95,,,352836 Ken Orton,Scaffolder JM,"Sep 21, 2022",Regular,10.00
+96,,,352836 Ken Orton,Scaffolder JM,,Subsistence,125.00
+97,,,352836 Ken Orton,Scaffolder JM,"Sep 22, 2022",Regular,10.00
+98,,,352836 Ken Orton,Scaffolder JM,,Subsistence,125.00
+99,,,355164 Vimal Ganvit,Pipefitter AP 1.0 YR,,Regular,10.00
+100,,,355164 Vimal Ganvit,Pipefitter AP 1.0 YR,"Sep 21, 2022",Subsistence,125.00
+101,,,355164 Vimal Ganvit,Pipefitter AP 1.0 YR,"Sep 22, 2022",Regular,10.00
+102,,,355164 Vimal Ganvit,Pipefitter AP 1.0 YR,,Subsistence,125.00
+103,,,355331 Cynthia Jamieson,Industrial Labourer Unskilled,"Sep 12, 2022",Regular,10.00
+104,,,355331 Cynthia Jamieson,Industrial Labourer Unskilled,"Sep 13, 2022",Regular,5.00
+105,,,355331 Cynthia Jamieson,Industrial Labourer Unskilled,"Sep 14, 2022",Regular,10.00
+106,,,355331 Cynthia Jamieson,Industrial Labourer Unskilled,"Sep 15, 2022",Regular,10.00
+107,,,355500 Daniel Hegemann,Pipefitter AP 4.0 YR,"Sep 21, 2022",Regular,10.00
+108,,,355500 Daniel Hegemann,Pipefitter AP 4.0 YR,"Sep 22, 2022",Regular,10.00
+109,,,355808 Karl Rolf,Insulator Journeyman,"Sep 14, 2022",Regular,10.00
+110,,,355808 Karl Rolf,Insulator Journeyman,,Subsistence,125.00
+111,,,355808 Karl Rolf,Insulator Journeyman,"Sep 15, 2022",Regular,10.00
+112,,,355808 Karl Rolf,Insulator Journeyman,,Subsistence,125.00
+113,,,355808 Karl Rolf,Insulator Journeyman,"Sep 19, 2022",Regular,10.00
+114,,,355808 Karl Rolf,Insulator Journeyman,,Subsistence,125.00
+115,,,355808 Karl Rolf,Insulator Journeyman,"Sep 20, 2022",Regular,10.00
+116,,,355808 Karl Rolf,Insulator Journeyman,,Subsistence,125.00
+117,,,355808 Karl Rolf,Insulator Journeyman,"Sep 21, 2022",Regular,10.00
+118,,,355808 Karl Rolf,Insulator Journeyman,,Subsistence,125.00
+119,,,355808 Karl Rolf 355808 Karl Rolf,Insulator Journeyman Insulator Journeyman,"Sep 22, 2022",Regular Subsistence,10.00 125.00
+120,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 13, 2022",Regular,10.00
+121,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
+122,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 14, 2022",Regular,10.00
+123,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
+124,,,358849 Abdirashid Dahir 358849 Abdirashid Dahir,Scaffolder AP YR 4 Scaffolder AP YR 4,"Sep 15, 2022",Regular,10.00
+125,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 19, 2022",Regular,10.00
+126,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
+127,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 20, 2022",Regular,9.50
+128,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
+129,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 21, 2022",Regular,10.00
+130,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
+131,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,"Sep 22, 2022",Regular,9.50
+132,,,358849 Abdirashid Dahir,Scaffolder AP YR 4,,Subsistence,125.00
