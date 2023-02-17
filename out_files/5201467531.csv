@@ -1,68 +1,232 @@
 ,PURCHASE ORDER,LINE #,Trx Worker Name & No,Description,Work Date,Bill Type,Quantity
-0,4501097370,10,308857 Blaine Anderson HSE Coordinator 1,,"Jan 17, 2022",Regular,10.00
-1,,,308857 Blaine Anderson HSE Coordinator 1,,"Jan 18, 2022",Regular,10.00
-2,,,308857 Blaine Anderson HSE Coordinator 1,,"Jan 19, 2022",Regular,10.00
-3,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 20, 2022",Regular,10.00
-4,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 21, 2022",Overtime,10.00
-5,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 24, 2022",Regular,10.00
-6,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 25, 2022",Regular,8.00
-7,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 26, 2022",Regular,10.00
-8,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 27, 2022",Regular,10.00
-9,,,308857 Blaine Anderson,HSE Coordinator 1,"Jan 28, 2022",Regular,2.00
-10,,,308857 Blaine Anderson,HSE Coordinator 1,,Overtime,8.00
-11,,,331712 Michelle Mole,Operations Accountant 3,"Jan 17, 2022",Regular,8.00
-12,,,331712 Michelle Mole,Operations Accountant 3,"Jan 18, 2022",Regular,8.00
-13,,,331712 Michelle Mole,Operations Accountant 3,"Jan 19, 2022",Regular,8.00
-14,,,331712 Michelle Mole,Operations Accountant 3,"Jan 20, 2022",Regular,8.00
-15,,,331712 Michelle Mole,Operations Accountant 3,"Jan 21, 2022",Regular,8.00
-16,,,331712 Michelle Mole,Operations Accountant 3,"Jan 24, 2022",Regular,8.00
-17,,,331712 Michelle Mole,Operations Accountant 3,"Jan 25, 2022",Regular,8.00
-18,,,331712 Michelle Mole,Operations Accountant 3,"Jan 26, 2022",Regular,8.00
-19,,,331712 Michelle Mole,Operations Accountant 3,"Jan 27, 2022",Regular,8.00
-20,,,331712 Michelle Mole,Operations Accountant 3,"Jan 28, 2022",Regular,8.00
-21,,,348173 David Allan,HSE Coordinator 1,"Jan 17, 2022",Regular,10.00
-22,,,348173 David Allan,HSE Coordinator 1,"Jan 19, 2022",Regular,10.00
-23,,,348173 David Allan,HSE Coordinator 1,"Jan 20, 2022",Regular,10.00
-24,,,348173 David Allan,HSE Coordinator 1,"Jan 22, 2022",Regular,10.00
-25,,,348173 David Allan,HSE Coordinator 1,"Jan 23, 2022",Overtime,4.00
-26,,,348173 David Allan,HSE Coordinator 1,"Jan 24, 2022",Regular,10.00
-27,,,348173 David Allan,HSE Coordinator 1,"Jan 25, 2022",Regular,10.00
-28,,,348173 David Allan,HSE Coordinator 1,"Jan 26, 2022",Regular,10.00
-29,,,348173 David Allan,HSE Coordinator 1,"Jan 27, 2022",Regular,10.00
-30,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 17, 2022",Regular,10.00
-31,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 18, 2022",Regular,10.00
-32,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 19, 2022",Regular,10.00
-33,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 20, 2022",Regular,10.00
-34,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 24, 2022",Regular,10.00
-35,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 25, 2022",Regular,10.00
-36,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 26, 2022",Regular,10.00
-37,,,348183 Gwendolyn Fowler,Site Administrator,"Jan 27, 2022",Regular,10.00
-38,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 16, 2022",Overtime,10.00
-39,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 17, 2022",Regular,10.00
-40,,,348222 Lenard Doroshuk,Project & TA Manager,,Overtime,2.50
-41,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-42,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 18, 2022",Overtime,0.50
-43,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-44,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 19, 2022",Overtime,1.00
-45,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-46,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 20, 2022",Overtime,0.50
-47,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 21, 2022",Overtime,10.00
-48,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 22, 2022",Overtime,10.00
-49,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-50,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 24, 2022",Overtime,0.50
-51,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-52,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 25, 2022",Overtime,0.50
-53,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-54,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 26, 2022",Overtime,0.50
-55,,,348222 Lenard Doroshuk,Project & TA Manager,,Regular,10.00
-56,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 27, 2022",Overtime,0.50
-57,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 28, 2022",Overtime,10.50
-58,,,348222 Lenard Doroshuk,Project & TA Manager,"Jan 29, 2022",Overtime,2.50
-59,,,354778 Kim Davis,Accounting Clerk 3,"Jan 17, 2022",Regular,8.50
-60,,,354778 Kim Davis,Accounting Clerk 3,"Jan 18, 2022",Regular,10.00
-61,,,354778 Kim Davis,Accounting Clerk 3,"Jan 19, 2022",Regular,10.00
-62,,,354778 Kim Davis,Accounting Clerk 3,"Jan 20, 2022",Regular,10.00
-63,,,354778 Kim Davis,Accounting Clerk 3,"Jan 24, 2022",Regular,10.00
-64,,,354778 Kim Davis,Accounting Clerk 3,"Jan 25, 2022",Regular,10.00
-65,,,354778 Kim Davis,Accounting Clerk 3,"Jan 26, 2022",Regular,10.00
-66,,,354778 Kim Davis,Accounting Clerk 3,"Jan 27, 2022",Regular,10.00
+0,4501097370,3,343377 Lorne Smuland,Safety Watch 4,"Jan 31, 2022",Regular,10.00
+1,,,343377 Lorne Smuland,Safety Watch 4,"Feb 1, 2022",Regular,10.00
+2,,,343377 Lorne Smuland,Safety Watch 4,"Feb 2, 2022",Regular,10.00
+3,,,343377 Lorne Smuland,Safety Watch 4,"Feb 3, 2022",Regular,10.00
+4,,,343377 Lorne Smuland,Safety Watch 4,"Feb 7, 2022",Regular,10.00
+5,,,343377 Lorne Smuland,Safety Watch 4,"Feb 9, 2022",Regular,10.00
+6,,,343377 Lorne Smuland,Safety Watch 4,"Feb 10, 2022",Regular,10.00
+7,,,343377 Lorne Smuland,Safety Watch 4,"Feb 11, 2022",Regular,10.00
+8,,,347429 Mike Barr,Insulator Journeyman,"Jan 31, 2022",Regular,10.00
+9,,,347429 Mike Barr,Insulator Journeyman,"Feb 2, 2022",Regular,10.00
+10,,,347429 Mike Barr,Insulator Journeyman,"Feb 3, 2022",Regular,10.00
+11,,,347429 Mike Barr,Insulator Journeyman,"Feb 7, 2022",Regular,10.00
+12,,,347429 Mike Barr,Insulator Journeyman,"Feb 8, 2022",Regular,10.00
+13,,,347429 Mike Barr,Insulator Journeyman,"Feb 9, 2022",Regular,10.00
+14,,,347429 Mike Barr,Insulator Journeyman,"Feb 10, 2022",Regular,10.00
+15,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Jan 31, 2022",Regular,10.00
+16,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 1, 2022",Regular,10.00
+17,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 2, 2022",Regular,10.00
+18,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 3, 2022",Regular,10.00
+19,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 7, 2022",Regular,10.00
+20,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 8, 2022",Regular,10.00
+21,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 9, 2022",Regular,8.50
+22,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 10, 2022",Regular,10.00
+23,,,347520 Jeff Dahms,Labourer Skilled - 9900,"Feb 11, 2022",Regular,1.50
+24,,,347520 Jeff Dahms,Labourer Skilled - 9900,,Overtime,8.50
+25,,,347695 John Jackson,Pipefitter Foreman,"Jan 31, 2022",Regular,10.00
+26,,,347695 John Jackson,Pipefitter Foreman,"Feb 1, 2022",Regular,10.00
+27,,,347695 John Jackson,Pipefitter Foreman,"Feb 2, 2022",Regular,10.00
+28,,,347695 John Jackson,Pipefitter Foreman,"Feb 3, 2022",Regular,10.00
+29,,,347695 John Jackson,Pipefitter Foreman,"Feb 4, 2022",Overtime,2.00
+30,,,347695 John Jackson,Pipefitter Foreman,"Feb 7, 2022",Regular,10.00
+31,,,347695 John Jackson,Pipefitter Foreman,"Feb 8, 2022",Regular,10.00
+32,,,347695 John Jackson,Pipefitter Foreman,"Feb 9, 2022",Regular,10.00
+33,,,347695 John Jackson,Pipefitter Foreman,"Feb 10, 2022",Regular,10.00
+34,,,347695 John Jackson,Pipefitter Foreman,"Feb 11, 2022",Overtime,10.00
+35,,,347697 Adam Jackson,Scaffolder JM,"Jan 31, 2022",Regular,10.00
+36,,,347697 Adam Jackson,Scaffolder JM,"Feb 1, 2022",Regular,10.00
+37,,,347697 Adam Jackson,Scaffolder JM,"Feb 2, 2022",Regular,10.00
+38,,,347697 Adam Jackson,Scaffolder JM,"Feb 3, 2022",Regular,10.00
+39,,,347697 Adam Jackson,Scaffolder JM,"Feb 7, 2022",Regular,10.00
+40,,,347697 Adam Jackson,Scaffolder JM,"Feb 8, 2022",Regular,10.00
+41,,,347697 Adam Jackson,Scaffolder JM,"Feb 9, 2022",Regular,10.00
+42,,,347697 Adam Jackson,Scaffolder JM,"Feb 10, 2022",Regular,10.00
+43,,,347697 Adam Jackson,Scaffolder JM,"Feb 11, 2022",Overtime,10.00
+44,,,347703 Gerald Jennex,Scheduler/Planner 2,"Jan 31, 2022",Regular,10.00
+45,,,347703 Gerald Jennex,Scheduler/Planner 2,"Feb 1, 2022",Regular,10.00
+46,,,347703 Gerald Jennex,Scheduler/Planner 2,"Feb 2, 2022",Regular,10.00
+47,,,347703 Gerald Jennex,Scheduler/Planner 2,"Feb 7, 2022",Regular,10.00
+48,,,347732 Michael Kinney,Labourer Skilled - 9900,"Jan 31, 2022",Regular,10.00
+49,,,347732 Michael Kinney,Labourer Skilled - 9900,"Feb 1, 2022",Regular,10.00
+50,,,347732 Michael Kinney,Labourer Skilled - 9900,"Feb 2, 2022",Regular,10.00
+51,,,347732 Michael Kinney,Labourer Skilled - 9900,"Feb 3, 2022",Regular,10.00
+52,,,347742 Dalton Kress,Scaffolder FM,"Jan 31, 2022",Regular,10.00
+53,,,347742 Dalton Kress,Scaffolder FM,"Feb 1, 2022",Regular,10.00
+54,,,347742 Dalton Kress,Scaffolder FM,"Feb 2, 2022",Regular,10.00
+55,,,347742 Dalton Kress,Scaffolder FM,"Feb 3, 2022",Regular,10.00
+56,,,347742 Dalton Kress,Scaffolder FM,"Feb 7, 2022",Regular,10.00
+57,,,347742 Dalton Kress,Scaffolder FM,"Feb 8, 2022",Regular,10.00
+58,,,347742 Dalton Kress,Scaffolder FM,"Feb 9, 2022",Regular,10.00
+59,,,347742 Dalton Kress,Scaffolder FM,"Feb 10, 2022",Regular,10.00
+60,,,347759 Sheldon Lane,Pipefitter General Foreman,"Jan 31, 2022",Regular,10.00
+61,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 1, 2022",Regular,10.00
+62,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 2, 2022",Regular,10.00
+63,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 3, 2022",Regular,10.00
+64,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 7, 2022",Regular,10.00
+65,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 8, 2022",Regular,10.00
+66,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 9, 2022",Regular,10.00
+67,,,347759 Sheldon Lane,Pipefitter General Foreman,"Feb 10, 2022",Regular,10.00
+68,,,347966 Donald Reaney,Scaffolder JM,"Feb 1, 2022",Regular,10.00
+69,,,347966 Donald Reaney,Scaffolder JM,"Feb 2, 2022",Regular,10.00
+70,,,347966 Donald Reaney,Scaffolder JM,"Feb 3, 2022",Regular,10.00
+71,,,347966 Donald Reaney,Scaffolder JM,"Feb 7, 2022",Regular,10.00
+72,,,347966 Donald Reaney,Scaffolder JM,"Feb 8, 2022",Regular,10.00
+73,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Jan 31, 2022",Regular,10.00
+74,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 1, 2022",Regular,10.00
+75,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 2, 2022",Regular,10.00
+76,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 3, 2022",Regular,10.00
+77,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 8, 2022",Regular,10.00
+78,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 9, 2022",Regular,10.00
+79,,,348027 Conrad Skogman,Scaffolder AP 3 YR,"Feb 10, 2022",Regular,10.00
+80,,,348087 Nathan Van someren,Pipefitter Journeyman,"Jan 31, 2022",Regular,10.00
+81,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 1, 2022",Regular,10.00
+82,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 2, 2022",Regular,10.00
+83,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 3, 2022",Regular,10.00
+84,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 7, 2022",Regular,10.00
+85,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 8, 2022",Regular,10.00
+86,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 9, 2022",Regular,10.00
+87,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 10, 2022",Regular,10.00
+88,,,348087 Nathan Van someren,Pipefitter Journeyman,"Feb 11, 2022",Overtime,10.00
+89,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Jan 31, 2022",Regular,10.00
+90,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 1, 2022",Regular,10.00
+91,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 2, 2022",Regular,10.00
+92,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 3, 2022",Regular,10.00
+93,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 7, 2022",Regular,10.00
+94,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 8, 2022",Regular,10.00
+95,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 9, 2022",Regular,10.00
+96,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 10, 2022",Regular,10.00
+97,,,348103 Jesse Watamaniuk,Pipefitter Journeyman,"Feb 11, 2022",Overtime,10.00
+98,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Jan 31, 2022",Regular,10.00
+99,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 1, 2022",Regular,10.00
+100,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 2, 2022",Regular,10.00
+101,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 3, 2022",Regular,10.00
+102,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 7, 2022",Regular,10.00
+103,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 8, 2022",Regular,10.00
+104,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 9, 2022",Regular,10.00
+105,,,348141 Christopher Zeuchner,Pipefitter Journeyman,"Feb 10, 2022",Regular,10.00
+106,,,348141 Christopher Zeuchner,Pipefitter Foreman,"Feb 11, 2022",Overtime,10.00
+107,,,352630 Cody Lychuk,Insulator Journeyman,"Jan 31, 2022",Regular,10.00
+108,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 1, 2022",Regular,10.00
+109,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 2, 2022",Regular,10.00
+110,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 3, 2022",Regular,10.00
+111,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 7, 2022",Regular,10.00
+112,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 8, 2022",Regular,10.00
+113,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 9, 2022",Regular,10.00
+114,,,352630 Cody Lychuk,Insulator Journeyman,"Feb 10, 2022",Regular,10.00
+115,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 1, 2022",Regular,10.00
+116,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 2, 2022",Regular,10.00
+117,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 3, 2022",Regular,10.00
+118,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 7, 2022",Regular,10.00
+119,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 8, 2022",Regular,10.00
+120,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 9, 2022",Regular,10.00
+121,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 10, 2022",Regular,10.00
+122,,,353795 Jaret Lambert,Pipefitter Journeyman,"Feb 11, 2022",Overtime,10.00
+123,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+124,,,354605 Gil Garcia,Scaffolder JM,"Jan 31, 2022",Subsistence,115.00
+125,,,354605 Gil Garcia,Scaffolder JM,"Feb 1, 2022",Regular,10.00
+126,,,354605 Gil Garcia,Scaffolder JM,,Subsistence,115.00
+127,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+128,,,354605 Gil Garcia,Scaffolder JM,"Feb 2, 2022",Subsistence,115.00
+129,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+130,,,354605 Gil Garcia,Scaffolder JM,"Feb 3, 2022",Subsistence,115.00
+131,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+132,,,354605 Gil Garcia,Scaffolder JM,"Feb 7, 2022",Subsistence,115.00
+133,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+134,,,354605 Gil Garcia,Scaffolder JM,"Feb 8, 2022",Subsistence,115.00
+135,,,354605 Gil Garcia,Scaffolder JM,,Regular,10.00
+136,,,354605 Gil Garcia,Scaffolder JM,"Feb 9, 2022",Subsistence,115.00
+137,,,354605 Gil Garcia,Scaffolder JM,"Feb 10, 2022",Regular,10.00
+138,,,354605 Gil Garcia,Scaffolder JM,,Subsistence,115.00
+139,,,354623 cesar Abriza,Scaffolder JM,"Jan 31, 2022",Regular,10.00
+140,,,354623 cesar Abriza,Scaffolder JM,,Subsistence,115.00
+141,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+142,,,354623 cesar Abriza,Scaffolder JM,"Feb 1, 2022",Subsistence,115.00
+143,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+144,,,354623 cesar Abriza,Scaffolder JM,"Feb 2, 2022",Subsistence,115.00
+145,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+146,,,354623 cesar Abriza,Scaffolder JM,"Feb 3, 2022",Subsistence,115.00
+147,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+148,,,354623 cesar Abriza,Scaffolder JM,"Feb 7, 2022",Subsistence,115.00
+149,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+150,,,354623 cesar Abriza,Scaffolder JM,"Feb 8, 2022",Subsistence,115.00
+151,,,354623 cesar Abriza,Scaffolder JM,,Regular,10.00
+152,,,354623 cesar Abriza,Scaffolder JM,"Feb 9, 2022",Subsistence,115.00
+153,,,354623 cesar Abriza,Scaffolder JM,"Feb 10, 2022",Regular,10.00
+154,,,354623 cesar Abriza,Scaffolder JM,,Subsistence,115.00
+155,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+156,,,354658 John ian Amporias,Scaffolder JM,"Jan 31, 2022",Subsistence,115.00
+157,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+158,,,354658 John ian Amporias,Scaffolder JM,"Feb 1, 2022",Subsistence,115.00
+159,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+160,,,354658 John ian Amporias,Scaffolder JM,"Feb 2, 2022",Subsistence,115.00
+161,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+162,,,354658 John ian Amporias,Scaffolder JM,"Feb 3, 2022",Subsistence,115.00
+163,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+164,,,354658 John ian Amporias,Scaffolder JM,"Feb 7, 2022",Subsistence,115.00
+165,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+166,,,354658 John ian Amporias,Scaffolder JM,"Feb 8, 2022",Subsistence,115.00
+167,,,354658 John ian Amporias Scaffolder JM,,,Regular,10.00
+168,,,354658 John ian Amporias Scaffolder JM,,"Feb 9, 2022",Subsistence,115.00
+169,,,354658 John ian Amporias,Scaffolder JM,,Regular,10.00
+170,,,354658 John ian Amporias,Scaffolder JM,"Feb 10, 2022",Subsistence,115.00
+171,,,354690 Nathan Barker,Pipefitter Journeyman,"Jan 31, 2022",Regular,10.00
+172,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 1, 2022",Regular,10.00
+173,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 2, 2022",Regular,10.00
+174,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 3, 2022",Regular,10.00
+175,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 7, 2022",Regular,10.00
+176,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 8, 2022",Regular,10.00
+177,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 9, 2022",Regular,10.00
+178,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 10, 2022",Regular,10.00
+179,,,354690 Nathan Barker,Pipefitter Journeyman,"Feb 11, 2022",Overtime,10.00
+180,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+181,,,354848 Dylan Haupt,Pipefitter Journeyman,"Jan 31, 2022",Subsistence,115.00
+182,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+183,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 1, 2022",Subsistence,115.00
+184,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+185,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 2, 2022",Subsistence,115.00
+186,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+187,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 3, 2022",Subsistence,115.00
+188,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+189,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 7, 2022",Subsistence,115.00
+190,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+191,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 8, 2022",Subsistence,115.00
+192,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+193,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 9, 2022",Subsistence,115.00
+194,,,354848 Dylan Haupt,Pipefitter Journeyman,,Regular,10.00
+195,,,354848 Dylan Haupt,Pipefitter Journeyman,"Feb 10, 2022",Subsistence,115.00
+196,,,354848 Dylan Haupt Pipefitter Journeyman,,"Feb 11, 2022",Overtime,10.00
+197,,,354848 Dylan Haupt,Pipefitter Journeyman,,Subsistence,115.00
+198,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Jan 31, 2022",Regular,10.00
+199,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 1, 2022",Regular,10.00
+200,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 2, 2022",Regular,5.00
+201,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 3, 2022",Regular,10.00
+202,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 7, 2022",Regular,10.00
+203,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 8, 2022",Regular,10.00
+204,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 9, 2022",Regular,10.00
+205,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 10, 2022",Regular,10.00
+206,,,355150 Ronnie Odo,Pipefitter AP 3.0 YR,"Feb 11, 2022",Overtime,10.00
+207,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+208,,,355385 Mohamed Shire,Labourer Entry,"Feb 1, 2022",Subsistence,115.00
+209,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+210,,,355385 Mohamed Shire,Labourer Entry,"Feb 2, 2022",Subsistence,115.00
+211,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+212,,,355385 Mohamed Shire,Labourer Entry,"Feb 3, 2022",Subsistence,115.00
+213,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+214,,,355385 Mohamed Shire,Labourer Entry,"Feb 8, 2022",Subsistence,115.00
+215,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+216,,,355385 Mohamed Shire,Labourer Entry,"Feb 9, 2022",Subsistence,115.00
+217,,,355385 Mohamed Shire,Labourer Entry,,Regular,10.00
+218,,,355385 Mohamed Shire,Labourer Entry,"Feb 10, 2022",Subsistence,115.00
+219,,,355647 Sky Langevin-Love,Labourer Entry,"Feb 7, 2022",Regular,10.00
+220,,,355647 Sky Langevin-Love,Labourer Entry,"Feb 8, 2022",Regular,10.00
+221,,,355647 Sky Langevin-Love,Labourer Entry,"Feb 9, 2022",Regular,10.00
+222,,,355647 Sky Langevin-Love,Labourer Entry,"Feb 10, 2022",Regular,10.00
+223,,,355647 Sky Langevin-Love,Labourer Entry,"Feb 11, 2022",Overtime,10.00
+224,,,355938 Darrell Coughlin,Scheduler/Planner 2,"Jan 31, 2022",Regular,10.00
+225,,,355938 Darrell Coughlin,Scheduler/Planner 2,"Feb 1, 2022",Regular,10.00
+226,,,355938 Darrell Coughlin,Scheduler/Planner 2,"Feb 2, 2022",Regular,10.00
+227,,,355938 Darrell Coughlin,Scheduler/Planner 2,"Feb 3, 2022",Regular,10.00
+228,,,355938 Darrell Coughlin,Scheduler/Planner 2,"Feb 7, 2022",Regular,10.00
+229,,,356092 Jeff Watkins,Scaffolder JM,"Feb 10, 2022",Regular,10.00
+230,,,356092 Jeff Watkins,Scaffolder JM,,Subsistence,115.00

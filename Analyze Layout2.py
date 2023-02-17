@@ -146,156 +146,92 @@ def json_form_recognizer_extract(resp_json,page):
 # COMMAND ----------
 
 #clean each dataframe
-def prep_form_recognizer_table4_old(df4):
-    #Replace empty string with None for all columns
-    df4 = df4.replace(r'^\s*$', np.nan, regex=True)
-
-    #some pages have an empty row at the top. Remove it
-    if df4.isnull().sum(axis=1)[0] == len(pandas_df4.columns):
-        df4 = df4.drop([0]).reset_index(drop=True)
-
-    # if second last column has > 55% Nulls 
-    # coalesce with third last column and drop it
-    last_2nd_col = len(df4.columns)-2
-    last_3rd_col = len(df4.columns)-3
-    percent_missing = df4[last_2nd_col].isnull().sum() * 100 / len(df4)
-
-    if percent_missing > 55 and (df4[last_3rd_col].mode()[0] in ['Regular','Subsistence','Overtime','Hourly - Working']):
-        df4[last_3rd_col] = df4[last_3rd_col].combine_first(df4[last_2nd_col])
-        df4 = df4.drop([last_2nd_col],axis=1)
-
-    # delete all columns with > 75 % or > 82 %null apart from the first 2
-    null_percentage = df4.isnull().sum()/len(df4)
-    if len(null_percentage[null_percentage<0.75]) >= 5 :
-        col_to_drop = null_percentage[null_percentage>0.75].keys()
-    else:
-        col_to_drop = null_percentage[null_percentage>0.82].keys()
-        
-    # some forms have a different structure - delete all columns with > 75 % null apart from the first 3    
-    if df4[2][0] == 'WORK ORDER #':
-        df4 = df4.drop(col_to_drop[4:], axis=1)
-    else:
-        df4 = df4.drop(col_to_drop[2:], axis=1)
-        
-        
-    # Standard format achieved - clean for the two format types
-    if len(df4.columns) == 7:
-        # seven columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
-        df4 = df4.set_axis(['PURCHASE ORDER','LINE #','Trx Worker Name & No','Description','Work Date','Bill Type','Quantity'], axis=1, inplace=False)
-
-        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date
-        #df4 = df4.filter(~F.isnull(F.col("Description")))
-        df4 = df4.dropna(subset=['Description','Work Date'], how='all')
-
-        #Column Trx Worker Name & No: Drop all rows containing “Total”. 
-        df4 = df4[~df4["Trx Worker Name & No"].str.contains("Total")]
-    elif len(df4.columns) == 8:
-        # eight columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
-        df4 = df4.set_axis(['PURCHASE ORDER','LINE #','WORK ORDER #','Work Date','Resource','Description','Bill Type','Quantity'], axis=1, inplace=False)
-
-        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date 
-        df4 = df4.dropna(subset=['Resource','Description','Bill Type'], how='all')
-    return df4
-
-# COMMAND ----------
-
-#clean each dataframe
-def prep_form_recognizer_table4_old(df4):
-    #Replace empty string with None for all columns
-    df4 = df4.replace(r'^\s*$', None, regex=True)
-    
-    #clean out rows that have null values across multiple columns
-    df4 = df4.dropna(subset=df4.columns[3:-1], how='all') 
-    
-    #clean out columns that are 100% null
-    null_percentage = df4.isnull().sum()/len(df4)
-    col_to_drop = null_percentage[null_percentage==1].keys()
-    df4 = df4.drop(col_to_drop, axis=1)
-
-    # null columns are found in between columns of interest
-    #if two consecutive columns beyond column 4 have >50% null coalesce them
-    counter=4
-    col_curr = df4.columns[counter]
-    col_prev = df4.columns[counter-1]
-    while col_curr < df4.columns[-1] and counter<len(df4.columns):
-        if (df4[col_curr].isnull().sum()/len(df4) > 0.5) or (df4[col_prev].isnull().sum()/len(df4) > 0.5):
-            df4[col_curr] = df4[col_curr].combine_first(df4[col_prev])
-            df4 = df4.drop([col_prev],axis=1)
-        counter+=1
-        if counter<len(df4.columns):
-            col_curr = df4.columns[counter]
-            col_prev = df4.columns[counter-1]
-        else:
-            break
-        
-    # Standard format achieved - rename columns
-    if len(df4.columns) == 7:
-        # seven columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
-        df4 = df4.set_axis(['PURCHASE ORDER','LINE #','Trx Worker Name & No','Description','Work Date','Bill Type','Quantity'], axis=1, inplace=False)
-
-        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date
-        #df4 = df4.filter(~F.isnull(F.col("Description")))
-        df4 = df4.dropna(subset=['Description','Work Date'], how='all')
-    elif len(df4.columns) == 8:
-        # eight columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
-        df4 = df4.set_axis(['PURCHASE ORDER','LINE #','WORK ORDER #','Work Date','Resource','Description','Bill Type','Quantity'], axis=1, inplace=False)
-    return df4
-
-# COMMAND ----------
-
-#clean each dataframe
 def prep_form_recognizer_table4(df4):
     #Replace empty string with None for all columns
     df4 = df4.replace(r'^\s*$', np.nan, regex=True)
 
     #clean out rows that have null values across multiple columns
-    #df4 = df4[df.notnull().sum(axis=1) < 6]
-    df4 = df4.dropna(thresh=df4.shape[1]-6, axis=0)
-
+    df4 = df4.dropna(thresh=3, axis=0)
+    # remove rows with Total
+    for i in df4.columns:
+        df4 = df4[~df4[i].astype(str).str.contains('Total',na=False)]
 
     #clean out columns that are 100% null
     null_percentage = df4.isnull().sum()/len(df4)
     col_to_drop = null_percentage[null_percentage==1].keys()
     df4 = df4.drop(col_to_drop, axis=1).reset_index(drop=True)
 
-
     # rename index 0 to 7
     df4.columns = list(range(0,len(df4.columns)))
 
-    # check for work date
-    work_date_index = [idx for idx, s in enumerate(df4.mode().iloc[0]) if '2022' in s][0]
-    pattern = "[0-9]*\s[A-Z][a-z]*\s[A-Z][a-z]*"
-    work_name_index = [idx for idx, s in enumerate(df4.mode().iloc[0]) if re.search(pattern, s)][0]
+    # check for different indices based on mode
+    # remove first row with column names to avoid errors with mode
+    df4 = df4.drop(pandas_df4.index[0])
+    # if all rows were dropped return empty dataframe
+    if df4.empty:
+        return pd.DataFrame()
+    col_type_ls = [prep_col_identifier(df4,x) for x in df4.columns]
+    if "worker name" in col_type_ls:
+        work_name_index = col_type_ls.index("worker name") 
+    else:
+        work_name_index = col_type_ls.index("description") + 2
     quantity_index = len(df4.columns)-1
 
     # null columns are found in between columns of interest
     #if two consecutive columns beyond column 4 have >50% null coalesce them       
-    for col in range(work_name_index+2,work_date_index):
-        df4[col] = df4[col].combine_first(df4[col-1])
-        df4 = df4.drop([col-1],axis=1)
+    for col in range(work_name_index+2,quantity_index):
+        col_type_curr=prep_col_identifier(df4,col)
+        col_type_prev=prep_col_identifier(df4,col-1)
+        if (not col_type_curr) or (not col_type_prev) or (col_type_curr == col_type_prev):
+            df4[col] = df4[col].combine_first(df4[col-1])
+            df4 = df4.drop([col-1],axis=1)
 
-    for col in range(work_date_index+2,quantity_index):
-        df4[col] = df4[col].combine_first(df4[col-1])
-        df4 = df4.drop([col-1],axis=1)
-        
     # Standard format achieved - rename columns
     if len(df4.columns) == 7:
         # seven columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
         df4 = df4.set_axis(['PURCHASE ORDER','LINE #','Trx Worker Name & No','Description','Work Date','Bill Type','Quantity'], axis=1, inplace=False)
-
-        #Columns Description & Work Date: Drop all null rows. Those rows are totals for each worker each date
-        #df4 = df4.filter(~F.isnull(F.col("Description")))
-        df4 = df4.dropna(subset=['Description','Work Date'], how='all')
     elif len(df4.columns) == 8:
         # eight columns remain. Delete numeric index and rename them
-        df4 = df4.rename(columns=pandas_df4.iloc[0]).drop(pandas_df4.index[0])
         df4 = df4.set_axis(['PURCHASE ORDER','LINE #','WORK ORDER #','Work Date','Resource','Description','Bill Type','Quantity'], axis=1, inplace=False)
     return df4
+
+# COMMAND ----------
+
+# MAGIC %md ##Column Identifier
+
+# COMMAND ----------
+
+def prep_col_identifier(df,idx):
+    mod_val = df[idx].mode()
+    
+    work_name_pattern = "^[0-9]+\s+[ A-Za-z0-9_@./#&+-]+"
+    work_order_pattern = "^[0-9]+$"
+    desc_pattern ='[\w\- ]*'
+    quantity_pattern = r'^(\d*\.\d*)$'
+    if mod_val.empty:
+        return None
+    elif mod_val.str.contains("PURCHASE").any():
+        return 'purchase order'
+    elif mod_val.str.contains("LINE").any():
+        return 'line'
+    elif mod_val.str.contains("2022").any():
+        return 'work date'
+    elif re.search(work_name_pattern, mod_val[0]):
+        # worker name or resource
+        return "worker name"
+    elif mod_val[0] in ['Regular','Subsistence','Overtime','Hourly','Hourly - Working','Hourly - Workin','Hourly - Standb','Hourly - Standby']:
+        return "bill type"
+    elif re.search(work_order_pattern, mod_val[0]):
+        # worker name or resource
+        return "work order"
+    elif re.search(quantity_pattern, mod_val[0]):
+        # worker name or resource
+        return "quantity"
+    elif re.search(desc_pattern, mod_val[0]):
+        # worker name or resource
+        return "description"
+    else:
+        return None
 
 # COMMAND ----------
 
@@ -343,10 +279,10 @@ for file in files_dir:
     source = input_folder+r"/"+file
     
     # load file
-    returned_url = form_recognizer_input(source)
+    #returned_url = form_recognizer_input(source)
     
     #obtain json and collect performance data
-    json_load_res = json_form_recognizer_load(returned_url) 
+    #json_load_res = json_form_recognizer_load(returned_url) 
     resp_json = json_load_res[0]
     perf_data = [[file, json_load_res[2],json_load_res[3], json_load_res[1]]]
     perf_df = pd.DataFrame(perf_data, columns=['File', 'Trials','Duration', 'Final Status'])
@@ -384,6 +320,183 @@ display(perf_df_res)
 # COMMAND ----------
 
 display(perf_df_res)
+
+# COMMAND ----------
+
+# MAGIC %md ##Debug
+
+# COMMAND ----------
+
+file
+
+# COMMAND ----------
+
+df4 = pandas_df4
+#Replace empty string with None for all columns
+df4 = df4.replace(r'^\s*$', np.nan, regex=True)
+
+#clean out rows that have null values across multiple columns
+df4 = df4.dropna(thresh=3, axis=0)
+# remove rows with Total
+for i in df4.columns:
+    df4 = df4[~df4[i].astype(str).str.contains('Total',na=False)]
+
+#clean out columns that are 100% null
+null_percentage = df4.isnull().sum()/len(df4)
+col_to_drop = null_percentage[null_percentage==1].keys()
+df4 = df4.drop(col_to_drop, axis=1).reset_index(drop=True)
+
+# rename index 0 to 7
+df4.columns = list(range(0,len(df4.columns)))
+
+
+# check for different indices based on mode
+# remove first row with column names to avoid errors with mode
+df4 = df4.drop(pandas_df4.index[0])
+if df4.empty:
+    df4 =  pd.DataFrame()
+
+
+
+
+
+display(df4)
+
+# COMMAND ----------
+
+if df4.empty:
+    print(9)
+
+# COMMAND ----------
+
+list(range(work_name_index+2,quantity_index))
+
+# COMMAND ----------
+
+col_type_ls = [prep_col_identifier(df4,x) for x in df4.columns]
+if 'work date' in col_type_ls:
+    work_date_index = col_type_ls.index('work date') 
+else:
+    work_date_index = col_type_ls.index('description') 
+work_date_index
+
+# COMMAND ----------
+
+[prep_col_identifier(df4,x) for x in df4.columns].index('description') 
+
+# COMMAND ----------
+
+[prep_col_identifier(df4,x) for x in df4.columns].index('work date') 
+
+# COMMAND ----------
+
+for idx in df4.columns:
+    print(prep_col_identifier(df4,idx))
+
+# COMMAND ----------
+
+[idx for idx, s in enumerate(df4.mode().iloc[0].astype(str)) if '2022' in s]
+
+# COMMAND ----------
+
+df4.mode().iloc[0].astype(str)
+
+# COMMAND ----------
+
+df4
+
+# COMMAND ----------
+
+list(range(work_name_index+2,quantity_index))
+
+# COMMAND ----------
+
+(prep_col_identifier(df4,3),prep_col_identifier(df4,4),prep_col_identifier(df4,5),prep_col_identifier(df4,6))
+
+# COMMAND ----------
+
+if df4[3].mode().empty:
+    print(4)
+
+# COMMAND ----------
+
+df4
+
+# COMMAND ----------
+
+[idx for idx, s in enumerate(df4.mode().iloc[0]) if '2022' in s][0]
+
+# COMMAND ----------
+
+[idx for idx, s in enumerate(df4.mode().iloc[0].astype(str)) if '2022' in s][0]
+
+# COMMAND ----------
+
+df4.mode().iloc[0].astype(str)
+
+# COMMAND ----------
+
+for i in enumerate(df4.mode().iloc[0]):
+    print('2022' in i)
+
+# COMMAND ----------
+
+# remove rows with Total
+df3 = df4[~df4[3].str.contains('Total',na=False)]
+display(df3)
+
+# COMMAND ----------
+
+# remove rows with Total
+df4 = df4[~df4[3].str.contains('Total',na=False)]
+
+# COMMAND ----------
+
+df4.mode().iloc[0]
+
+# COMMAND ----------
+
+list(range(work_name_index+2,quantity_index))
+
+# COMMAND ----------
+
+(df4[4].mode()[0],df4[5].mode()[0],df4[6].mode()[0])
+
+# COMMAND ----------
+
+(prep_col_identifier(df4,4),prep_col_identifier(df4,5),prep_col_identifier(df4,6))
+
+# COMMAND ----------
+
+pattern = "^[0-9]+\s+[ A-Za-z0-9_@./#&+-]+"
+re.search(pattern, df4[4].mode()[0])
+
+# COMMAND ----------
+
+print(df4[5].mode()[0])
+
+# COMMAND ----------
+
+# null columns are found in between columns of interest
+#if two consecutive columns beyond column 4 have >50% null coalesce them       
+for col in range(work_name_index+2,quantity_index):
+    if prep_col_identifier(df4,col) == prep_col_identifier(df4,col-1):
+        df4[col] = df4[col].combine_first(df4[col-1])
+        df4 = df4.drop([col-1],axis=1)
+        
+display(df4)
+
+# COMMAND ----------
+
+pandas_df4
+
+# COMMAND ----------
+
+df4
+
+# COMMAND ----------
+
+pd.to_numeric(df4['Quantity']).sum()
 
 # COMMAND ----------
 
